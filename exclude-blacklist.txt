@@ -3,8 +3,8 @@
 (sample|trailer)-
 (sample|trailer)[.]
 -(sample|trailer)$
--s[.]
 -sample
+-s[.]
 \((sample|trailer)\)
 \[(sample|trailer)\]
 ^(sample|trailer)

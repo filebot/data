@@ -204,7 +204,6 @@ Anime-Legion
 anime-rg
 Anime-Supreme
 Anime-Takeover
-anime_fin
 Animebreaker
 AniMecha
 AnimeClipse
@@ -212,6 +211,7 @@ AnimeKai
 animeNOW
 AnimesPLUS
 AnimeYuki
+anime_fin
 Anipl0x
 ANiPUNK
 AniTen
@@ -635,7 +635,6 @@ D0NK
 D0PE
 D2V
 D3Si
-D_Z0N3
 DA-C
 DAA
 DaDuck
@@ -806,6 +805,7 @@ dvsky
 DX
 DXO
 DYNAMiCS
+D_Z0N3
 E-D
 E-Portal
 E7
@@ -1033,7 +1033,6 @@ G.AX
 g0tm1Lk
 G3LHD
 G3N3
-G_P
 GAGE
 GALACTiCA
 GANOOL
@@ -1132,6 +1131,7 @@ GWP
 GWViD
 GxP
 GZP
+G_P
 h-b
 H-Chu
 H-S
@@ -1680,9 +1680,9 @@ MOBBit
 MOCHI
 MoE
 Moe.AP
-MoE_AP
 Moebius
 MoeTV
+MoE_AP
 MoF
 MoH
 Mokyu~
@@ -2061,7 +2061,6 @@ R0CKED
 R10
 R3QU3ST
 R4F
-R_Knorloading
 Ra-C
 Rabbit-Force
 rabomil
@@ -2192,6 +2191,7 @@ Ryotox
 RyS
 Ryugan
 Ryuumaru
+R_Knorloading
 S-A
 s-f
 S-G
@@ -2237,8 +2237,8 @@ Scratched
 SCREAM
 ScWb
 SD-Project
-SD_Taka
 SDH
+SD_Taka
 SecretMyth
 SECTOR7
 SEIAKUSETSU
@@ -2328,13 +2328,13 @@ SLOMO
 SLOW
 SlowHD
 SM-Subs
-SM_LoC
 SMC
 sMi
 SMoKeR
 SMRKings
 SMRPRTY
 Smurfenlars
+SM_LoC
 snavE
 SNCo
 Sneak
