@@ -207,6 +207,7 @@ STRATOS
 STV
 Sub
 SUBBED
+SUBFRENCH
 Subs
 Subtit
 Subtitle
@@ -244,7 +245,7 @@ vo
 Volume.TB
 Western
 WS
-www.[\p{Alnum}\p{Punct}]+?.(com|net|tk|ro|cd|me|de|pe)
+www[.][\p{Alnum}\p{Punct}]+?[.](com|net|tk|ro|cd|me|de|pe|cm)
 x0r
 xbmc
 XORBiTANT

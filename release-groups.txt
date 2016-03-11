@@ -1,7 +1,3 @@
-GZCrew
-RIPLEY
-JaJunge
-
 0Ac
 0MNiDVD
 0PTiMUS
@@ -874,6 +870,7 @@ ETHOS
 ETM
 ETMID
 ETRG
+ettv
 EU
 EucHD
 EuchHD
@@ -1135,6 +1132,7 @@ GW
 GWP
 GWViD
 GxP
+GZCrew
 GZP
 G_P
 h-b
@@ -1378,6 +1376,7 @@ JACKAL
 jackoneill
 JACKVID
 JADE
+JaJunge
 Jan55
 JaneDoe
 JAPHSON
@@ -2143,6 +2142,7 @@ RightSiZE
 RIKU
 RiP
 RIPinpieces
+RIPLEY
 RiplleyHD
 Ripp3rX
 RippingGods
@@ -2844,6 +2844,7 @@ Yibis
 YIFY
 YingYang-Subs
 YMG
+Yn1D
 YnK
 YoHo
 YOUFORGOTTOREPACKTHIS
