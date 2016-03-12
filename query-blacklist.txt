@@ -6,9 +6,11 @@
 .+(movies|tv.shows)$
 1-3-3-8.com
 10.bit
+1080
 18p
 2DDL
 3D
+720
 7p
 @KIDZ
 A.PROCESAR
