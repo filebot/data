@@ -17,6 +17,7 @@
 @KIDZ
 A.PROCESAR
 A.Release.Lounge
+AAC.?\d*
 ABC
 Abenteuerfilm
 AC3D
