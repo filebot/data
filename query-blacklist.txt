@@ -17,7 +17,6 @@
 @KIDZ
 A.PROCESAR
 A.Release.Lounge
-AAC\d*
 ABC
 Abenteuerfilm
 AC3D
@@ -179,7 +178,8 @@ PROPER
 ProSieben.MAXX
 PS3
 PSP
-QEBS\d*
+QEBS
+QEBS.\d+
 READNFO
 REAL.PROPER
 RecordedTV
@@ -227,6 +227,7 @@ ToSort
 TPB
 Tragikomödie
 TransmissionDL
+trilogy
 TRUEDEF
 TRUEFRENCH
 TS
