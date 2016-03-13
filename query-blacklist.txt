@@ -227,7 +227,6 @@ ToSort
 TPB
 Tragikomödie
 TransmissionDL
-trilogy
 TRUEDEF
 TRUEFRENCH
 TS
