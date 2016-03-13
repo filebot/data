@@ -8,8 +8,10 @@
 10.bit
 1080
 18p
+2D
 2DDL
 3D
+3DFP
 720
 7p
 @KIDZ
