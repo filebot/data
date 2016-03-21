@@ -96,6 +96,7 @@ French
 funxd
 GER
 German
+ger\d{3,}
 Hard.Subbed
 HAVE.TO.BE.CUT
 HBO
@@ -261,6 +262,7 @@ Zune
 [1-9].?of.?[1-9]
 \d{2,4}.\b\d{2}.\b\d{2}.\b\d{2}.\b\d{2}
 \d{3,4}[pi]
+\d{5,}.track.\d{4,}
 \d{8}.\d{4}
 ^(downloads|amc).*$
 ^(tvp|tvs)
