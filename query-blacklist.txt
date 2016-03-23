@@ -145,6 +145,7 @@ LIMITED
 LMAO
 lol
 Los.Sustitutos
+Love
 LowDef
 M.HD
 MegaPack
@@ -357,7 +358,6 @@ Zune
 ^Kids.Movies$
 ^Kids.Shows$
 ^Library$
-^Love$
 ^master$
 ^MD[0-9].DATA$
 ^media$
