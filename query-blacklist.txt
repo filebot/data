@@ -233,7 +233,7 @@ TRUEDEF
 TRUEFRENCH
 TS
 TSXVID
-tt\d{7}
+tt\d{4,8}
 TV.Aufnahmen
 TV.Opnamen
 TV.Thriller
@@ -241,7 +241,6 @@ TVOON.DE
 tvrecorder
 TwoDDL
 TwoDDL.eu
-t\d{2,4}
 UE
 UsaBit.com
 utorrent.downloads
