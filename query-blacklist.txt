@@ -1,4 +1,4 @@
-(?-i:FR|WEB|SPECIAL|MULTi|XXX+)
+(?-i:WEB|SPECIAL|MULTi|XXX+)
 (The|A)$
 (^[lp]|^\d{1,2}[.]|^[\p{Alnum}\p{Punct}]{1,2}$)
 1-3-3-8.com
