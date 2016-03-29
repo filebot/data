@@ -1,7 +1,6 @@
 11.22.63	11/22/63
 at.midnight	@midnight
 BSG	Battlestar Galactica
-Craig.Ferguson	The Late Late Show with Craig Ferguson
 CSI(?!.{0,3}(NY|LA|Miami|New.Orleans|Academy|Cyber))	CSI: Crime Scene Investigation
 epl	English Premier League
 greysana	Grey's Anatomy
