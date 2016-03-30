@@ -191,6 +191,7 @@ PS3
 PSP
 puls4
 QEBS\D?\d*
+R6
 rbb
 READNFO
 REAL.PROPER
