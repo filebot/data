@@ -1242,6 +1242,7 @@ HiNT
 Hiryuu
 Hitode
 Hitode_AnimeSS
+Hive-CM8
 Hivrolta
 Hiyono
 HJS
