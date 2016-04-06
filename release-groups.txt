@@ -209,7 +209,7 @@ Animebreaker
 AniMecha
 AnimeClipse
 AnimeKai
-animeNOW
+AnimeNOW
 AnimesPLUS
 AnimeYuki
 anime_fin
@@ -861,6 +861,7 @@ EPP
 EPZ
 EROBEAT
 ERyX
+eSc
 eSH4Re
 ESiR
 ESPiSE
@@ -1546,6 +1547,7 @@ LeetXD
 LEGEND
 LEGi0N
 LeON
+LeRalouf
 LEVERAGE
 LEViTY
 LF
@@ -2090,6 +2092,7 @@ Rasengan
 RAWKiNS
 RaX
 Razor1911
+RB58
 RBT
 RC
 RCDiVX
