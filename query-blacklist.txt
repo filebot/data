@@ -463,6 +463,7 @@ Zune
 ^shows$
 ^Soaps$
 ^sort$
+^sort.filebot$
 ^sorted$
 ^SortedMedia$
 ^Specials$
