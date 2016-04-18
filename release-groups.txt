@@ -222,7 +222,7 @@ ANK
 ANON
 anoXmous
 AnS
-Anubis
+ANUBIS
 AnY
 AnY_ShiFa
 aO
@@ -238,7 +238,7 @@ AoT
 AP
 APAX
 APB
-Appel
+APPEL
 APT
 AQOS
 AR
@@ -247,7 +247,7 @@ Archerr
 ARCHiViST
 ArenaBG
 ARGON
-Arigatou
+ARIGATOU
 ARiGOLD
 ARiSCRAPAYSiTES
 ARK01
@@ -473,7 +473,7 @@ CAMELOT
 CAMERA
 CAMSTAiN
 CAP
-Caph
+CAPH
 CarVeR
 CATCH
 CATCHPHRASE
@@ -510,7 +510,7 @@ CHD
 CHDBits
 CHDSUBS
 CHDTV
-Chel
+CHEL
 CHGRP
 CHIBI
 Chica-F
@@ -542,7 +542,7 @@ CLASSiCAL
 CLD
 CLDD
 CLERKS
-Clitori
+CLITORI
 cloudyvision
 cLT
 CLUE
@@ -562,8 +562,8 @@ COALiTiON
 COC
 COCAIN
 Cocksure
-Commie
-Commie-UNDERWATER
+COMMIE
+COMMIE-UNDERWATER
 COMPLIANT
 COMPULSION
 CONDITION
@@ -641,7 +641,7 @@ DAA
 DaDuck
 DAFTPUNK
 Dali-Neko
-Daman
+DAMAN
 DameDesuYo
 danger2u
 DANGO
@@ -711,7 +711,7 @@ DGz
 dH
 DHD
 DiAMOND
-Diamonds
+DIAMONDS
 DiCH
 DiDaKe
 DiDee
@@ -992,7 +992,7 @@ FQM
 FR34KTV
 FRAGMENT
 FraMeSToR
-Freaks
+FREAKS
 FREEDOM
 FREHD
 FRENCH-JPA
@@ -1103,7 +1103,7 @@ GoLDSToNE
 GOOGLE
 GooN
 GoPanda
-Gopo
+GOPO
 GORE
 GOREHOUNDS
 GOTHiC
@@ -1120,8 +1120,8 @@ GrimRipper
 GRiMRPR
 GriOTS
 GRMV
-Grond
-Grym
+GROND
+GRYM
 GS
 gSS
 GSZ
@@ -1160,7 +1160,7 @@ HAiDEAF
 Hajike.HnG
 HALCYON
 Hammer71
-Hanako
+HANAKO
 HaNc0cK
 HANDJOB
 HANGOVER
@@ -1214,7 +1214,7 @@ HDWinG
 HDX
 HDxT
 HEH
-Helix
+HELIX
 HELLRAZ0R
 Hentai-Legacy
 Herakler
@@ -1404,7 +1404,7 @@ JMT
 JN
 Joggie
 JohnGalt
-Jolly
+JOLLY
 JoLLyRoGeR
 joseole99
 joseole99-TCL
@@ -1494,7 +1494,7 @@ KOENiG
 Koffe
 Koharubi
 KOI
-Kole
+KOLE
 KonzillaRG
 KooKoo
 KOR
@@ -1516,7 +1516,7 @@ KubuSubs
 Kurai-Subs
 KURAMA
 Kuro-Hana
-Kuth
+KUTH
 KyF
 KYR
 kyussone
@@ -1693,7 +1693,7 @@ MOBBit
 MOCHI
 MoE
 Moe.AP
-Moebius
+MOEBIUS
 MoeTV
 MoE_AP
 MoF
@@ -1904,7 +1904,7 @@ ORC
 ORDER
 ORENJi
 ORGANiC
-Origin
+ORIGIN
 ORPHEUS
 OS
 OSiRiS
@@ -1990,7 +1990,7 @@ POD
 POE
 POKE
 POKERUS
-Polar
+POLAR
 POLISHED
 PoRNDoCtOR
 PORNOHOLiCS
@@ -2006,7 +2006,7 @@ PRECiOUS
 PRETAiL
 PRETENTIOUS
 prevail
-Prime
+PRIME
 PriMeHD
 PRiNCE
 PRIPPS
@@ -2037,7 +2037,7 @@ PTpOWeR
 PtS
 PTTeam
 PublicHD
-Pudding
+PUDDING
 PUKKA
 Purana
 PURE
@@ -2235,7 +2235,7 @@ SamuSubs
 sant1
 SANTI
 SAPHiRE
-Sapphire
+SAPPHIRE
 SARS
 SaSHiMi
 SaSK0
@@ -2249,7 +2249,7 @@ SCD
 Schitbusters
 SChiZO
 Scratch404
-Scratched
+SCRATCHED
 SCREAM
 ScWb
 SD-Project
@@ -2282,7 +2282,7 @@ SFWhine
 SG
 SGKK
 ShAaNiG
-Shadow
+SHADOW
 Shadowman
 SHAMNBOYZ
 ShaqSalazar
@@ -2355,7 +2355,7 @@ Smurfenlars
 SM_LoC
 snavE
 SNCo
-Sneak
+SNEAK
 SNEAkY
 SnF
 SNOW
@@ -2365,7 +2365,7 @@ SoCkS
 SOF
 Softfeng
 SoKa
-Solar
+SOLAR
 Solar_Faith
 SOLDATS
 SomeTV
@@ -2374,7 +2374,7 @@ SONS
 SOV
 SoW
 SoXu
-Soy
+SOY
 SPABLAUW
 SpaceHD
 spamTV
@@ -2420,7 +2420,7 @@ Stitch_Encodes
 STOCK
 stoffinho17
 STORM
-Stranded
+STRANDED
 STRATOS
 Strawhat
 streetwars
@@ -2462,7 +2462,7 @@ sweHD
 swePD
 Swesub
 SWOLLED
-Syndicate
+SYNDICATE
 SYS
 SZN_I-O
 T-N
@@ -2586,7 +2586,7 @@ TREBLE
 trentalent
 TRexHD
 TRG
-Triad
+TRIAD
 TRiMEDIA
 TRiPS
 TROJAN
@@ -2607,7 +2607,7 @@ TsH
 tsn
 TSP
 TSs
-Tsuki
+TSUKI
 tsukikaze
 TSUMIKI
 TsuSubs
@@ -2783,7 +2783,7 @@ WinD-DE
 WiNG
 WingmanNZ
 Wings13
-Winters
+WINTERS
 WiRA
 WiRE
 WLF
