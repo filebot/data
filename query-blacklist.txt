@@ -442,6 +442,7 @@ Zune
 ^rtorrent$
 ^Saga$
 ^Satire$
+^Scaped$
 ^school$
 ^Sci.Fi$
 ^Science.Fiction$
