@@ -292,6 +292,7 @@ AVS
 AVS1080
 AVS720
 AW
+awa
 aWake
 AWGS
 AXE
@@ -1373,7 +1374,7 @@ israntxa
 iSUBS
 iT00NZ
 iTA
-ITG
+itg
 iTOONZ
 iTSDVD
 ITZ
@@ -1713,6 +1714,7 @@ MOTU
 MoTv
 MOViERUSH
 MOViESTARS
+mp
 MPTDVD
 Mr. KickASS
 MRC
@@ -2363,7 +2365,7 @@ SNOW
 SNS
 SNUGGLER
 SoCkS
-SOF
+sof
 Softfeng
 SoKa
 SOLAR
@@ -2626,9 +2628,9 @@ TvD
 TVFi
 TViLLAGE
 TvNORGE
-TVP
+tvp
 TvR
-TVS
+tvs
 TVSmash
 TvSTUE
 TvTiME
