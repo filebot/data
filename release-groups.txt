@@ -1714,7 +1714,6 @@ MOTU
 MoTv
 MOViERUSH
 MOViESTARS
-mp
 MPTDVD
 Mr. KickASS
 MRC
@@ -2365,7 +2364,6 @@ SNOW
 SNS
 SNUGGLER
 SoCkS
-sof
 Softfeng
 SoKa
 SOLAR
@@ -2590,6 +2588,7 @@ trentalent
 TRexHD
 TRG
 TRIAD
+TRiAL
 TRiMEDIA
 TRiPS
 TROJAN
@@ -2628,9 +2627,7 @@ TvD
 TVFi
 TViLLAGE
 TvNORGE
-tvp
 TvR
-tvs
 TVSmash
 TvSTUE
 TvTiME
