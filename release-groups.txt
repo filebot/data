@@ -2258,6 +2258,7 @@ SD-Project
 SD_Taka
 SDGiRL
 SDH
+SDI
 SecretMyth
 SECTOR7
 SEIAKUSETSU
