@@ -590,6 +590,7 @@ CREEPSHOW
 CREMOSA
 CREST
 CRF
+CRiME
 CRiMSON
 CRiSC
 CRiSP
@@ -882,6 +883,7 @@ euHD
 EuReKA
 EUROPA
 EUSTASS
+EVE
 EveTaku
 Eveyuu
 eViLsCi
@@ -1025,6 +1027,7 @@ FULLHD
 FULLSIZE
 FUM
 FuN
+FUNKKY
 FUNNER
 Funnuraba
 FURZI
@@ -1300,6 +1303,7 @@ iCANDY
 ICE
 iCEHD
 iD
+IDE
 Idi0T
 iDiB
 idtv
@@ -1409,7 +1413,6 @@ JOLLY
 JoLLyRoGeR
 joseole99
 joseole99-TCL
-JOY
 Jozzep
 JS
 jth
@@ -1580,6 +1583,7 @@ LolHD
 LoLi
 Loli-pop.Subs
 LoneWolf
+LordVako
 LOST
 LOUNGE
 lOVE
@@ -1687,6 +1691,7 @@ Mish
 MissRipZ
 Miyu
 Miyuki-Fansubs
+MkvCage
 MLW
 MMI
 MoA
@@ -1744,6 +1749,7 @@ MWS
 MXMG
 MYD
 MySiLU
+MZABI
 Mô-Subs
 N!K
 N-F
@@ -1994,6 +2000,7 @@ POKE
 POKERUS
 POLAR
 POLISHED
+PoOlLa
 PoRNDoCtOR
 PORNOHOLiCS
 PorphyriA
@@ -2060,6 +2067,7 @@ QCF
 QDP
 qIIq
 QiX
+Qman
 qnr
 QoM
 QRC
@@ -2169,6 +2177,7 @@ RiVER
 RKcTV
 rmhf
 RMT
+RMTeam
 RMx
 RoCK&BlueLadyRG
 RoCKRioT
@@ -2214,6 +2223,7 @@ S-A
 s-f
 S-G
 S-K
+S-Less
 S-S
 S0LD13R
 S0NA
@@ -2361,6 +2371,7 @@ SNCo
 SNEAK
 SNEAkY
 SnF
+Sno
 SNOW
 SNS
 SNUGGLER
@@ -2482,6 +2493,7 @@ Taiyo
 Taka
 Taka-THORA
 Takoyaki
+TangoAlpha
 tantrum
 TAPpika
 TARGET
@@ -2546,6 +2558,7 @@ THUNDER
 tib
 TiCAL
 TiDE
+Tigole
 TiiX
 TilMigSelv
 TimeLesSub
@@ -2675,6 +2688,7 @@ Ureshii-Yoroshiku
 USELESS
 UTOPiA
 UTR
+UTT
 UTW
 UTW-Mazui
 UTW-Thora
@@ -2729,6 +2743,7 @@ Vision-Anime
 ViSTA
 ViSTA™
 ViTE
+ViVi
 ViVID
 Vivid-Asenshi
 Vivid-Taku
