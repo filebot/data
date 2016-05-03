@@ -71,6 +71,7 @@
 ^DVD$
 ^emule$
 ^Entertainment$
+^entpackt$
 ^Episode$
 ^Episodes$
 ^Erotic$
@@ -105,6 +106,7 @@
 ^inbox$
 ^Incoming$
 ^Incomplete$
+^JDownloader$
 ^jukebox$
 ^Kids$
 ^Kids.Movies$
