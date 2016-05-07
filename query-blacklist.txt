@@ -23,6 +23,7 @@
 ^Action$
 ^Adventure$
 ^Adventures$
+^AMC-\w+$
 ^and$
 ^Animation$
 ^Animations$
