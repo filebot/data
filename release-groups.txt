@@ -875,7 +875,6 @@ ETHOS
 ETM
 ETMID
 ETRG
-ettv
 EU
 EucHD
 EuchHD
