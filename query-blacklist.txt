@@ -178,6 +178,7 @@
 ^Season$
 ^Secret$
 ^seed$
+^Seedbox$
 ^Seeding$
 ^Seeds$
 ^Serier$
