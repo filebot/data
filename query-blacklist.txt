@@ -14,6 +14,7 @@
 @KIDZ
 \d(CD|CDRip)
 \d+(of|.of.|.track.)\d+
+\d+[.,]\d+GB
 \d{2,4}.\b\d{2}.\b\d{2}.\b\d{2}.\b\d{2}
 \d{3,4}[pi]
 \d{8}.\d{4}
@@ -382,6 +383,7 @@ Los.Sustitutos
 Love
 LowDef
 M.HD
+MasterEdition
 mdr
 MegaPack
 MkvCage
