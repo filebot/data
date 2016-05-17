@@ -1,6 +1,6 @@
 (?-i:WEB|SPECIAL|MULTi|XXX+)
 (^[lp]|^\d{1,2}[.]|^[\p{Alnum}\p{Punct}]{1,2}$)
-(The|A)$
+(The|A|Special|Specials)$
 1-3-3-8.com
 10.bit
 1080
@@ -196,7 +196,6 @@
 ^sort.filebot$
 ^sorted$
 ^SortedMedia$
-^Specials$
 ^Sports$
 ^staging$
 ^Storage$
