@@ -362,11 +362,13 @@ BDFLiX
 BDiSC
 BDP
 BDr
+BDRETAil
 BDS
 beAst
 BEAVE
 BEEF.STEW
 BeefStew
+BEER
 BeFree
 BeStDivX
 BeStDvD
@@ -649,13 +651,17 @@ DameDesuYo
 danger2u
 DANGO
 danirl
+Danishbits
 DANNY
+DanskKulturskat
 Darkside.RG
 DARKTIGER
 DARM
 DASH
 DATS
 DAW
+DAWGS
+DAWGSSERiER
 DB
 DBSuper
 DC
@@ -920,6 +926,7 @@ FANDANGO
 FaNSuB
 FANTA
 FAPCAVE
+FARGIRENIS
 FASM
 FASTHD
 FATAL1TY
@@ -1120,6 +1127,7 @@ Graveurexterne
 greenbud1969
 GREiD
 GREVO
+GREYHOUNDS
 GrimRipper
 GRiMRPR
 GriOTS
@@ -1217,6 +1225,7 @@ HDWinG
 HDX
 HDxT
 HEH
+HEJRA
 HELIX
 HELLRAZ0R
 Hentai-Legacy
@@ -1253,6 +1262,7 @@ Hiyono
 HJS
 HL
 HLS
+HMN
 HnK
 HNR
 HNRDVD
@@ -1287,7 +1297,7 @@ hV
 HWD
 HWE
 Hyb
-HYBRID
+HYBRiD
 HYBRiS
 HyDe
 HYDROGEN
@@ -1795,6 +1805,7 @@ NFHD
 NGB
 NGE
 NGR
+NGSerier
 NGXHD
 NhaNc3
 NHD
@@ -1888,6 +1899,7 @@ ohys
 Okashii
 Okashii-RyRo
 old-tejo
+OLDDAWGS
 OldsMan
 OMA
 OMER
@@ -2129,6 +2141,7 @@ REiSERADiO
 REKoDE
 RELEASE
 Release.Lounge
+RELEASED
 ReLeNTLesS
 RELOADED
 REMARKABLE
@@ -2364,6 +2377,7 @@ SM_LoC
 SMC
 sMi
 SMoKeR
+SMOKEY
 SMRKings
 SMRPRTY
 Smurfenlars
@@ -2457,6 +2471,7 @@ subs4u.Lightmaker
 subs4u.Vidom
 subs4u.YKS.No
 SubSmith
+SUBSTANCE
 SUBTiTLES
 Subtox
 SUBZERO
@@ -2544,6 +2559,7 @@ TG7
 TGP
 The3DTeam
 TheBatman
+TheCure
 TheNewSquad
 THENiGHTMARE
 THENiGHTMAREiNHD
@@ -2604,6 +2620,7 @@ TRexHD
 TRG
 TRIAD
 TRiAL
+TRIBAL
 TRiMEDIA
 TRiPS
 TROJAN
@@ -2648,6 +2665,7 @@ TvSTUE
 TvTiME
 TVTUPA
 TW
+TWA
 TweakAnime
 TWEET
 twentyforty
@@ -2678,6 +2696,8 @@ Underwater-Mahjong
 UNDINE
 UNiQUE
 UNiT
+UNiTaiL
+UNiTY
 UNKOWN
 UNSKiLLED
 UNTOUCHABLES
