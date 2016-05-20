@@ -227,6 +227,7 @@
 ^TV.Show$
 ^TV.Shows$
 ^unsorted$
+^UNTAGGED$
 ^user$
 ^utorrent$
 ^vari$
