@@ -20,6 +20,7 @@
 \d{8}.\d{4}
 ^(Downloads|Movies|TV.Shows).*$
 ^.*(Downloads|Movies|TV.Shows)$
+^3D$
 ^[_].+$
 ^\d.-.Complete$
 ^Action$
