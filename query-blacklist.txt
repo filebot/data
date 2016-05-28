@@ -38,6 +38,7 @@
 ^Big$
 ^British.TV$
 ^BTN$
+^Cartoni.Animati$
 ^Cartoon$
 ^Cinema$
 ^Classic$
