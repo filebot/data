@@ -277,7 +277,6 @@ bay3
 BDMV
 Best.of.\d{4}
 Best.Quality
-BLUWORLD
 bt.downloads
 btarena.org
 By.Cool.Release
