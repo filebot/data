@@ -8,6 +8,12 @@
 \((sample|trailer)\)
 \[(sample|trailer)\]
 ^(sample|trailer)
+^Behind.the.Scenes$
 ^Deleted.and.Extended.Scenes$
 ^Deleted.Scenes$
 ^Extras$
+^Featurettes$
+^Interviews$
+^Scenes$
+^Shorts$
+^Trailers$
