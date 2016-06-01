@@ -275,6 +275,7 @@ AUDIO_TS
 Axx
 bay3
 BDMV
+Behind.The.Scenes
 Best.of.\d{4}
 Best.Quality
 bt.downloads
@@ -301,6 +302,7 @@ ddlsource.com
 DDLValley
 DDLValley.(eu|net)
 ded
+Deleted.Scenes
 Demonoid
 DKsubs
 DL
@@ -327,6 +329,7 @@ ExtraTorrent
 Fantasy
 Fantasyfilm
 Fantasykomödie
+Featurettes
 FileBot
 Final.Cut
 FIXED
@@ -362,6 +365,7 @@ info
 Ingles.Subs
 iNT
 iNTERNAL
+Interviews
 iPod
 IPT
 ISO
@@ -453,6 +457,7 @@ S\d{2}
 sample
 samples
 sat1
+Scenes
 Screenshot
 sd
 Season\D?\d+
@@ -464,6 +469,7 @@ ShareGo
 ShareReactor
 ShareZONE
 ShortKut
+Shorts
 sixx
 Snapshots
 sof
@@ -493,6 +499,7 @@ to.be.sorted
 ToSort
 TPB
 Tragikomödie
+Trailers
 TransmissionDL
 TRUEDEF
 TRUEFRENCH
