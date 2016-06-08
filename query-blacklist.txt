@@ -72,6 +72,7 @@
 ^Downloading$
 ^Downloads$
 ^Drama$
+^drive\d+$
 ^Dropbox$
 ^DVD$
 ^emule$
@@ -118,6 +119,7 @@
 ^Kids$
 ^Kids.Movies$
 ^Kids.Shows$
+^kidsmovies$
 ^Library$
 ^master$
 ^MD\d+.DATA$
@@ -216,6 +218,8 @@
 ^temporary$
 ^test$
 ^testdata$
+^testin$
+^testout$
 ^The.Best$
 ^The.TV.Series$
 ^Thriller$
