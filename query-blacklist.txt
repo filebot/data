@@ -204,6 +204,7 @@
 ^sort.filebot$
 ^sorted$
 ^SortedMedia$
+^Sport$
 ^Sports$
 ^staging$
 ^Storage$
