@@ -169,6 +169,7 @@
 ^raid$
 ^Reality$
 ^Reality.Shows$
+^Recorded.TV$
 ^Recordings$
 ^rename$
 ^Review$
@@ -500,6 +501,7 @@ SYNCFIX
 TC
 tele5
 Thrillerkomödie
+to.be.filed
 to.be.sorted
 ToSort
 TPB
