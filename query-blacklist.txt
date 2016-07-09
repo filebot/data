@@ -350,6 +350,7 @@ HAVE.TO.BE.CUT
 HBO
 HBO.Documentaries
 HD
+HD.\d{4}.\d{8}
 HDR
 HDRip
 HebSubs
@@ -492,6 +493,7 @@ SUBFRENCH
 Subs
 Subtit
 Subtitle
+SVT2
 sw3
 swe.sub
 Swedish
