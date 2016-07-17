@@ -42,7 +42,7 @@
 ^Cartoon$
 ^Cinema$
 ^Classic$
-^clean$
+^Clean$
 ^cleaned$
 ^Comedy$
 ^Complete$
