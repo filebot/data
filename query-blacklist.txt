@@ -69,8 +69,10 @@
 ^Documents$
 ^Done$
 ^Download$
+^Download.Movies$
 ^Downloading$
 ^Downloads$
+^Downloads.Area$
 ^Drama$
 ^drive\d+$
 ^Dropbox$
