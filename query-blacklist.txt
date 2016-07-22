@@ -240,6 +240,7 @@
 ^TV.Series$
 ^TV.Show$
 ^TV.Shows$
+^TVCurrent$
 ^unsorted$
 ^UNTAGGED$
 ^user$
