@@ -138,6 +138,7 @@
 ^Movie$
 ^Movie\D?\d+$
 ^Movies$
+^movies.original$
 ^Multimedia$
 ^Music$
 ^Musique$
@@ -410,6 +411,7 @@ Love
 LowDef
 M.HD
 MasterEdition
+MCEBuddy
 mdr
 MegaPack
 MkvCage
