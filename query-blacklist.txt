@@ -33,6 +33,7 @@
 ^Anime$
 ^Animes$
 ^Applications$
+^automation$
 ^bad$
 ^Best$
 ^Big$
@@ -258,6 +259,7 @@
 ^War$
 ^watch$
 ^WD$
+^work$
 ^Working$
 ^www$
 ^XBMC$
