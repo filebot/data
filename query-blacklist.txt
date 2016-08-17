@@ -241,6 +241,8 @@
 ^transmission$
 ^TV$
 ^TV.-.edited$
+^tv.done$
+^tv.rename$
 ^TV.Series$
 ^TV.Show$
 ^TV.Shows$
