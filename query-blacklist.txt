@@ -21,7 +21,7 @@
 ^(Downloads|Movies|TV.Shows).*$
 ^.*(Downloads|Movies|TV.Shows)$
 ^3D$
-^[_].+$
+^[_+].+$
 ^\d.-.Complete$
 ^Action$
 ^Adventure$
