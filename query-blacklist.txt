@@ -318,7 +318,9 @@ DDL
 ddlsource
 ddlsource.com
 DDLValley
-DDLValley.(eu|net)
+DDLValley.cool
+DDLValley.eu
+DDLValley.net
 ded
 Deleted.Scenes
 Demonoid
