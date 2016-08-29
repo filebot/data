@@ -115,6 +115,7 @@
 ^I+$
 ^ignore$
 ^ignore.folder$
+^in$
 ^In.Progress$
 ^inbox$
 ^Incoming$
@@ -157,6 +158,7 @@
 ^Opnamen$
 ^Organize$
 ^other$
+^out$
 ^Part$
 ^PELICULAS$
 ^Películas$
