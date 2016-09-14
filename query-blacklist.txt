@@ -79,6 +79,8 @@
 ^drive\d+$
 ^Dropbox$
 ^DVD$
+^dvr$
+^dvrfiles$
 ^emule$
 ^Entertainment$
 ^entpackt$
