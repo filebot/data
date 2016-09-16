@@ -225,6 +225,7 @@
 ^tao$
 ^TBR$
 ^Telechargements$
+^Telefilm\d*$
 ^Television$
 ^temp$
 ^temporary$
