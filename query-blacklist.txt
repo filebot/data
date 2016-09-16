@@ -253,6 +253,7 @@
 ^TVCurrent$
 ^unsorted$
 ^UNTAGGED$
+^Usenet$
 ^user$
 ^utorrent$
 ^vari$
