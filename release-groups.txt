@@ -2108,6 +2108,7 @@ QRC
 QRUS
 QSP
 Quali.SlaYer
+QuebecRules
 QUEENS
 quietE
 QXE
