@@ -18,8 +18,8 @@
 \d{2,4}.\b\d{2}.\b\d{2}.\b\d{2}.\b\d{2}
 \d{3,4}[pi]
 \d{8}.\d{4}
-^(Downloads|Movies|TV.Shows).*$
-^.*(Downloads|Movies|TV.Shows)$
+^(Downloads|Movies|TV.Shows|TV.Series).*$
+^.*(Downloads|Movies|TV.Shows|TV.Series)$
 ^3D$
 ^[_+].+$
 ^\d.-.Complete$
@@ -152,8 +152,10 @@
 ^net$
 ^new$
 ^New.Movies$
+^New.Series$
 ^New.Shows$
 ^New.TV.Shows$
+^New.Unsorted$
 ^News$
 ^of$
 ^old$
@@ -437,7 +439,6 @@ MultiSub
 MVGroup.org
 Mysterythriller
 National.Geographic
-new.unsorted
 NewMedia
 NeZu
 NFO
