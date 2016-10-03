@@ -263,6 +263,7 @@
 ^VCD$
 ^Video$
 ^VIDEO_TS$
+^Videoer$
 ^Videos$
 ^Volume\D?\d+$
 ^Volumes$
