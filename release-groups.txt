@@ -140,6 +140,7 @@ AFO
 AFP
 AFS
 AFz
+AG
 aGGr0
 AH
 AHD
@@ -485,6 +486,7 @@ CAMSTAiN
 CAP
 CAPH
 CarVeR
+CasStudio
 CATCH
 CATCHPHRASE
 catflap
@@ -538,6 +540,7 @@ chyuu
 CiA
 CiC
 CiELO
+CineBus
 CiNEFiLE
 CiNEFOX
 CINEMANIACS
@@ -771,6 +774,7 @@ DnB
 DNL
 DNR
 dns
+DoA
 DOCUMENT
 DOESNTSUCK
 Doitsu
@@ -870,6 +874,7 @@ ENCOUNTERS
 ENCRyPTED
 EnDoR
 EnSu
+ENT
 eots
 EP1C
 EPHEMERiD
@@ -1099,6 +1104,7 @@ gg
 GHOULS
 GHS
 GiGAS
+GiMCHi
 GiNJi
 ginseng
 gizzmo
@@ -1207,6 +1213,7 @@ HCA
 HD-UNiT3D
 HD1080
 HD4U
+HDATV
 HDBRiSe
 HDBT
 HDC
@@ -1230,6 +1237,7 @@ HDPLANET
 HDQ
 HDRoad
 HDS
+HDU
 HDVD
 HDViSiON
 HDW
@@ -1583,6 +1591,7 @@ LF
 LFF
 LGLuX
 LiBERTY
+LiebeHD
 Lightmaker
 lilwoodenboy
 LIME
@@ -1608,6 +1617,7 @@ LolHD
 LoLi
 Loli-pop.Subs
 LoneWolf
+LooKMaNe
 LordVako
 LOST
 LoT
@@ -1747,6 +1757,7 @@ MOTU
 MoTv
 MOViERUSH
 MOViESTARS
+Mp4Ba
 MPTDVD
 Mr. KickASS
 MRC
@@ -1824,6 +1835,7 @@ NeWTeaM
 NFHD
 NGB
 NGE
+NgN
 NGR
 NGSerier
 NGXHD
@@ -1891,6 +1903,7 @@ NuMy
 NUTBLADDER
 NUXX
 NVA
+NWB
 NWO
 NwS
 NWTC
@@ -2117,6 +2130,7 @@ R-B
 R-F
 R0CKED
 R10
+R2D2
 R3QU3ST
 R4F
 R_Knorloading
@@ -2312,6 +2326,7 @@ SDH
 SDI
 SecretMyth
 SECTOR7
+SeeHD
 SEIAKUSETSU
 SEiGHT
 SEMTEX
