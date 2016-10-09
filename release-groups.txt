@@ -686,6 +686,7 @@ DD
 DDC
 dddc
 DDR
+de[42]+
 DEA
 DeadFish
 DEADPiXEL
@@ -1275,6 +1276,7 @@ HIMMEL
 Hinshitsu
 HiNT
 Hiryuu
+HiSD
 Hitode
 Hitode_AnimeSS
 Hive-CM8
@@ -1814,6 +1816,7 @@ NaSaMo
 NaSu
 NATV
 NBS
+NCmt
 NcS
 NcS-H
 NDRT
@@ -1946,6 +1949,7 @@ Ongaku
 ONIGIRI
 ONS
 ONYX
+oO
 OOKAMI
 OOM
 Oosh
@@ -1957,6 +1961,7 @@ ORC
 ORDER
 ORENJi
 ORGANiC
+ORiGEN
 ORIGIN
 ORPHEUS
 OS
@@ -2051,6 +2056,7 @@ PoOlLa
 PoRNDoCtOR
 PORNOHOLiCS
 PorphyriA
+POSITIVE
 PosTX
 PoT
 PotentPortables
@@ -2166,6 +2172,7 @@ REAVERS
 REBELS
 RedBlade
 RedFox109e
+REDJOHN
 ReDone
 RedRay
 RedXXL
@@ -2830,6 +2837,7 @@ VoXHD
 vrs
 VS
 VST
+VT
 W-B
 w.0.0.f
 w0rm
