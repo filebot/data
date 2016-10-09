@@ -2587,6 +2587,7 @@ tdl
 TDR
 TEAM-KAI
 TeamRV
+TeamTelly
 TECH
 TeGijA
 TEKATE
