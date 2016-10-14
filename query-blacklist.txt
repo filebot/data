@@ -1,5 +1,5 @@
 (?-i:WEB|SPECIAL|MULTi|DUAL|XXX+)
-(^\d{1,2}[.][ _.]|^[\p{Alnum}\p{Punct}]{1,2}$)
+(^\d{1,2}[.][ _.]|^[\p{Alnum}\p{Punct}]{1,2}$|^[a-z0-9]{22,}$)
 (The|A|Special|Specials)$
 1-3-3-8.com
 10.bit
