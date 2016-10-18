@@ -103,6 +103,7 @@
 ^Films$
 ^Finished$
 ^folder$
+^Fresh$
 ^Game.Show$
 ^Games$
 ^good$
