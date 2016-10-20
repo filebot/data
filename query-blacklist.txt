@@ -255,6 +255,7 @@
 ^TV.Show$
 ^TV.Shows$
 ^TVCurrent$
+^UFC$
 ^unsorted$
 ^UNTAGGED$
 ^Usenet$
@@ -551,6 +552,7 @@ tvs
 TwoDDL
 TwoDDL.eu
 UE
+UFC.PPV
 UsaBit.com
 utorrent.downloads
 VCD
