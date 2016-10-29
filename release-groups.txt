@@ -45,6 +45,7 @@
 4LiBeRtY
 4PL
 4RiLLa
+4SJ
 4SP0RT
 4SPiTE
 4UAlone
@@ -147,6 +148,7 @@ AHD
 aheintz
 Ahodomo
 AHQ
+AIDA
 Aiden0
 AiHD
 AINEX
@@ -375,6 +377,7 @@ BeFree
 BeStDivX
 BeStDvD
 BestHD
+BET
 BetaDoctor
 BETAMAX
 BF1
@@ -1309,6 +1312,7 @@ HqDTS
 HQE
 HQM
 HR
+hrs
 HS
 HuBBaTiX
 HUBRiS
@@ -1827,6 +1831,7 @@ NekoS
 NemDiggers
 NEPTUNE
 NERDHD
+NERDS
 NeRoZ
 NES
 NEUTRINO
@@ -1940,6 +1945,7 @@ OldsMan
 OMA
 OMER
 OMERTA
+OMGtv
 OMiCRON
 Omifast
 OMP
@@ -1997,6 +2003,7 @@ PATE
 PaTHe
 PAYiSO
 PaYxXx
+pbw
 PC
 PCH
 PCS
@@ -2442,6 +2449,7 @@ SNOW
 SNS
 SNUGGLER
 SoCkS
+SOF
 Softfeng
 SoKa
 SOLAR
@@ -2716,6 +2724,7 @@ TVFi
 TViLLAGE
 TvNORGE
 TvR
+TVS
 TVSmash
 TvSTUE
 TvTiME
