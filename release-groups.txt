@@ -834,6 +834,7 @@ dvsky
 DX
 DXO
 DYNAMiCS
+DYNOSAUR
 E-D
 E-Portal
 E.Rev
@@ -886,6 +887,7 @@ EPiC
 EPiK
 EPiSODE
 EPP
+EPSiLON
 EPZ
 EROBEAT
 ERyX
@@ -2080,6 +2082,7 @@ PriMeHD
 PRiNCE
 PRIPPS
 prithwi
+PrivateHD
 PRiViLEGED
 PROD
 PRoDJi
@@ -2775,6 +2778,7 @@ Ureshii-Yoroshiku
 USELESS
 UTOPiA
 UTR
+UTR-HD
 UTT
 UTW
 UTW-Mazui
