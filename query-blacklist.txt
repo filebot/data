@@ -21,7 +21,7 @@
 ^(Downloads|Movies|TV.Shows|TV.Series).*$
 ^.*(Downloads|Movies|TV.Shows|TV.Series)$
 ^3D$
-^[_+=].+$
+^[_+=!].+$
 ^\d.-.Complete$
 ^Action$
 ^Adventure$
@@ -169,6 +169,8 @@
 ^Películas$
 ^Pictures$
 ^Piece$
+^Plex$
+^Plex.Approved$
 ^Plex.Film$
 ^Plexserv$
 ^private$
@@ -459,7 +461,7 @@ P2P
 PAL
 PBS
 PHoQUE
-plex
+Plex
 Politdrama
 Pre.?DVD
 pro7
