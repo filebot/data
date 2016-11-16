@@ -192,6 +192,7 @@
 ^Romance$
 ^rtorrent$
 ^Saga$
+^SARJAT$
 ^Satire$
 ^Scaped$
 ^school$
