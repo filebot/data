@@ -6,19 +6,14 @@ CSI: Crime Scene Investigation	CSI
 Forever (2014)	Forever (US)
 House of Cards	HOC
 How I Met Your Mother	HIMYM
-Law & Order: Special Victims Unit	Law & Order SVU
-Law & Order: Special Victims Unit	Law and Order SVU
-M*A*S*H	M.A.S.H.
-M*A*S*H	MASH
+Law & Order: Special Victims Unit	Law & Order SVU	Law and Order SVU
+M*A*S*H	M.A.S.H.	MASH
 Naruto Shippuden	Naruto Shippuuden
-NCIS: Los Angeles	NCIS LA
-NCIS: Los Angeles	NCIS LosAngeles
-NCIS: New Orleans	Navy CIS New Orleans
-NCIS: New Orleans	NCIS NO
+NCIS: Los Angeles	NCIS LA	NCIS LosAngeles	
+NCIS: New Orleans	Navy CIS New Orleans	NCIS NO
 Outsiders	Outsiders (2016)
 Proof (2015)	Proof (US)
 Resurrection	Resurrection (US)
-Revolution	Revolution (2012)
 Scream	Scream The TV Series
 Sex&Drugs&Rock&Roll	Sex and Drugs and Rock and Roll
 Star Trek	Star Trek: TOS
