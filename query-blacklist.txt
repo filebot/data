@@ -23,6 +23,7 @@
 ^3D$
 ^[_+=!].+$
 ^\d.-.Complete$
+^\w$
 ^Action$
 ^Adventure$
 ^Adventures$
@@ -167,6 +168,7 @@
 ^Part$
 ^PELICULAS$
 ^Películas$
+^Person$
 ^Pictures$
 ^Piece$
 ^Plex$
