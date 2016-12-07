@@ -159,6 +159,7 @@
 ^New.TV.Shows$
 ^New.Unsorted$
 ^News$
+^Newsleecher$
 ^of$
 ^old$
 ^Opnamen$
