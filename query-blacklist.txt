@@ -46,6 +46,7 @@
 ^Classic$
 ^Clean$
 ^cleaned$
+^Code$
 ^Comedy$
 ^Complete$
 ^Complete.Torrents$
