@@ -477,6 +477,7 @@ ProSieben.MAXX
 PS3
 PSP
 puls4
+PW3
 QEBS\D?\d*
 R6
 rbb
