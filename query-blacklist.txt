@@ -506,6 +506,7 @@ Screenshot
 sd
 Season\D?\d+
 sed
+serienJK
 Series\D?\d+
 sf1
 sf2
