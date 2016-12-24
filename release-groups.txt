@@ -692,7 +692,7 @@ DD
 DDC
 dddc
 DDR
-de[42]+
+de\[42\]
 DEA
 DeadFish
 DEADPiXEL
