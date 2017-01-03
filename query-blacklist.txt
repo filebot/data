@@ -97,6 +97,7 @@
 ^Fantasy$
 ^Fertig$
 ^file$
+^filebot.test$
 ^files$
 ^Film$
 ^Film.&.TV$
