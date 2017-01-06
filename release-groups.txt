@@ -1879,6 +1879,7 @@ nItRo
 NiviSubs
 NiX
 NiXX
+NKS
 NL.Subs
 NLC
 NLSGDVDr
@@ -1903,6 +1904,7 @@ NoSCR
 NOSCREENS
 NOsegmenT
 NOTV
+NotWCP
 noushi
 NoVA
 NOVO
