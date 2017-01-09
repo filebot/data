@@ -265,6 +265,7 @@
 ^TV.Shows$
 ^TVCurrent$
 ^UFC$
+^UnProcessed$
 ^unsorted$
 ^UNTAGGED$
 ^Usenet$
