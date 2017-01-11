@@ -329,6 +329,7 @@ BaCKToRG
 BaCo
 BaDTaStE
 BAF
+BAGS
 BaibaKo
 BAJSKORV
 Baka-Anime
@@ -1513,6 +1514,7 @@ KICKOFF
 KiLLARMAN
 KILLERS
 KiLT
+KINeMA
 KINGDOM
 KiNGS
 KingStoner
@@ -1555,6 +1557,7 @@ KOTOMI_GMB_F-B
 KPR
 KRaLiMaRKo
 Krispy
+Krissz
 Kristallprinz
 KS
 KSH
@@ -1637,6 +1640,7 @@ LooKMaNe
 LordVako
 LOST
 LoT
+LoTV
 LOUNGE
 lOVE
 LOVESICK
@@ -2935,6 +2939,7 @@ XanaX
 xander
 XC
 xD2V
+xDR
 Xell
 XF
 XiA
