@@ -252,6 +252,7 @@
 ^to$
 ^ToProcess$
 ^Torrent$
+^torrent.seeds$
 ^Torrents$
 ^Tracker$
 ^transfer$
