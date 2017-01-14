@@ -926,6 +926,7 @@ EVOLVE
 EwDp
 EXCELLENCE
 eXD
+ExDR
 EXiLE
 Exiled-Destiny
 EXIST3NC3
@@ -1307,6 +1308,7 @@ HOLDEM
 Hollow-Subs
 holz
 Hon3y
+Hon3yHD
 HonE
 Honto
 HoodBag
