@@ -3,6 +3,7 @@
 0PTiMUS
 0SEC
 0TV
+1080
 10Laughing
 128mns
 12paNDas
@@ -60,6 +61,7 @@
 7SiNS
 850105
 9.GiRL
+999
 9FisH
 9RS
 A-Destiny
@@ -170,6 +172,7 @@ AKIO
 AKU
 AKUPX
 ALANiS
+alE13
 ALeSiO
 ALLiANCE
 ALLZINE
@@ -415,6 +418,7 @@ blueF
 BlueFixer
 Bluereaper
 BlueTV
+BluEvo
 BLUEYES
 blueZilla
 BluHD
@@ -729,6 +733,7 @@ DESS
 DETAiLS
 DeTvaVe
 DEUTERIUM
+DEViANT
 DEViSE
 DEWSTRR
 DFA
@@ -786,6 +791,7 @@ dns
 DoA
 DOCUMENT
 DOESNTSUCK
+DOGE
 Doitsu
 Doki
 DOLLHEAD
@@ -878,6 +884,7 @@ ELYSIUM
 EM0C0RE
 EmC
 EMERALD
+EMLHDTeam
 EMPiREHD
 EnA
 Encoderflaccid
@@ -966,6 +973,7 @@ FEATURE
 Feel-Free
 FELONY
 FESTiS
+FETiSH
 FEVER
 fez
 FF
@@ -981,6 +989,7 @@ FiCeLLo
 FiCO
 FiCODVDR
 FiddleGoose
+FiDELiO
 FIG
 FiHTV
 FilmHD
@@ -1014,6 +1023,7 @@ FLX
 FmE
 FoA
 FoAC
+FOCUS
 FooKas
 FOOTBALL
 FORCE
@@ -1070,6 +1080,7 @@ FURZI
 FUSiON
 FUSSOIR
 FUtV
+FuzerHD
 FXG
 FxM
 FyHD
@@ -1104,6 +1115,7 @@ Genesis-RG
 GENJO
 GENUiNE
 GEO
+GERUDO
 Getbackers
 GFE
 GFE.AP
@@ -1138,6 +1150,7 @@ GMoRK
 GNARLY
 GNF
 GoApe
+GOATLOVE
 Goblin10
 GoDSMaCK
 Gogeta
@@ -1161,6 +1174,7 @@ greenbud1969
 GREiD
 GREVO
 GREYHOUNDS
+GreyWolf
 GrimRipper
 GRiMRPR
 GriOTS
@@ -1172,6 +1186,7 @@ gSS
 GSZ
 Gtic
 GTVG
+GUACAMOLE
 gudhak
 GUNSubs
 GUPDVDR
@@ -1415,6 +1430,7 @@ InSubs
 iNT-TD
 IntelliQ
 iNTENTiON
+iNTERNAL
 iNTiMiD
 INtL
 iNVADERS
@@ -1613,6 +1629,7 @@ LF
 LFF
 LGLuX
 LiBERTY
+LIBRARIANS
 LiebeHD
 Lightmaker
 lilwoodenboy
@@ -1635,7 +1652,7 @@ LoD
 LoKI
 LOL
 LOLCATS
-LolHD
+LoLHD
 LoLi
 Loli-pop.Subs
 LoneWolf
@@ -1715,6 +1732,7 @@ McFly
 MCH
 MCHD
 MCR
+MDB
 MDW-Subs
 MEAW
 MEAZONE
@@ -1727,6 +1745,7 @@ MEG
 MEGAMACY
 MeGusta
 MeiohSubs
+MELBA
 MELiTE
 MEMORiES
 MenaceIISociety
@@ -1759,6 +1778,7 @@ MLW
 MMI
 MoA
 MOBBit
+MOBEE1
 MOCHI
 MoE
 Moe.AP
@@ -1796,11 +1816,13 @@ MsR
 MTeam
 mthodmn101
 MUC
+MULTiPLY
 MULVAcoded
 MURDER
 MUSiX
 MuskeTeerS
 MuSt
+MUxHD
 mV4U
 MVGroup
 MVM
@@ -1812,6 +1834,7 @@ MW
 MWF
 MWND
 MWS
+MXB
 MXMG
 MyBadAssScene
 MYD
@@ -1865,6 +1888,7 @@ NFHD
 NGB
 NGE
 NgN
+NGP
 NGR
 NGSerier
 NGXHD
@@ -2047,6 +2071,7 @@ PhoenixRG
 PHoQUE
 PhPh
 Phr0stY
+PiA
 Pianex
 piepHD
 PiKACHU
@@ -2373,6 +2398,7 @@ SEPTiC
 SEQUA
 SERIOUSLY
 SERUM
+SEV
 SEVcD
 SEVENTWENTY
 SEXORS
@@ -2429,6 +2455,7 @@ SiHD
 SiLU
 Silver.RG
 SiMbA
+SiMPLE
 SimplyReleaseS
 SINISTER
 SiNNERS
@@ -2713,6 +2740,7 @@ TRiMEDIA
 TRiPS
 TROJAN
 TrollHD
+TrollUHD
 trosa
 TRSH
 TrTd_TeaM
@@ -2769,6 +2797,7 @@ UAV
 UBiK
 UbM
 UBR
+UDC4ALL
 uffowich
 UFW
 UKDHD
@@ -2798,6 +2827,7 @@ UPPERCUT
 ureshii
 Ureshii-Yoroshiku
 USELESS
+USURY
 UTOPiA
 UTR
 UTR-HD
@@ -2829,6 +2859,7 @@ VeDeTT
 VeGaN
 Vegapunk
 VeggTeppe
+VENUE
 VeroVenlo
 VERSATiLE
 VERTIGGO
@@ -3014,20 +3045,24 @@ Zalis
 zan
 ZBS
 zdzd
+ZeDD
 ZEKTORM
 ZEN
 zenki
 ZER0
 ZeRO
 Zero-Raws
+ZEST
 Zeus-Dias
 ZKuS
 zman
 ZMG
 zomg
 Zomg-Killerhurtalot
+ZON3
 Zorori-Project
 Zox
+ZQ
 ZSiSO
 Zurako
 Zuzuu
