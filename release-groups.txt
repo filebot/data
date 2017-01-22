@@ -995,6 +995,7 @@ FiCO
 FiCODVDR
 FiddleGoose
 FiDELiO
+FiDO
 FIG
 FiHTV
 FilmHD
@@ -1351,6 +1352,7 @@ HS
 HuBBaTiX
 HUBRiS
 HuNTER
+HuSh
 Huzzah
 Huzzah.Scum-Scans
 Huzzah_Doremi
