@@ -51,6 +51,7 @@
 ^Complete$
 ^Complete.Torrents$
 ^Completed$
+^CompletedMedia$
 ^Completos$
 ^Cover$
 ^Crime$
