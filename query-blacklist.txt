@@ -24,6 +24,7 @@
 ^[_+=!].+$
 ^\d.-.Complete$
 ^\w$
+^ACD$
 ^Action$
 ^Adventure$
 ^Adventures$
