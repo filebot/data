@@ -81,6 +81,7 @@
 ^Downloads.Area$
 ^Drama$
 ^drive\d+$
+^DroneFactory$
 ^Dropbox$
 ^DVD$
 ^dvr$
