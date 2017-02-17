@@ -110,6 +110,7 @@
 ^Finished$
 ^folder$
 ^Fresh$
+^fuck$
 ^Game.Show$
 ^Games$
 ^good$
@@ -171,6 +172,7 @@
 ^Organize$
 ^other$
 ^out$
+^outbox$
 ^Part$
 ^PELICULAS$
 ^Películas$
