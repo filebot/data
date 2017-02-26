@@ -269,6 +269,7 @@ asaadas
 ASAP
 ASCENDANCE
 Asenshi
+Asenshi-GJM
 AsiSter
 ASO
 ASOURCE
@@ -633,6 +634,7 @@ CSHD
 CSS
 CT.FS
 CTD
+Cthuyuu
 Ctrl-Znf
 CtrlHD
 CtrlSD
@@ -1139,6 +1141,7 @@ GiMCHi
 GiNJi
 ginseng
 gizzmo
+GJM
 GK
 GK.GAX
 GK.RTFS
