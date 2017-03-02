@@ -18,6 +18,8 @@
 \d{2,4}.\b\d{2}.\b\d{2}.\b\d{2}.\b\d{2}
 \d{3,4}[pi]
 \d{8}.\d{4}
+\p{XDigit}{32,}
+\p{XDigit}{8}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{12}
 ^(Downloads|Movies|TV.Shows|TV.Series).*$
 ^.*(Downloads|Movies|TV.Shows|TV.Series)$
 ^3D$
