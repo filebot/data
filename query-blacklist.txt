@@ -126,6 +126,7 @@
 ^home$
 ^Horror$
 ^I+$
+^iFlicks$
 ^ignore$
 ^ignore.folder$
 ^in$
@@ -187,6 +188,7 @@
 ^Plex.Film$
 ^Plexserv$
 ^private$
+^Procesar$
 ^Processed$
 ^Processing$
 ^public$
