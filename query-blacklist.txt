@@ -30,6 +30,7 @@
 ^Action$
 ^Adventure$
 ^Adventures$
+^Amazon.Video$
 ^AMC-.+$
 ^and$
 ^Animation$
