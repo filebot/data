@@ -21,6 +21,7 @@
 \p{XDigit}{32,}
 \p{XDigit}{8}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{12}
 ^(Completed|Downloads|Movies|TV.Shows|TV.Series).*$
+^-.*-$
 ^.*(Downloads|Movies|TV.Shows|TV.Series)$
 ^3D$
 ^[_+=!].+$
