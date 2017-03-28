@@ -224,6 +224,7 @@
 ^Seedbox$
 ^Seeding$
 ^Seeds$
+^SerienRenamer$
 ^Serier$
 ^Series$
 ^SERIJE$
