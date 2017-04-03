@@ -29,6 +29,8 @@
 ^\w$
 ^ACD$
 ^Action$
+^Adult$
+^Adults$
 ^Adventure$
 ^Adventures$
 ^Amazon.Video$
@@ -345,6 +347,7 @@ CLASSIC
 CN
 CODIFICAR
 CODY
+CompletedDownloads
 ConvertedTV
 Creditless
 Custom.DKsubs
