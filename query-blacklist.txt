@@ -248,6 +248,7 @@
 ^Sports$
 ^staging$
 ^Storage$
+^Studio$
 ^Stuff$
 ^sync$
 ^System$
