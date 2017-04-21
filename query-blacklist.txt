@@ -60,6 +60,7 @@
 ^Completed$
 ^CompletedMedia$
 ^Completos$
+^conf.backup$
 ^Continue$
 ^Cover$
 ^Crime$
