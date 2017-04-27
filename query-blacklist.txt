@@ -150,6 +150,7 @@
 ^master$
 ^MD\d+.DATA$
 ^media$
+^Mega\d*$
 ^mnt$
 ^More$
 ^MotoGP$
