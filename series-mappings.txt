@@ -1,6 +1,7 @@
 11.22.63	11/22/63
 ^episodes.(s\d{2}e\d{2}|\dx\d{2})	Episodes
 at.midnight	@midnight
+BeCaSa|BeCaSau|BeCaSaul|BCallS|Be.Cll.Sl|btr.cs	Better Call Saul
 BSG	Battlestar Galactica
 CSI(?!.{0,3}(NY|LA|Miami|New.Orleans|Academy|Cyber))	CSI: Crime Scene Investigation
 epl	English Premier League
