@@ -224,6 +224,7 @@ AnimeYuki
 Anipl0x
 ANiPUNK
 AniTen
+ANiURL
 ANiVCD
 AniYoshi
 ANK
@@ -435,6 +436,7 @@ BoB
 BoBo
 BOKUTOX
 BonG
+bonkai77
 BoO
 BOOBIES
 BORDERLiNE
@@ -459,6 +461,7 @@ BS
 BSEnc
 BSS
 BTCHKEK
+btfHD
 BTN
 BTSD
 BTSFilms
@@ -808,6 +811,7 @@ dominion
 DOMiNO
 DON
 DONATELLO
+DonC
 DoNE
 DoR2
 DOREMI
@@ -2886,6 +2890,7 @@ VeGaN
 Vegapunk
 VeggTeppe
 VENUE
+Veritas
 VeroVenlo
 VERSATiLE
 VERTIGGO
