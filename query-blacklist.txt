@@ -147,6 +147,7 @@
 ^Kids.Shows$
 ^kidsmovies$
 ^Library$
+^Love$
 ^master$
 ^MD\d+.DATA$
 ^media$
@@ -459,7 +460,6 @@ LIMITED
 LMAO
 lol
 Los.Sustitutos
-Love
 LowDef
 M.HD
 MasterEdition
