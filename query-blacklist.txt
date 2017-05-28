@@ -45,6 +45,7 @@
 ^bad$
 ^Best$
 ^Big$
+^borrowed$
 ^British.TV$
 ^BTN$
 ^Cartoni.Animati$
@@ -135,6 +136,7 @@
 ^iFlicks$
 ^ignore$
 ^ignore.folder$
+^import$
 ^in$
 ^In.Progress$
 ^inbox$
