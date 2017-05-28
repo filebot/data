@@ -15,9 +15,9 @@
 \d(CD|CDRip)
 \d+(of|.of.|.track.)\d+
 \d+[.,]\d+GB
-\d{2,4}.\b\d{2}.\b\d{2}.\b\d{2}.\b\d{2}
+\d{2,4}.\d{2}.\d{2}.\d{2}.\d{2}
 \d{3,4}[pi]
-\d{8,}.\b\d{4,}
+\d{8,}.\d{4,}
 \p{XDigit}{32,}
 \p{XDigit}{8}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{12}
 ^(Completed|Downloads|Movies|TV.Shows|TV.Series).*$
