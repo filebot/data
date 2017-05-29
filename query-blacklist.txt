@@ -570,6 +570,7 @@ SYNCFIX
 TC
 tele5
 Thrillerkomödie
+title\d+
 to.be.filed
 to.be.sorted
 torrent.download
