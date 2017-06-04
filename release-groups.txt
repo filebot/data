@@ -220,6 +220,7 @@ AniMecha
 AnimeClipse
 AnimeKai
 AnimeNOW
+AnimeRG
 AnimesPLUS
 AnimeYuki
 Anipl0x
@@ -2174,6 +2175,7 @@ PRXHD
 PS
 PS3-TEAM
 PSA
+PSEUDO
 PSH
 PSiG
 PsiX
@@ -2190,6 +2192,7 @@ PTTeam
 PublicHD
 PUDDING
 PUKKA
+PUNCH
 Purana
 PURE
 Pure-Anime.biz
