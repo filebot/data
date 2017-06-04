@@ -20,9 +20,9 @@
 \d{8,}.\d{4,}
 \p{XDigit}{32,}
 \p{XDigit}{8}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{12}
-^(Completed|Downloads|Movies|TV.Shows|TV.Series).*$
+^(Completed|Downloads|Movies|TV.Shows|TV.Series|FileBot).*$
 ^-.*-$
-^.*(Downloads|Movies|TV.Shows|TV.Series)$
+^.*(Downloads|Movies|TV.Shows|TV.Series|FileBot)$
 ^3D$
 ^[_+=!].+$
 ^\d.-.Complete$
@@ -110,7 +110,6 @@
 ^Fantasy$
 ^Fertig$
 ^file$
-^filebot.test$
 ^files$
 ^Film$
 ^Film.&.TV$
@@ -246,7 +245,6 @@
 ^shows$
 ^Soaps$
 ^sort$
-^sort.filebot$
 ^sorted$
 ^SortedMedia$
 ^Sport$
