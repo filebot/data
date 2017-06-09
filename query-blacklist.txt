@@ -152,6 +152,7 @@
 ^master$
 ^MD\d+.DATA$
 ^media$
+^Mega.Storage$
 ^Mega\d*$
 ^mnt$
 ^More$
