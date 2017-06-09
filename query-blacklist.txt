@@ -162,7 +162,7 @@
 ^Motorsports$
 ^moved$
 ^Movie$
-^Movie\D?\d+$
+^Movie.\w+$
 ^Movies$
 ^movies.original$
 ^Multimedia$
@@ -293,6 +293,7 @@
 ^UnProcessed$
 ^unsorted$
 ^UNTAGGED$
+^usbdrive$
 ^Usenet$
 ^user$
 ^utorrent$
