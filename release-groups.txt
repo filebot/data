@@ -222,6 +222,7 @@ AnimeKai
 AnimeNOW
 AnimeRG
 AnimesPLUS
+AnimesTelecine
 AnimeYuki
 Anipl0x
 ANiPUNK
