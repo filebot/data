@@ -405,6 +405,7 @@ FIXED
 Fra
 FRE
 French
+FS
 funxd
 GER\d*
 German
