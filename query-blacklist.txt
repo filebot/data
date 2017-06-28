@@ -211,6 +211,7 @@
 ^Reality.Shows$
 ^Recorded.TV$
 ^Recordings$
+^Remux$
 ^Remuxed$
 ^rename$
 ^Review$
@@ -340,6 +341,7 @@ Axx
 bay3
 BBC
 BDMV
+BDRemux
 Behind.The.Scenes
 Best.of.\d{4}
 Best.Quality
