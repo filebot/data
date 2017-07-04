@@ -511,6 +511,7 @@ puls4
 PW3
 QEBS\D?\d*
 R6
+Radarr
 rbb
 READNFO
 REAL.PROPER
@@ -550,6 +551,7 @@ Shorts
 sixx
 Snapshots
 sof
+Sonarr
 sortmovie
 SPA
 Spanish
