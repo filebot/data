@@ -20,7 +20,7 @@
 \d{8,}.\d{4,}
 \p{XDigit}{32,}
 \p{XDigit}{8}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{12}
-^(Completed|Downloads|Movies|TV.Shows|TV.Series|FileBot).*$
+^(Completed|Downloads|Movies|TV.?Shows|TV.?Series|FileBot).*$
 ^-.*-$
 ^.*(Downloads|Movies|TV.Shows|TV.Series|FileBot)$
 ^3D$
@@ -149,6 +149,7 @@
 ^kidsmovies$
 ^Library$
 ^Love$
+^made$
 ^master$
 ^MD\d+.DATA$
 ^media$
@@ -586,6 +587,7 @@ Trailers
 TransmissionDL
 TRUEDEF
 TRUEFRENCH
+TryMovies
 TS
 TSXVID
 tt\d{4,8}
