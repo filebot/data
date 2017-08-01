@@ -5,6 +5,7 @@ Cosmos: A Spacetime Odyssey	Cosmos A Space Time Odyssey
 CSI: Crime Scene Investigation	CSI
 Dragon Ball Z	DBZ
 Forever (2014)	Forever (US)
+Game of Thrones	GOT
 House of Cards	HOC
 How I Met Your Mother	HIMYM
 Law & Order: Special Victims Unit	Law & Order SVU	Law and Order SVU
