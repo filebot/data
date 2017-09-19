@@ -12,7 +12,7 @@
 720
 7p
 @KIDZ
-\d(CD|CDRip)
+\d(Audio|CD|CDRip)
 \d+(of|.of.|.track.)\d+
 \d+[.,]\d+GB
 \d{2,4}.\d{2}.\d{2}.\d{2}.\d{2}
@@ -382,7 +382,7 @@ Dokumentarfilm
 DownRev
 dreambox.cut
 DSKI
-Dual.Audio
+Dual.?Audio
 dubbed
 DVD\d+
 DVDsize
