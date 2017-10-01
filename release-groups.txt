@@ -105,6 +105,7 @@ aBD
 ABH
 ABiS
 Abjex
+Absinth
 AbSurdity
 ABU
 AC-Subs
@@ -481,6 +482,7 @@ BUX
 BVM
 BWB
 bySnoper
+ByteShare
 c-f
 C-N
 C-N.NTFS
@@ -671,6 +673,7 @@ D-YFI
 D-Z0N3
 D.L
 D05
+D0ct0rLew
 D0NK
 D0PE
 D2V
@@ -949,6 +952,7 @@ EVE
 EveTaku
 Eveyuu
 eViLsCi
+EvM
 EVO
 eVoD
 EVOLVE
@@ -1066,6 +1070,7 @@ FRAGMENT
 FraMeSToR
 FREAKS
 FREEDOM
+FreetheFish
 FREHD
 FRENCH-JPA
 FRiAR
@@ -1141,6 +1146,7 @@ GENUiNE
 GEO
 GERUDO
 Getbackers
+GetSchwifty
 GFE
 GFE.AP
 GFS
@@ -1313,6 +1319,7 @@ Hentai-Legacy
 HentaiHeaven
 Herakler
 HEroAP
+HETeam
 HEVCguy
 HFS
 HH
@@ -1515,6 +1522,8 @@ JOLLY
 JoLLyRoGeR
 joseole99
 joseole99-TCL
+JOY
+JoyBell
 Jozzep
 JS
 jth
@@ -1647,6 +1656,7 @@ LamB
 LaMe
 LameHD
 Lamonae
+Langbard
 LAP
 LARCENY
 LAZERS
@@ -2397,6 +2407,7 @@ Ryotox
 RyS
 Ryugan
 Ryuumaru
+RZeroX
 S-A
 s-f
 S-G
@@ -2599,6 +2610,7 @@ SPORTSBAR
 SpotlandRules
 SPRiNTER
 SpS
+SPYC
 SQsR
 SQUiZZiEs
 sriz
@@ -2614,6 +2626,7 @@ SSP-Corp
 St-s
 STAGEMAN
 STARLIGHT
+StarLord
 STARS
 StarWars
 Stealthmaster
@@ -2977,6 +2990,8 @@ vrs
 VS
 VST
 VT
+VTV
+Vyndros
 W-B
 w.0.0.f
 w0rm
