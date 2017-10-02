@@ -147,6 +147,7 @@ AFS
 AFz
 AG
 aGGr0
+AgusiQ
 AH
 AHD
 aheintz
@@ -252,6 +253,7 @@ AoT
 AP
 APAX
 APB
+apekat
 APPEL
 APT
 AQOS
@@ -431,6 +433,7 @@ BLUEYES
 blueZilla
 BluHD
 BluntSlayer-Obfuscated
+BLUURY
 BluWave
 BLUWORLD
 BMB
@@ -618,6 +621,7 @@ COVEIRO
 COWiSO
 CoWRY
 CP
+CPG
 CPtScene
 CPY
 CR
@@ -697,6 +701,7 @@ DanskKulturskat
 Darkside.RG
 DARKTIGER
 DARM
+DaScubaDude
 DASH
 DATS
 DAW
@@ -963,6 +968,7 @@ ExDR
 EXiLE
 Exiled-Destiny
 EXIST3NC3
+ExKinoRay
 EXPS
 EXQUiSiTE
 eXtaCY
@@ -1019,6 +1025,7 @@ FiDELiO
 FiDO
 FIG
 FiHTV
+FiLMANTA
 FilmHD
 Filmikz
 Final8
@@ -1062,6 +1069,7 @@ FORMULA
 FORWARD
 FourGHD
 FoV
+FOXM
 FOXY
 FPG
 FQM
@@ -1332,6 +1340,7 @@ HiDeF
 HiDt
 Hien
 HiFi
+highcal
 HighCode
 HiGHTiMES
 Higure_Rumbel
@@ -1412,6 +1421,7 @@ IDE
 Idi0T
 iDiB
 idtv
+iExTV
 iFH
 iFN
 iFPD
@@ -1818,6 +1828,7 @@ MiNDTHEGAP
 MiNT
 MiRAGETV
 MiRAMAX
+MIRCrew
 MIS
 MiSFiTS
 Mish
@@ -1929,6 +1940,7 @@ NeDiVx
 NEECHAN
 NekoMimi
 NekoS
+nelly45
 NemDiggers
 NEPTUNE
 NERDHD
@@ -2290,6 +2302,7 @@ RCDiVX
 RCP
 RCVR
 RDK123
+RDLinks
 RDVAS
 REACTOR
 Reaperza
@@ -2353,6 +2366,7 @@ Ripp3rX
 RippingGods
 RiPRG
 RiPTATORz
+RishiBhai
 Rising.Sun
 RisingSun
 RiTALiN
@@ -2461,6 +2475,7 @@ SD_Taka
 SDGiRL
 SDH
 SDI
+SDLovers
 SecretMyth
 SECTOR7
 SeeHD
@@ -2644,6 +2659,7 @@ STRATOS
 Strawhat
 streetwars
 STRONG
+STUTTERSHIT
 StyleZz
 StyLishSaLH
 SU
@@ -2988,6 +3004,7 @@ VoMiT
 VOSTFR
 VoX
 VoXHD
+VPPV
 vrs
 VS
 VST
@@ -3096,6 +3113,7 @@ xV
 XviK
 XWT
 XXX4U
+xxxpav69
 XYZ
 Y-T
 YA
