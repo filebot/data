@@ -517,7 +517,7 @@ catflap
 CBB
 CBFM
 CBGB
-cbm
+CBM
 CCAT
 CCCAM
 CCCUNT
@@ -2860,6 +2860,7 @@ TSs
 TSUKI
 tsukikaze
 TSUMIKI
+Tsundere
 TsuSubs
 Tsuyoi
 TU
