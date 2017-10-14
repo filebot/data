@@ -842,6 +842,7 @@ DOWN
 DP
 dpf
 DPiMP
+Dr.STAR
 DRABBiTS
 DRACULA
 DragonTeam
