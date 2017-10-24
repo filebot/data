@@ -849,6 +849,7 @@ DP
 dpf
 DPiMP
 Dr.STAR
+Dr3adLoX
 DRABBiTS
 DRACULA
 DragonTeam
@@ -866,6 +867,7 @@ DsM4U
 DsunS
 Dtech
 DTFS
+DTOne
 Dublado
 DUKES
 DUMBLE
@@ -921,7 +923,9 @@ elizabethtga
 ELYSIUM
 EM0C0RE
 EmC
+EmEm
 EMERALD
+EmeraldEmpire
 EMLHDTeam
 EMPiREHD
 EnA
@@ -1204,6 +1208,7 @@ GNF
 GoApe
 GOATLOVE
 Goblin10
+GOD
 GoDSMaCK
 GoenWae
 Gogeta
@@ -1934,6 +1939,7 @@ N!K
 N-F
 N-Subs
 N0L
+n0m1
 N0TSC3N3
 n3xT
 NAFSG
@@ -2402,6 +2408,7 @@ RMT
 RMTeam
 RMx
 RnC
+RoB
 RoCK&BlueLadyRG
 RoCKRioT
 RoFL
@@ -2498,6 +2505,7 @@ SCREAM
 ScWb
 SD-Project
 SD_Taka
+SDC
 SDGiRL
 SDH
 SDI
@@ -3019,6 +3027,7 @@ ViNYL
 ViP3R
 ViSiON
 Vision-Anime
+VISIONPLUSHDR1000
 ViSTA
 ViSTA™
 ViSUM
@@ -3200,6 +3209,7 @@ ZEST
 ZEUS
 Zeus-Dias
 ZKuS
+ZMachine
 zman
 ZMG
 zomg
