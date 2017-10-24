@@ -39,6 +39,7 @@
 41ST
 420RipZ
 420SHAGGER
+4DDL
 4FuN
 4HM
 4HUN
@@ -773,6 +774,7 @@ DGAS
 DGX
 DGz
 dH
+DHARMA
 DHD
 DiAMOND
 DIAMONDS
@@ -819,6 +821,7 @@ DMT
 DNA
 DnB
 DNL
+DnO
 DNR
 dns
 DoA
@@ -1325,6 +1328,7 @@ HDS
 HDU
 HDVD
 HDViSiON
+HDVN
 HDW
 HDWinG
 HDX
@@ -1409,6 +1413,7 @@ Huzzah
 Huzzah.Scum-Scans
 Huzzah_Doremi
 hV
+HvO
 HWD
 HWE
 Hyb
@@ -1890,6 +1895,7 @@ mRs
 MRShanku
 MRSK
 MS
+Ms89
 mSD
 MSE
 MSNTHRP
@@ -1898,6 +1904,7 @@ MTB
 MTeam
 mthodmn101
 MUC
+MULTiPLEX
 MULTiPLY
 MULVAcoded
 MURDER
@@ -2595,6 +2602,7 @@ SM-Subs
 SM_LoC
 SMC
 sMi
+Smithers
 SMoKeR
 SMOKEY
 SMRKings
