@@ -1314,6 +1314,7 @@ HD-UNiT3D
 HD1080
 HD4U
 HDATV
+HDBEE
 HDBRiSe
 HDBT
 HDC
@@ -1375,6 +1376,7 @@ HiFi
 highcal
 HighCode
 HiGHTiMES
+Highvoltage
 Higure_Rumbel
 Himatsubushi
 Himi
@@ -1549,6 +1551,7 @@ JaneDoe
 JAPHSON
 Jarzka
 Jason28
+JATO
 Jav-Fans
 JAVLiU
 JBS
@@ -2022,6 +2025,7 @@ niizk
 NikonXP
 niku
 NILE
+NIMA4K
 Nimu
 NinjaPanda
 nItRo
@@ -2113,6 +2117,7 @@ OlLanDGroup
 OMA
 OMER
 OMERTA
+OMFUG
 OMGtv
 OMiCRON
 Omifast
@@ -2755,6 +2760,7 @@ sUN.sujaidr
 SUNSPOT
 SUPERiER
 SuperNova
+SUPERSIZE
 SuPReME
 SURFER
 SuS
