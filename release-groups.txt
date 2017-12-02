@@ -873,6 +873,7 @@ DrSn
 DS
 DS9
 DsM4U
+DSS
 DsunS
 Dtech
 DTFS
@@ -1424,7 +1425,7 @@ HqDTS
 HQE
 HQM
 HR
-hrs
+HRS
 HS
 HuBBaTiX
 HUBRiS
