@@ -264,6 +264,7 @@ Archerr
 ARCHiViST
 ArenaBG
 ARGON
+ARiES
 ARIGATOU
 ARiGOLD
 ARiSCRAPAYSiTES
@@ -655,6 +656,7 @@ CRNTV
 CROOKS
 CROSSBOW
 CROSSFADE
+CROSSFIT
 CROWN
 CrunchySubs
 Crustyroll
@@ -915,6 +917,7 @@ eclipse-m.3.3.w
 ecliptic-BSS
 ED
 ED-Subs
+EDHD
 eDi
 eeye
 EFA
@@ -1478,6 +1481,7 @@ iLG
 iLGS
 iLL
 iLLUSiON
+iLoveHD
 iLS
 imacRuel1
 iMAGiNE
@@ -1515,6 +1519,7 @@ InSaNiTy
 iNSECTS
 iNSOMNi
 iNSPiRED
+iNSPiRiT
 InSubs
 iNT-TD
 IntelliQ
@@ -1933,6 +1938,7 @@ mSD
 MSE
 MSNTHRP
 MsR
+MT
 MTB
 MTeam
 mthodmn101
@@ -2008,6 +2014,7 @@ NewArtRiot
 NewMov
 NewSubs
 NeWTeaM
+NEXTGEN
 NEZU
 NFHD
 NGB
@@ -2400,6 +2407,7 @@ RELOADED
 REMARKABLE
 REMAX
 REMUX
+RENEGADES
 Repivx
 REPLICA
 REPRiSE
