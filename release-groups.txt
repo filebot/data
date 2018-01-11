@@ -1,15 +1,3 @@
-To4ka
-MOLY
-AiRTV
-GEEK
-O2STK
-ENTiCEMENT
-UNFIrED
-Jester
-noobless
-OmertaHD
-CptCrunchzz
-CPT
 0Ac
 0MNiDVD
 0PTiMUS
@@ -27,6 +15,7 @@ CPT
 1TiME
 1TV
 21TH
+26k
 2Brothers
 2DVD
 2HD
@@ -36,6 +25,8 @@ CPT
 2SD
 2TU
 2WIRE
+300MbMoviesHub
+30nama
 310yuma
 3DA
 3Li
@@ -116,6 +107,8 @@ AaS
 ABB
 aBD
 ABH
+AbhiSona
+AbhiStuff
 ABiS
 Abjex
 Absinth
@@ -171,6 +164,7 @@ Aiden0
 AiHD
 AINEX
 AiRLiNE
+AiRTV
 AiRWAVES
 aiTen
 AJ
@@ -191,6 +185,7 @@ AKUPX
 ALANiS
 alE13
 ALeSiO
+AlexFilm
 ALLiANCE
 ALLZINE
 ALTEREGO
@@ -199,6 +194,7 @@ AMBASSADOR
 AMBIT
 AMBiTiOUS
 AME
+Amedia
 AMIABLE
 AMIRITE
 AMSTEL
@@ -248,6 +244,7 @@ ANiVCD
 AniYoshi
 ANK
 ANON
+ANONYMUS
 anoXmous
 AnS
 ANUBIS
@@ -429,6 +426,7 @@ BiPOLAR
 BiQ
 BiRDHOUSE
 BiTo
+BiZouNouRs
 BKF
 BKT
 BladeBDP
@@ -498,6 +496,7 @@ BTVG
 BTW
 BugZ
 BugzBunny
+BulgariaHD
 BULLDOZER
 BUNNY
 BURGER
@@ -607,14 +606,17 @@ CLITORI
 cloudyvision
 cLT
 CLUE
+CM
 CM8
 Cman
 CME
+CMRG
 CMS
 CNHD
 CNHDA
 CnK
 cNLDVDR
+CnSCG
 CnT
 cntc
 CoalGG
@@ -625,6 +627,7 @@ COC
 COCAIN
 Cocksure
 COiNCiDENCE
+COMANDOTORRENTS
 Commie
 Commie-UNDERWATER
 COMPLIANT
@@ -647,6 +650,8 @@ COWiSO
 CoWRY
 CP
 CPG
+CPT
+CptCrunchzz
 CPtScene
 CPY
 CR
@@ -716,6 +721,7 @@ D3Si
 D_Z0N3
 DA-C
 DAA
+DADDY
 DaDuck
 DAFTPUNK
 Dali-Neko
@@ -749,6 +755,7 @@ DCTP
 DD
 DDC
 dddc
+DDDD
 DDR
 de\[42\]
 DEA
@@ -910,6 +917,7 @@ DVL
 dvsky
 DX
 DXO
+DYGC
 DYNAMiCS
 DYNOSAUR
 E-D
@@ -936,6 +944,7 @@ eeye
 EFA
 EFTERLYST
 EHLE
+EiE
 EightBit
 EIGO
 EiMi
@@ -961,6 +970,7 @@ ENCRyPTED
 EnDoR
 EnSu
 ENT
+ENTiCEMENT
 eots
 EP1C
 EPHEMERiD
@@ -1010,6 +1020,7 @@ ExKinoRay
 EXPS
 EXQUiSiTE
 eXtaCY
+ExtraMovies
 ExtraTorrentRG
 EXTREME
 EXViD
@@ -1042,6 +1053,7 @@ FBO
 FCC
 FEATURE
 Feel-Free
+FeelFree
 FELONY
 FESTiS
 FETiSH
@@ -1067,6 +1079,8 @@ FiHTV
 FiLMANTA
 FilmHD
 Filmikz
+Filmytorrents
+Filmytorrents.com
 Final8
 FiNaLe
 FINALLY
@@ -1164,6 +1178,7 @@ FXG
 FxM
 FyHD
 FZERO
+FzTeam
 G.AX
 g0tm1Lk
 G3LHD
@@ -1186,7 +1201,9 @@ GB
 gcd
 GDR
 Ge-Ba
+Gears.Media
 GECKOS
+GEEK
 GeekRG
 GEHENNA
 GeNa
@@ -1422,6 +1439,7 @@ HNRDVD
 HoH
 HOLDEM
 Hollow-Subs
+Hollymovies4u
 holz
 Hon3y
 Hon3yHD
@@ -1447,6 +1465,7 @@ HS
 HuBBaTiX
 HUBRiS
 HuNTER
+Hurtom
 HuSh
 Huzzah
 Huzzah.Scum-Scans
@@ -1532,6 +1551,7 @@ INP
 InSaNiTy
 iNSECTS
 iNSOMNi
+INSPIRAL
 iNSPiRED
 iNSPiRiT
 InSubs
@@ -1552,6 +1572,7 @@ ISHIN
 iSrael
 iSRAELiTE
 israntxa
+iSTANCE
 iSUBS
 iT00NZ
 iTA
@@ -1571,6 +1592,7 @@ Jan55
 JaneDoe
 JAPHSON
 Jarzka
+Jaskier
 Jason28
 JATO
 Jav-Fans
@@ -1578,7 +1600,9 @@ JAVLiU
 JBS
 JCH
 jedi
+JellyBean
 JENC
+JESTER
 JETSET
 JFKDVD
 JFKXVID
@@ -1630,6 +1654,7 @@ KAS
 KASHMiR
 KATA
 KaTe
+KatmovieHD
 KAZAN
 KBEC
 kE
@@ -1656,6 +1681,7 @@ KILLERS
 KiLT
 KINeMA
 KINGDOM
+Kingmaker
 KiNGS
 KingStoner
 KiNOWELT
@@ -1736,6 +1762,8 @@ LameHD
 Lamonae
 Langbard
 LAP
+LAPUMiA
+LAPUMiAFiLMES
 LARCENY
 LAZERS
 Lazy-Subs
@@ -1772,6 +1800,7 @@ LizardGods
 LKRG
 LMAO
 LMG
+LMK
 LNFS
 LoB
 LoD
@@ -1842,6 +1871,7 @@ Mamiko-Chihiro
 Manatsu
 MANGACiTY
 MANHOLE
+MANNING
 Marhaba
 MARiNES
 marioBombo
@@ -1912,6 +1942,7 @@ MMI
 MoA
 MOBBit
 MOBEE1
+MOBiDiK
 MOCHI
 MoE
 Moe.AP
@@ -1921,6 +1952,7 @@ MoeTV
 MoF
 MoH
 Mokyu~
+MOLY
 MOMENTUM
 MOMO
 MONK
@@ -1932,15 +1964,19 @@ MoreHD
 MORiCH
 MORiTZ
 MOROSE
+MORS
 MOTION
 MOTU
 MoTv
 MOViERUSH
+MoviesEvil
 MOViESTARS
+Moviezworldz
 Mp4Ba
 MPTDVD
 Mr. KickASS
 MRC
+MrGrey
 MrLore
 MRN
 mRs
@@ -1986,6 +2022,7 @@ Mô-Subs
 N!K
 N-F
 N-Subs
+N.O.K
 N0L
 n0m1
 N0TSC3N3
@@ -2026,8 +2063,10 @@ NEUTRINO
 NEW.SOURCE
 NewArtRiot
 NewMov
+NewStudio
 NewSubs
 NeWTeaM
+NextBit
 NEXTGEN
 NEZU
 NFHD
@@ -2074,6 +2113,7 @@ NOHD
 NOiR
 NoneStop
 noobkg
+noobless
 NoobSubs
 NORARS
 NORDIC.EDITION
@@ -2122,6 +2162,7 @@ Nyu
 O-L
 O-S
 O.K-Subs
+O2STK
 O4L
 O69
 OAS
@@ -2144,11 +2185,14 @@ OlLanDGroup
 OMA
 OMER
 OMERTA
+OmertaHD
 OMFUG
 OMGtv
 OMiCRON
 Omifast
+Omikron
 OMP
+OmskBird
 OmU
 ONDEED
 Ongaku
@@ -2169,6 +2213,7 @@ ORC
 ORDER
 ORENJi
 ORGANiC
+ORGO
 ORiGEN
 ORIGIN
 ORPHEUS
@@ -2178,8 +2223,10 @@ OSiTV
 Osuald
 OTT
 OTV
+OUTBREAK
 OUTDATED
 OUZO
+Ov3rload
 OVERTiME
 OYHD
 OZC
@@ -2217,6 +2264,7 @@ PeeWee
 PeKI
 PELLUCiD
 pem
+PEMOC
 Penumbra
 PerfectionHD
 PFa
@@ -2240,6 +2288,7 @@ PiNER
 PiNKPANTERS
 PIONEER
 PiPicK
+Pitufo180
 PiX
 PixelHD
 PKF
@@ -2284,6 +2333,7 @@ pradanada
 PRECiOUS
 PRETAiL
 PRETENTIOUS
+PREUMS
 prevail
 PriMaLHD
 PRIME
@@ -2395,11 +2445,13 @@ RCVR
 RDK123
 RDLinks
 RDVAS
+rDX
 REACTOR
 Reaperza
 REAVERS
 REBELS
 RedBlade
+ReDe@mer
 RedFox109e
 REDJOHN
 ReDone
@@ -2422,6 +2474,7 @@ REMARKABLE
 REMAX
 REMUX
 RENEGADES
+RenTV
 Repivx
 REPLICA
 REPRiSE
@@ -2659,6 +2712,7 @@ Skazhutin
 SKGTV
 SkipTowne
 SKiTFiSKE
+SkRiN
 SKYLIGHT
 SkyLord
 SKYRG
@@ -2719,6 +2773,7 @@ Sphinctone1
 SPiRO
 SPiROTV
 SPK
+SPLENDIDE
 SPLiTSViLLE
 SPOOKS
 SPOOKY
@@ -2739,6 +2794,7 @@ SS-Eclipse
 SSF
 SSK
 SSL
+SSN
 SSP-Corp
 St-s
 STAGEMAN
@@ -2746,6 +2802,7 @@ STARLIGHT
 StarLord
 STARS
 StarWars
+StB
 Stealthmaster
 Steins;Sub
 STELLA
@@ -2786,6 +2843,8 @@ Subtox
 SUBZERO
 SUJAIDR
 sUN.sujaidr
+Sunshine.Studio
+SunshineStudio
 SUNSPOT
 SUPERiER
 SuperNova
@@ -2830,6 +2889,7 @@ Tass
 TASTE
 TASTETV
 TastyMelon
+TATUGAMESCF
 Taurine
 TAXES
 TayTO
@@ -2874,6 +2934,7 @@ TFS
 TG7
 TGP
 The3DTeam
+theAmresh
 TheBatman
 TheCure
 TheNewSquad
@@ -2886,6 +2947,7 @@ THICK
 Thizz
 THOR
 THORA
+threesixtyp
 THRONE
 THUGLiNE
 THUNDER
@@ -2918,6 +2980,7 @@ tNe
 TnF
 TnH
 TnTvillage
+To4ka
 ToF
 Toki-D
 TOKUS
@@ -2928,7 +2991,10 @@ TOPCAT
 TOPHD
 TOPPESTOFKEKS
 Tormaid
+TorrentCouch
+TorrentCounter
 TorrenTGui
+TorrentsGroup.Exclusive
 TosKMV
 Towelie
 ToY-RC
@@ -2975,6 +3041,7 @@ TURBO
 TURKiSO
 TUSAHD
 Tushar
+Tv21
 TV2LAX9
 TV4A
 TVA
@@ -3024,6 +3091,7 @@ UNDERCOVER
 UNDERWATER
 Underwater-Mahjong
 UNDINE
+UNFIrED
 UNiQUE
 UNiT
 UNiTaiL
@@ -3180,6 +3248,8 @@ Wolky
 WOMBAT
 WooDY
 WoRKZ
+Worldfree4u
+Worldfree4u.Link
 WORLDVD
 WPi
 WRCR
@@ -3279,6 +3349,7 @@ Zero-Raws
 ZEST
 ZEUS
 Zeus-Dias
+Zi.t
 ZKuS
 ZMachine
 zman
@@ -3286,6 +3357,7 @@ ZMG
 zomg
 Zomg-Killerhurtalot
 ZON3
+ZonaTorrent2
 Zorori-Project
 Zox
 ZQ
@@ -3297,3 +3369,4 @@ ZZGtv
 ~AA~
 ~Invincible
 ßsZ
+СТС
