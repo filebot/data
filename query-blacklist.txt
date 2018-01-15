@@ -141,6 +141,7 @@
 ^inbox$
 ^Incoming$
 ^Incomplete$
+^Index$
 ^JDownloader$
 ^jukebox$
 ^Kids$
