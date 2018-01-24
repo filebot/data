@@ -1,4 +1,3 @@
-QxR
 0Ac
 0MNiDVD
 0PTiMUS
@@ -269,6 +268,7 @@ APB
 apekat
 APPEL
 APT
+APTX
 AQOS
 AR
 ARC
@@ -280,6 +280,7 @@ ARiES
 ARIGATOU
 ARiGOLD
 ARiSCRAPAYSiTES
+ARIZONE
 ARK01
 ARR
 ARROW
@@ -399,6 +400,7 @@ BDP
 BDr
 BDRETAil
 BDS
+Bearfish
 beAst
 Beatrice-Raws
 BEAVE
@@ -483,6 +485,7 @@ BRiGHT
 BRISK
 BRMP
 BRN
+BRSHNKV
 BRUTUS
 BRZONE
 BS
@@ -510,6 +513,7 @@ BVM
 BWB
 bySnoper
 ByteShare
+Bzingaz
 c-f
 C-N
 C-N.NTFS
@@ -584,6 +588,7 @@ CHIPTEC
 Chotab
 CHRONiCLES
 CHRONO
+CHRONOS
 CHUPAWAKE
 CHUPPI
 CHwDgB
@@ -605,6 +610,7 @@ CLASSiC
 CLASSiCAL
 CLD
 CLDD
+Cleo
 CLERKS
 CLITORI
 cloudyvision
@@ -692,6 +698,7 @@ Cthuyuu
 Ctrl-Znf
 CtrlHD
 CtrlSD
+CTTV
 CTU
 CTUSports
 CULT
@@ -845,6 +852,7 @@ DiVERSiFY
 DiVERSiTY
 DiViN3
 DiViSiON
+DiVULGED
 DivXNL
 DivXNL-Team
 DjRobo38
@@ -1086,6 +1094,7 @@ FiHTV
 FiLMANTA
 FilmHD
 Filmikz
+Filmiwar
 Filmytorrents
 Filmytorrents.com
 Final8
@@ -1125,6 +1134,7 @@ FOOTBALL
 FORCE
 ForceBleue
 FORGE
+Forlorn
 FoRM
 FORMULA
 FORWARD
@@ -1148,6 +1158,7 @@ FRiES
 FRiESSPORT
 FRIGGHD
 FRISKY
+FrogPerson
 FROH-BITE
 FrOnkY
 FROST
@@ -1241,6 +1252,7 @@ GiGAS
 GiMCHi
 GiNJi
 ginseng
+GIRAYS
 gizzmo
 GJM
 GK
@@ -1308,6 +1320,7 @@ GUPDVDR
 GUR
 GVD
 GW
+GWC
 GWP
 GWViD
 GxP
@@ -1409,6 +1422,8 @@ HEroAP
 HETeam
 HEVC.CLUB
 HEVCguy
+HEVCLovers
+HevcLovers.com
 HFS
 HH
 HHH
@@ -1501,6 +1516,7 @@ iBEX
 iCANDY
 ICE
 iCEHD
+iCilleZ
 iD
 IDE
 Idi0T
@@ -1666,6 +1682,7 @@ KASHMiR
 KATA
 KaTe
 KatmovieHD
+KatmovieHD.me
 KAZAN
 KBEC
 kE
@@ -1682,6 +1699,8 @@ KG
 kgl
 KH
 Khmer-Hentai
+khoshmard
+KHP
 KHPP
 kHzViD
 KickFoot
@@ -1719,6 +1738,7 @@ KNIGHTY1973
 KnK
 KnKF-Doremi
 KNOC
+KNP
 KnU-FS
 KOC
 KoD
@@ -1734,6 +1754,7 @@ KOR
 KOSHARA
 KOTOMI
 KOTOMI_GMB_F-B
+KoTuWa
 KPR
 KRaLiMaRKo
 kris33
@@ -1792,6 +1813,7 @@ LEVERAGE
 LEViTY
 LF
 LFF
+LGC
 LGLuX
 LiBERTY
 LIBRARIANS
@@ -1845,6 +1867,7 @@ LTRG
 LTT
 LTU
 LU3UR
+Lucifer22
 Lulusubs
 Lum1x
 LUNAR
@@ -1863,6 +1886,7 @@ M.O
 M2
 M2Tv
 M33P
+M3D
 m4u
 M4XD0ME
 M4XDOME
@@ -1917,6 +1941,7 @@ MEDiEVAL
 MEDIUS
 MEG
 MEGAMACY
+MeGUiL
 MeGusta
 MeiohSubs
 MELBA
@@ -1925,6 +1950,7 @@ MEMORiES
 MenaceIISociety
 Mental.RG
 MEOW
+METeam
 MeTH
 METiS
 MF
@@ -1950,6 +1976,8 @@ MissRipZ
 Miyu
 Miyuki-Fansubs
 MkvCage
+MKVTV
+MKVTV.NET
 MLW
 MMI
 MoA
@@ -1971,6 +1999,7 @@ MOMO
 MONK
 monkee
 Monokage
+MONOLITH
 MOOVEE
 Moozzi2
 Morai
@@ -1982,6 +2011,8 @@ MORS
 MOTION
 MOTU
 MoTv
+MovieEater
+MovieEater.net
 MOViERUSH
 MoviesEvil
 MOViESTARS
@@ -2056,6 +2087,7 @@ Narcolepsy
 Narutoverse
 NaSaMo
 NaSu
+nate_666
 NATV
 NBS
 NCmt
@@ -2087,6 +2119,7 @@ NextBit
 NEXTGEN
 NEZU
 NFHD
+NFRiP
 NGB
 NGE
 NgN
@@ -2145,6 +2178,7 @@ NOTV
 NotWCP
 noushi
 NoVA
+NovaLan
 NOVO
 NOWiNHD
 nox
@@ -2425,6 +2459,7 @@ QuebecRules
 QUEENS
 quietE
 QXE
+QxR
 R&C
 R-B
 R-F
@@ -2519,6 +2554,7 @@ rG
 RHD
 RHooD
 RHyTM
+RiddlerA
 RiFF
 RIG
 RightSiZE
@@ -2614,6 +2650,7 @@ Saitei
 SAiVERT
 Saizen
 Saizen-HnG
+Sajid790
 SakuraCircle
 SallySubs
 SAMFD
@@ -2715,6 +2752,7 @@ sickboy88
 SiGHTHD
 SiGMA
 SiHD
+SILENCE
 SiLU
 Silver.RG
 SiMbA
@@ -2757,6 +2795,7 @@ SMRKings
 SMRPRTY
 Smurfenlars
 Sn0wMaN
+SNAKE
 snavE
 SNCo
 SNEAK
@@ -3008,6 +3047,7 @@ Toki-D
 TOKUS
 TOMA
 tomcat12
+TOP
 TOPAZ
 TOPCAT
 TOPHD
@@ -3067,6 +3107,7 @@ Tv21
 TV2LAX9
 TV4A
 TVA
+TVBeastS
 TVBYEN
 TvD
 TVFi
@@ -3249,6 +3290,7 @@ whip93
 WhoKnow
 WhyNot
 WiDE
+WiiFi
 WiKi
 WILDER
 WinD
@@ -3317,6 +3359,7 @@ XTSF
 xV
 XviK
 XWT
+XxUnkn0wnxX
 XXX4U
 xxxpav69
 XYZ
@@ -3385,6 +3428,7 @@ ZonaTorrent2
 Zorori-Project
 Zox
 ZQ
+zsewdc
 ZSiSO
 Zurako
 Zuzuu
