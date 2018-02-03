@@ -111,6 +111,7 @@ AbhiSona
 AbhiStuff
 ABiS
 Abjex
+ABM
 Absinth
 AbSurdity
 ABU
@@ -218,6 +219,7 @@ AniCom
 ANiHLS
 AniKami
 AniKat
+AniMaL
 Animanda
 Anime-Ancestors
 Anime-Conan
@@ -246,6 +248,7 @@ AniYoshi
 ANK
 ANK-Raws
 ANON
+AnonymousRG
 ANONYMUS
 anoXmous
 AnS
@@ -276,6 +279,7 @@ Archerr
 ARCHiViST
 ArenaBG
 ARGON
+Argotzz
 ARiES
 ARIGATOU
 ARiGOLD
@@ -352,6 +356,7 @@ B.F
 B2E
 BA
 Ba-Su
+BabyGirl21@BluRG
 BABYLON
 babylonad
 BaCKToRG
@@ -366,6 +371,7 @@ Baka-Anime
 Baka-Chi
 Bakakozou
 Bakaniichan
+BAKED
 Bakura2
 BaLD
 BALLERINA
@@ -385,6 +391,7 @@ BATV
 BAUM
 BAVARiA
 BAWLS
+BAZ
 Bazinga-Subs
 BBDvDR
 BBF
@@ -455,6 +462,7 @@ BLUEYES
 blueZilla
 BluHD
 BluntSlayer-Obfuscated
+BluRG
 BLUURY
 BluWave
 BLUWORLD
@@ -503,6 +511,7 @@ BTVG
 BTW
 BugZ
 BugzBunny
+BuLD
 BulgariaHD
 BULLDOZER
 BUNNY
@@ -576,6 +585,7 @@ CHD
 CHDBits
 CHDSUBS
 CHDTV
+CHECKMATE
 CHEL
 CHGRP
 CHIBI
@@ -634,6 +644,7 @@ CoalGG
 Coalgirls
 CoalGuys
 COALiTiON
+COASTER
 COC
 COCAIN
 Cocksure
@@ -645,6 +656,7 @@ COMPLIANT
 COMPULSION
 CONDITION
 ConePoneFlicks
+CONFiDENCiAL
 CONFiDENT
 Connaz-AKA-MrPirate
 CONTRiBUTiON
@@ -694,6 +706,7 @@ CRYSTAL
 CSHD
 CSS
 CT.FS
+CTC
 CTD
 Cthuyuu
 Ctrl-Znf
@@ -745,6 +758,7 @@ danirl
 Danishbits
 DANNY
 DanskKulturskat
+DarkDream
 Darkside.RG
 DARKTIGER
 DARM
@@ -776,9 +790,11 @@ DEADPiXEL
 DEADPOOL
 DEAL
 DEATHTV
+Debaucherous
 DeBCz
 DeBTViD
 DECADE
+decatora27
 DECENT
 decibeL
 DeeJayAhmed
@@ -904,6 +920,7 @@ DRG
 DRHD
 DROiDS
 DRONES
+DrSi
 DrSn
 DS
 DS9
@@ -953,6 +970,7 @@ ED
 ED-Subs
 EDHD
 eDi
+Eeazy
 eeye
 EFA
 EFTERLYST
@@ -1073,6 +1091,7 @@ FEATURE
 Feel-Free
 FeelFree
 FELONY
+FERAL
 FESTiS
 FETiSH
 FEVER
@@ -1264,11 +1283,13 @@ GK.RTFS
 GK.Shayo
 GK.subs4u
 GL
+GLaDOS
 GLASSES
 gleam
 GLF
 GlowGaze
 GlowGaze.Com
+Gluttony
 GLY
 GM4F
 GME
@@ -1378,6 +1399,8 @@ HCA
 HD-UNiT3D
 HD1080
 HD4U
+HDA
+HDAccess
 HDATV
 HDBEE
 HDBRiSe
@@ -1399,6 +1422,7 @@ HDLiTE
 HDMaNiAcS
 HDME
 HDMI
+HDMike
 HDmonSK
 HDPLANET
 HDQ
@@ -1421,6 +1445,7 @@ HEH
 HEJRA
 HELIX
 HELLRAZ0R
+HenDerson
 Hentai-Legacy
 HentaiHeaven
 Herakler
@@ -1437,6 +1462,7 @@ HHI
 Hi-no-Ka
 HIDD3N
 HiDeF
+HiDeFZeN
 HiDt
 Hien
 HiFi
@@ -1656,6 +1682,7 @@ joseole99-TCL
 JOY
 JoyBell
 Jozzep
+JRabbit
 JS
 jth
 jTV
@@ -1670,6 +1697,7 @@ Just4fun
 JustWatch
 JYK
 JZ
+jz1276
 K-F
 K-Fans_AF-F
 K-FS
@@ -1683,6 +1711,7 @@ KALAVALE
 KAMERA
 Kametsu
 Kamigami
+Kamihikouki
 Kanarianime
 KART3LDVD
 KAS
@@ -1775,7 +1804,9 @@ KSHOWNOW
 KSi
 KSN
 KSN-AEN
+KST
 ksya
+KTNP
 KTR
 KubuSubs
 Kurai-Subs
@@ -1810,9 +1841,11 @@ LAZERS
 Lazy-Subs
 LCD
 LCHD
+LDS
 leetay
 LeetHD
 LeetXD
+Leffe
 LEGEND
 LEGi0N
 LeON
@@ -1827,6 +1860,7 @@ LiBERTY
 LIBRARIANS
 LiebeHD
 Lightmaker
+LiGHTSPEED
 LiLDiCK
 lilwoodenboy
 LIME
@@ -1926,6 +1960,7 @@ marioBombo
 MarkerB
 MARS
 MaRVeLouS
+MaX
 MaxHD
 MAXiMUM
 MAXPRO
@@ -1968,6 +2003,7 @@ MF
 MFO
 MFS
 MG
+MgB
 MGMatriX
 MGS
 MHQ
@@ -2012,6 +2048,7 @@ monkee
 Monokage
 MONOLITH
 MONSTER
+MONT
 MOOVEE
 Moozzi2
 Morai
@@ -2025,6 +2062,7 @@ MOTU
 MoTv
 MovieEater
 MovieEater.net
+MOViEiT
 MOViERUSH
 MoviesEvil
 MOViESTARS
@@ -2100,6 +2138,7 @@ Narutoverse
 NaSaMo
 NaSu
 nate_666
+Nathan69
 NATTY
 NATV
 NBS
@@ -2226,6 +2265,7 @@ Nyu
 O-L
 O-S
 O.K-Subs
+o0o
 O2STK
 O4L
 O69
@@ -2274,6 +2314,7 @@ OPT!V!D
 OPTiC
 optimax
 Orbit69
+orbitron
 ORC
 ORDER
 ORENJi
@@ -2288,6 +2329,7 @@ OSiTV
 Osuald
 OTT
 OTV
+OUIJA
 OUTBREAK
 OUTDATED
 OUZO
@@ -2372,6 +2414,7 @@ PLUTONiUM
 PlX
 PM
 pmHD
+PmP
 PMSVCD
 PO2
 POCHER
@@ -2499,6 +2542,7 @@ Rapta
 RARBG
 Rare.Share
 Rasengan
+RATPACK
 RavenCrow
 RAWKiNS
 RaX
@@ -2510,6 +2554,7 @@ RC
 RCDiVX
 RCP
 RCVR
+Rdc
 RDK123
 RDLinks
 RDVAS
@@ -2633,6 +2678,7 @@ RURI
 Ruri-Saizen
 RUSTED
 RUSTLE
+RUT
 RWD
 RWP
 Rx
@@ -2773,6 +2819,7 @@ Silver.RG
 SiMbA
 SiMPLE
 SimplyReleaseS
+SiN
 SINISTER
 SiNNERS
 Sir.Paul
@@ -3063,6 +3110,7 @@ Toki-D
 TOKUS
 TOMA
 tomcat12
+Tonyk
 TOP
 TOPAZ
 TOPCAT
@@ -3114,6 +3162,8 @@ TSUMIKI
 Tsundere
 TsuSubs
 Tsuyoi
+TTG
+TTL
 TU
 TuGAZx
 TURBO
@@ -3163,6 +3213,8 @@ UKVcd
 ULF
 ULSHD
 ULTiMATE
+UltimateHD
+UltraHD
 ULTRAHDCLUB
 umai
 umee
@@ -3183,6 +3235,7 @@ UNTOUCHABLES
 UNTOUCHED
 UNVEiL
 UPPERCUT
+UQ
 ureshii
 Ureshii-Yoroshiku
 USELESS
@@ -3343,6 +3396,8 @@ X-Death
 X-S
 x0r
 x264Crew
+x265-Z
+x265bt.com
 x4subs
 XanaX
 xander
@@ -3426,6 +3481,7 @@ ZeDD
 ZeiZ
 ZEKTORM
 ZEN
+Zendal
 zenki
 ZER0
 ZeRO
@@ -3454,4 +3510,3 @@ ZZGtv
 ~AA~
 ~Invincible
 ßsZ
-СТС
