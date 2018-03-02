@@ -347,6 +347,7 @@ BDRemux
 Behind.The.Scenes
 Best.of.\d{4}
 Best.Quality
+Big4uMOVIES.PW
 bt.downloads
 btarena.org
 By.Cool.Release
@@ -380,6 +381,7 @@ DKsubs
 DL
 docu
 Dokumentarfilm
+Downloadhub
 DownRev
 dreambox.cut
 DSKI
@@ -558,6 +560,7 @@ sortmovie
 SPA
 Spanish
 srtl
+SSRmovies.COM
 Stephen.Kings
 stv
 Sub

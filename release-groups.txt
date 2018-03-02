@@ -1,47 +1,3 @@
-S4L
-CONDO
-SpaceShuttle
-p0.618
-N1C
-NO1CARES
-Big4uMOVIES
-SSRmovies
-KatMaster
-Zi.t
-Zaeem
-CriMiNaL
-iCV-MIRCrew
-MutzNutz
-EtMovies
-FLASH
-Bootstrap
-Makintos13
-MVGEE
-iMP3RiAL
-ONe
-OurSuperPilaEncode
-RebelSD
-Mafiaking
-MovCr
-rutracker
-Pahe.in
-VLAD
-PI
-PROF
-SmokeRings
-PUFO
-HQCLUB
-WEBTiFUL
-theincognito
-METCON
-TTO
-PbK
-Eisy
-SSG
-H4S5S
-TDD
-CADAVER
-DiYHDHome
 0Ac
 0MNiDVD
 0PTiMUS
@@ -476,6 +432,7 @@ BiEN
 BiERBUiKEN
 BiFOS
 BIFTIES
+Big4uMOVIES
 BiGBruv
 BIGTOPS
 Billman424
@@ -521,6 +478,7 @@ BonG
 bonkai77
 BoO
 BOOBIES
+Bootstrap
 BORDERLiNE
 BORGATA
 BountyHunters
@@ -582,6 +540,7 @@ C4TV
 C7B
 CA
 CACHE
+CADAVER
 CAELUM
 CAF
 CAKE
@@ -699,6 +658,7 @@ Commie-UNDERWATER
 COMPLIANT
 COMPULSION
 CONDITION
+CONDO
 ConePoneFlicks
 CONFiDENCiAL
 CONFiDENT
@@ -732,6 +692,7 @@ CREST
 CrEwSaDe
 CRF
 CRiME
+CriMiNaL
 CRiMSON
 CRiSC
 CRiSP
@@ -916,6 +877,7 @@ DiViSiON
 DiVULGED
 DivXNL
 DivXNL-Team
+DiYHDHome
 DjRobo38
 DK
 DKiDS
@@ -1025,6 +987,7 @@ EightBit
 EIGO
 EiMi
 Eiri
+Eisy
 Ekolb
 Electri4ka
 ELECTRiC
@@ -1070,6 +1033,7 @@ ETACH
 ETHOS
 ETM
 ETMID
+EtMovies
 ETRG
 EU
 EucHD
@@ -1179,6 +1143,7 @@ FLAiTE
 FLAKET
 FLAME
 fLAMEhd
+FLASH
 FLATLiNE
 FLAWL3SS
 FLEET
@@ -1405,6 +1370,7 @@ H2
 h264iRMU
 H3LL2P4Y
 H3XDVD
+H4S5S
 H72
 H@M
 HaB
@@ -1558,6 +1524,7 @@ HOWL
 HP
 HP4F
 HQC
+HQCLUB
 HqDTS
 HQE
 HQM
@@ -1594,6 +1561,7 @@ iCANDY
 ICE
 iCEHD
 iCilleZ
+iCV-MIRCrew
 iD
 IDE
 Idi0T
@@ -1630,6 +1598,7 @@ IMF
 IMMERSE
 iMMORTALs
 imNaKeD
+iMP3RiAL
 iMPERiUM
 IMPOSTERS
 iMSORNY
@@ -1762,6 +1731,7 @@ KAS
 KASHMiR
 KATA
 KaTe
+KatMaster
 KatmovieHD
 KatmovieHD.me
 KAZAN
@@ -1982,6 +1952,7 @@ M794
 MACHD
 macro
 madeec
+Mafiaking
 MaG
 MAGiC
 MAGiCAL
@@ -1992,6 +1963,7 @@ MAiN
 MainEvent
 MAJESTiC
 Makai
+Makintos13
 Male
 Mamiko-Chihiro
 Manatsu
@@ -2040,6 +2012,7 @@ MEMORiES
 MenaceIISociety
 Mental.RG
 MEOW
+METCON
 METeam
 MeTH
 METiS
@@ -2104,6 +2077,7 @@ MORS
 MOTION
 MOTU
 MoTv
+MovCr
 MovieEater
 MovieEater.net
 MOViEiT
@@ -2139,8 +2113,10 @@ MURDER
 MUSiX
 MuskeTeerS
 MuSt
+MutzNutz
 MUxHD
 mV4U
+MVGEE
 MVGroup
 MVM
 mVmHD
@@ -2165,6 +2141,7 @@ N.O.K
 N0L
 n0m1
 N0TSC3N3
+N1C
 n3xT
 NAFSG
 NAHOM
@@ -2250,6 +2227,7 @@ NLC
 NLSGDVDr
 NnH
 No.TK.BKF
+NO1CARES
 NO1KNOWS
 NODLABS
 NoGood
@@ -2344,6 +2322,7 @@ OMP
 OmskBird
 OmU
 ONDEED
+ONe
 Ongaku
 ONIGIRI
 ONS
@@ -2374,6 +2353,7 @@ Osuald
 OTT
 OTV
 OUIJA
+OurSuperPilaEncode
 OUTBREAK
 OUTDATED
 OUZO
@@ -2387,12 +2367,14 @@ OzZY1
 p-a
 P-S
 P-Z.SUBS
+p0.618
 P0W4
 P0W4DVD
 P2u
 P4DGE
 Pa@Ph
 PADDO
+Pahe.in
 Pankhabd
 panos
 Pantsu
@@ -2406,6 +2388,7 @@ PATE
 PaTHe
 PAYiSO
 PaYxXx
+PbK
 pbw
 PC
 PCH
@@ -2427,6 +2410,7 @@ PhoenixRG
 PHoQUE
 PhPh
 Phr0stY
+PI
 PiA
 Pianex
 piepHD
@@ -2499,6 +2483,7 @@ PRiViLEGED
 PrLund
 PROD
 PRoDJi
+PROF
 PROGRESS
 Project.Kitteh
 PROMiSE
@@ -2525,6 +2510,7 @@ PtS
 PTTeam
 PublicHD
 PUDDING
+PUFO
 PUKKA
 PUNCH
 Purana
@@ -2607,6 +2593,7 @@ REACTOR
 Reaperza
 REAVERS
 REBELS
+RebelSD
 RedBlade
 ReDe@mer
 RedFox109e
@@ -2723,6 +2710,7 @@ Ruri-Saizen
 RUSTED
 RUSTLE
 RUT
+rutracker
 RWD
 RWP
 Rx
@@ -2741,6 +2729,7 @@ S0LD13R
 S0NA
 S26
 S4A
+S4L
 s4u
 S8
 S8RHiNO
@@ -2896,6 +2885,7 @@ SMC
 sMi
 Smithers
 SMoKeR
+SmokeRings
 SMOKEY
 SMRKings
 SMRPRTY
@@ -2928,6 +2918,7 @@ SoXu
 SOY
 SPABLAUW
 SpaceHD
+SpaceShuttle
 spamTV
 SPAREL
 SPARKS
@@ -2958,10 +2949,12 @@ sRu
 SS
 SS-Eclipse
 SSF
+SSG
 SSK
 SSL
 SSN
 SSP-Corp
+SSRmovies
 St-s
 STAGEMAN
 STARLIGHT
@@ -3069,6 +3062,7 @@ TC.Samurai
 TCL
 TCM
 TCPA
+TDD
 TDF
 tdl
 TDR
@@ -3104,6 +3098,7 @@ The3DTeam
 theAmresh
 TheBatman
 TheCure
+theincognito
 TheNewSquad
 THENiGHTMARE
 THENiGHTMAREiNHD
@@ -3208,6 +3203,7 @@ TsuSubs
 Tsuyoi
 TTG
 TTL
+TTO
 TU
 TuGAZx
 TURBO
@@ -3352,6 +3348,7 @@ ViVID
 Vivid-Asenshi
 Vivid-Taku
 Vivid-Watashi
+VLAD
 VLiS
 VOA
 VOID
@@ -3391,6 +3388,7 @@ WATERS
 WAVEY
 WBZ
 WEBSTER
+WEBTiFUL
 WEBTUBE
 Weby
 WELEEF
@@ -3517,6 +3515,7 @@ YuS-MaiWaiFu
 YuS-マイワイフ
 Yuurisan-Subs
 YY-S
+Zaeem
 Zalis
 zan
 ZBS
