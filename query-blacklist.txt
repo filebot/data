@@ -211,6 +211,7 @@
 ^raid$
 ^Reality$
 ^Reality.Shows$
+^Record$
 ^Recorded.TV$
 ^Recordings$
 ^Remux$
