@@ -490,6 +490,7 @@ BRASTEMP
 bReAK
 BREiN
 BrG
+BriBerY
 BRiGAND
 BRiGHT
 BRISK
@@ -602,6 +603,7 @@ Chotab
 CHRONiCLES
 CHRONO
 CHRONOS
+CHS
 CHUPAWAKE
 CHUPPI
 CHwDgB
@@ -829,6 +831,7 @@ DeTvaVe
 DEUTERIUM
 DEViANT
 DEViSE
+DeVOiD
 DEWSTRR
 DFA
 DFE
@@ -982,6 +985,7 @@ EFA
 EFTERLYST
 EHLE
 ehMD
+EiDER
 EiE
 EightBit
 EIGO
@@ -1000,6 +1004,7 @@ EmC
 EmEm
 EMERALD
 EmeraldEmpire
+EMG
 EMLHDTeam
 EMPiREHD
 EnA
@@ -1132,12 +1137,14 @@ FiNaLe
 FINALLY
 FiTTY
 FiXi0N
+FiXIE
 FIXIT
 FiXTv
 fjall
 FK99
 FKKHD
 FKKTV
+FlacoFF
 FLAiR
 FLAiTE
 FLAKET
@@ -1168,6 +1175,7 @@ FORGE
 Forlorn
 FoRM
 FORMULA
+FORSAKEN
 FORWARD
 FourGHD
 FoV
@@ -1425,6 +1433,7 @@ HDEncX
 HDEX
 HDFiRE
 HDFL
+HDHome
 HDi
 HDIL
 HDL
@@ -1440,6 +1449,7 @@ HDReactor
 HDRINVASION
 HDRoad
 HDS
+HDTracker
 HDU
 HDVD
 HDViSiON
@@ -1668,6 +1678,7 @@ JAPHSON
 Jarzka
 Jaskier
 Jason28
+JASS
 JATO
 Jav-Fans
 JAVLiU
@@ -2162,6 +2173,7 @@ nate_666
 Nathan69
 NATTY
 NATV
+nayhtut
 NBS
 NCmt
 NCPX
@@ -2356,6 +2368,7 @@ OUIJA
 OurSuperPilaEncode
 OUTBREAK
 OUTDATED
+OUTERSPACE
 OUZO
 Ov3rload
 OVERTiME
@@ -2401,6 +2414,7 @@ PELLUCiD
 pem
 PEMOC
 Penumbra
+PERFECT
 PerfectionHD
 PFa
 phase
@@ -2518,6 +2532,7 @@ PURE
 Pure-Anime.biz
 Puri
 PusherCrew
+PussyFoot
 PuyaSubs
 PUZZLE
 PVR
@@ -2765,6 +2780,7 @@ SCARED
 SCD
 Schitbusters
 SChiZO
+SCORN
 Scratch404
 SCRATCHED
 SCREAM
@@ -3311,6 +3327,7 @@ VeDeTT
 VeGaN
 Vegapunk
 VeggTeppe
+vegito5001
 VENUE
 Veritas
 VeroVenlo
@@ -3353,6 +3370,7 @@ VLiS
 VOA
 VOID
 VOLATiLE
+VOLDiES
 VoMiT
 VOSTFR
 VoX
@@ -3432,6 +3450,7 @@ WORLDVD
 WPi
 WRCR
 WRD
+WRE
 WuSiWuG
 WZF
 X-Death
