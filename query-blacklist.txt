@@ -219,6 +219,7 @@
 ^rename$
 ^Review$
 ^rip$
+^Rips$
 ^Romance$
 ^rtorrent$
 ^Saga$
