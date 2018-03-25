@@ -197,6 +197,8 @@
 ^Piece$
 ^Plex$
 ^Plex.Approved$
+^Plex.Cloud$
+^Plex.Cloud.Crypted$
 ^Plex.Film$
 ^Plexserv$
 ^private$
@@ -209,6 +211,7 @@
 ^queue$
 ^Radio$
 ^raid$
+^rclone$
 ^Reality$
 ^Reality.Shows$
 ^Record$
