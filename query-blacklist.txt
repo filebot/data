@@ -54,6 +54,7 @@
 ^Classic$
 ^Clean$
 ^cleaned$
+^Cloud$
 ^Code$
 ^Comedy$
 ^Complete$
@@ -209,6 +210,9 @@
 ^pyload$
 ^Qmultimedia$
 ^queue$
+^Radarr$
+^RadarrDrone$
+^RadarrRecyclingBin$
 ^Radio$
 ^raid$
 ^rclone$
@@ -253,6 +257,9 @@
 ^show$
 ^shows$
 ^Soaps$
+^Sonarr$
+^SonarrDrone$
+^SonarrRecyclingBin$
 ^sort$
 ^sorted$
 ^SortedMedia$
