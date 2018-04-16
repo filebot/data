@@ -201,6 +201,7 @@
 ^Plex.Cloud$
 ^Plex.Cloud.Crypted$
 ^Plex.Film$
+^Plex.Media$
 ^Plex.Media.Server$
 ^Plexserv$
 ^private$
