@@ -79,7 +79,7 @@
 ^Die$
 ^Disco\d+$
 ^disk\d+$
-^dl$
+^DL$
 ^Documentaries$
 ^Documentary$
 ^Documents$
