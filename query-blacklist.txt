@@ -306,6 +306,7 @@
 ^TV.Show$
 ^TV.Shows$
 ^TVCurrent$
+^TVFetch$
 ^UFC$
 ^UnProcessed$
 ^unsorted$
