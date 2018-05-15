@@ -1,5 +1,3 @@
-CiELOS
-ITSat
 0Ac
 0MNiDVD
 0PTiMUS
@@ -615,6 +613,7 @@ chyuu
 CiA
 CiC
 CiELO
+CiELOS
 CineBus
 CiNEFiLE
 CiNEFOX
@@ -1668,6 +1667,7 @@ iT00NZ
 iTA
 itg
 iTOONZ
+ITSat
 iTSDVD
 ITZ
 IY-A_Excal
