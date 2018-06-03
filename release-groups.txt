@@ -513,6 +513,7 @@ BTSFilms
 BTT
 BTVG
 BTW
+BugsFunny
 BugZ
 BugzBunny
 BuLD
@@ -2572,6 +2573,7 @@ R&C
 R-B
 R-F
 R.KNOR
+r00t
 R0CKED
 R10
 R2D2
