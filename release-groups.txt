@@ -1942,6 +1942,7 @@ LTRG
 LTT
 LTU
 LU3UR
+LucidTV
 Lucifer22
 Lulusubs
 Lum1x
