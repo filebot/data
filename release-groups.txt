@@ -1,4 +1,3 @@
-BEDLAM
 0Ac
 0MNiDVD
 0PTiMUS
@@ -412,6 +411,7 @@ Bearfish
 beAst
 Beatrice-Raws
 BEAVE
+BEDLAM
 BEEF.STEW
 BeefStew
 BEER
@@ -1105,6 +1105,7 @@ FATAL1TY
 Fate-Force
 FBO
 FCC
+FD
 FEATURE
 Feel-Free
 FeelFree
@@ -3121,6 +3122,7 @@ TFiN
 TFS
 TG7
 TGP
+ThA
 The3DTeam
 theAmresh
 TheBatman
