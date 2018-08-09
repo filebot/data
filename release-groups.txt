@@ -735,6 +735,7 @@ CureCom
 CureCom-Doremi
 CURIOSITY
 Cutting.EDGE
+CYBER
 Cyber12.com
 CYBERMEN
 CyberTyger
@@ -795,6 +796,7 @@ DD
 DDC
 dddc
 DDDD
+DDN
 DDR
 de\[42\]
 DEA
@@ -849,6 +851,7 @@ DGz
 dH
 DHARMA
 DHD
+DIABLO
 DiAMOND
 DIAMONDS
 DiCH
@@ -2425,6 +2428,7 @@ PELLUCiD
 pem
 PEMOC
 Penumbra
+PEPPE
 PERFECT
 PerfectionHD
 PFa
@@ -2449,6 +2453,7 @@ PiNER
 PiNKPANTERS
 PIONEER
 PiPicK
+PirateMKV
 Pitufo180
 PiX
 PixelHD
@@ -3586,4 +3591,5 @@ ZX
 ZZGtv
 ~AA~
 ~Invincible
+£egend63
 ßsZ
