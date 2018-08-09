@@ -569,6 +569,7 @@ ShareZONE
 ShortKut
 Shorts
 sixx
+Sky.Cinema.HD
 Snapshots
 sof
 Sonarr
