@@ -1908,7 +1908,7 @@ lilwoodenboy
 LIME
 LIMO
 LiNE
-LiON
+LION
 LionsDen
 LiPAN
 LiTE
@@ -1956,6 +1956,7 @@ LucidTV
 Lucifer22
 Lulusubs
 Lum1x
+Lund
 LUNAR
 Lunarian
 LupinTheNerd
@@ -2407,6 +2408,7 @@ P4DGE
 Pa@Ph
 PADDO
 Pahe.in
+Panda
 Pankhabd
 panos
 Pantsu
@@ -2886,7 +2888,7 @@ sickboy88
 SiGHTHD
 SiGMA
 SiHD
-SILENCE
+Silence
 SiLU
 Silver.RG
 SiMbA
