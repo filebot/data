@@ -355,6 +355,7 @@ B-G
 B-G_m.3.3.w
 B.F
 B2E
+B4ND1T69
 BA
 Ba-Su
 BabyGirl21@BluRG
@@ -556,6 +557,7 @@ CAMERA
 CAMSTAiN
 CAP
 CAPH
+CARTEL
 CarVeR
 CasStudio
 CATCH
@@ -1800,6 +1802,7 @@ KiSS
 Kizuna
 Kizuna.FA
 KJKGlobal
+KKPiRATE
 KkS
 KLASSiGER
 KLASSiGERHD
@@ -2036,6 +2039,7 @@ MeGusta
 MeiohSubs
 MELBA
 MELiTE
+MEMENTO
 MEMORiES
 MenaceIISociety
 Mental.RG
@@ -2068,6 +2072,8 @@ MissRipZ
 Miyu
 Miyuki-Fansubs
 MkvCage
+MkvCage.ws
+MkvHu
 MKVTV
 MKVTV.NET
 MLW
@@ -2101,6 +2107,7 @@ MoreHD
 MORiCH
 MORiTZ
 MOROSE
+MORRiS
 MORS
 MOTION
 MOTU
@@ -2703,6 +2710,7 @@ RiTALiN
 RiTALiX
 RiVER
 RKcTV
+RLF
 rmhf
 RMT
 RMTeam
@@ -3020,6 +3028,7 @@ streetwars
 STRiFE
 STRONG
 STUTTERSHIT
+STVFRV
 StyleZz
 StyLishSaLH
 SU
@@ -3547,6 +3556,7 @@ YingYang-Subs
 YMG
 Yn1D
 YnK
+YOGI
 YoHo
 YOUFORGOTTOREPACKTHIS
 Your-Mom
