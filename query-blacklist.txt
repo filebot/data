@@ -14,6 +14,7 @@
 @KIDZ
 \d(Audio|CD|CDRip)
 \d+(of|.of.|.track.)\d+
+\d+.disk
 \d+[.,]\d+GB
 \d{2,4}.\d{2}.\d{2}.\d{2}.\d{2}
 \d{3,4}[pi]
@@ -25,6 +26,8 @@
 ^.*(Downloads|Movies|TV.Shows|TV.Series|FileBot)$
 ^3D$
 ^[_+=!].+$
+^\d+.disk$
+^\d+disk$
 ^\d.-.Complete$
 ^\w$
 ^ACD$
@@ -77,12 +80,9 @@
 ^Desktop$
 ^dev$
 ^Die$
-\d+.disk
 ^Disco\d+$
-^disk\d+$
 ^disk.\d+$
-^\d+disk$
-^\d+.disk$
+^disk\d+$
 ^DL$
 ^Documentaries$
 ^Documentary$
