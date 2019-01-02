@@ -77,8 +77,12 @@
 ^Desktop$
 ^dev$
 ^Die$
+\d+.disk
 ^Disco\d+$
 ^disk\d+$
+^disk.\d+$
+^\d+disk$
+^\d+.disk$
 ^DL$
 ^Documentaries$
 ^Documentary$
