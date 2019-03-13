@@ -1,4 +1,4 @@
-build: clean
+build:
 	groovy build.groovy
 
 clean:
