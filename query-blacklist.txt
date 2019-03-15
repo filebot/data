@@ -493,6 +493,7 @@ lol
 Los.Sustitutos
 LowDef
 M.HD
+Mandarin
 MasterEdition
 MCEBuddy
 mdr
