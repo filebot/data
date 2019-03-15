@@ -631,6 +631,7 @@ TwoDDL
 TwoDDL.eu
 UE
 UFC.PPV
+ultrahd
 UsaBit.com
 utorrent.downloads
 VCD
