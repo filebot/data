@@ -1,3 +1,4 @@
+SortingEpisodes
 (?-i:WEB|SPECIAL|MULTi|DUAL|PPV|XXX+)
 (^\d{1,2}[.][ _.]|^[\p{Alnum}\p{Punct}]{1,2}$|^[a-z0-9]{22,}$|^19\d{2}$|^20\d{2}$)
 (The|A|Special|Specials)$
