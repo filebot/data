@@ -1,40 +1,3 @@
-Nauti
-Hanasaku
-Hanasaku-Emblem
-JacobSwaggedUp
-FFF-Orphan
-FFF-Vivid
-kamineko
-GhostYears
-Mendokusai
-MTBB
-Edo
-PAS
-Asenshi-PAS
-Golumpa-RH
-SHiTSPREAD
-HDOlimpo
-TVNATiON
-TVARCHiV 
-VoDTv
-idTV
-REQiT
-KLP
-MGDP
-EDE
-JAM
-miUHD
-CiNEDOME
-MOViEADDiCTS
-hrs
-BiTW
-SiTiN
-OTR
-ITG
-TVPOOL
-TSCC
-QxR
-GrupoTS
 0Ac
 0MNiDVD
 0PTiMUS
@@ -341,6 +304,7 @@ ASAP
 ASCENDANCE
 Asenshi
 Asenshi-GJM
+Asenshi-PAS
 AsiSter
 ASO
 ASOURCE
@@ -493,6 +457,7 @@ BiPOLAR
 BiQ
 BiRDHOUSE
 BiTo
+BiTW
 BiZouNouRs
 BKF
 BKT
@@ -674,6 +639,7 @@ CiELO
 CiELOS
 CiHD
 CineBus
+CiNEDOME
 CiNEFiLE
 CiNEFOX
 CINEMANIA
@@ -1054,8 +1020,10 @@ eclipse-m.3.3.w
 ecliptic-BSS
 ED
 ED-Subs
+EDE
 EDHD
 eDi
+Edo
 Eeazy
 eeye
 EFA
@@ -1193,6 +1161,8 @@ FEVER
 fez
 FF
 FFF
+FFF-Orphan
+FFF-Vivid
 FFFpeeps
 FFNDVD
 FFS
@@ -1373,6 +1343,7 @@ gFViD
 GFW
 GFY
 gg
+GhostYears
 GHOULS
 GHS
 GiGAS
@@ -1413,6 +1384,7 @@ Gogeta
 GokU61
 GoLDSToNE
 Golumpa
+Golumpa-RH
 GOOD.PEOPLE
 GOOGLE
 GooN
@@ -1441,6 +1413,7 @@ GROND
 GrupoCustomU
 GrupoHDS
 GrupoHDS-Sharerip
+GrupoTS
 GRYM
 GS
 GSFTX
@@ -1488,6 +1461,8 @@ Hajike.HnG
 HALCYON
 Hammer71
 HANAKO
+Hanasaku
+Hanasaku-Emblem
 HaNc0cK
 HANDJOB
 HANGOVER
@@ -1542,6 +1517,7 @@ HDME
 HDMI
 HDMike
 HDmonSK
+HDOlimpo
 HDPLANET
 HDQ
 HDReactor
@@ -1683,7 +1659,7 @@ iD
 IDE
 Idi0T
 iDiB
-idtv
+idTV
 iExTV
 iFH
 iFN
@@ -1770,7 +1746,7 @@ iSTANCE
 iSUBS
 iT00NZ
 iTA
-itg
+ITG
 iTOONZ
 ITSat
 iTSDVD
@@ -1781,9 +1757,11 @@ Iznogoud9
 JACKAL
 jackoneill
 JACKVID
+JacobSwaggedUp
 JADE
 jAh
 JaJunge
+JAM
 Jan55
 JANE
 JaneDoe
@@ -1850,6 +1828,7 @@ KAMERA
 Kametsu
 Kamigami
 Kamihikouki
+kamineko
 Kanarianime
 KART3LDVD
 KAS
@@ -1910,6 +1889,7 @@ KLAXXON
 KLINGON
 KLL
 KlockreN
+KLP
 KN3
 knifesharp
 KNIGHTY1973
@@ -2149,6 +2129,7 @@ MELiTE
 MEMENTO
 MEMORiES
 MenaceIISociety
+Mendokusai
 Mental.RG
 MEOW
 METCON
@@ -2160,6 +2141,7 @@ MFO
 MFS
 MG
 MgB
+MGDP
 MGMatriX
 MGS
 MHQ
@@ -2176,6 +2158,7 @@ MIS
 MiSFiTS
 Mish
 MissRipZ
+miUHD
 Miyu
 Miyuki-Fansubs
 MK
@@ -2222,6 +2205,7 @@ MOTU
 MoTv
 MOUSECLiCK
 MovCr
+MOViEADDiCTS
 MovieEater
 MovieEater.net
 MOViEiT
@@ -2249,6 +2233,7 @@ MSNTHRP
 MsR
 MT
 MTB
+MTBB
 MTeam
 mthodmn101
 MUC
@@ -2312,6 +2297,7 @@ nate_666
 Nathan69
 NATTY
 NATV
+Nauti
 nayhtut
 NBS
 NCmt
@@ -2504,6 +2490,7 @@ OS
 OSiRiS
 OSiTV
 Osuald
+OTR
 OTT
 OTV
 OUIJA
@@ -2541,6 +2528,7 @@ papi
 PAROVOZ
 PARTICLE
 PartyBoy
+PAS
 PATE
 PaTHe
 PAYiSO
@@ -2797,6 +2785,7 @@ REPRiSE
 REPTiLE
 REPUBLIC
 REPULSiON
+REQiT
 RESiSTANCE
 RETREAT
 RETRO
@@ -3010,6 +2999,7 @@ shiro
 SHiTHEADS
 SHiTONLYGERMAN
 SHiTSoNy
+SHiTSPREAD
 Shitsu-Subs
 SHiTTy
 SHO
@@ -3039,6 +3029,7 @@ SiNNERS
 Sir.Paul
 SiRiUs.sHaRe
 SiSO
+SiTiN
 SiTV
 SKA
 SKALiWAGZ
@@ -3386,6 +3377,7 @@ TRUEFRENCH
 tRuEHD
 trulle
 TS
+TSCC
 TSeD
 TSFnF
 TSGroup
@@ -3413,13 +3405,16 @@ Tv21
 TV2LAX9
 TV4A
 TVA
+TVARCHiV
 TVBeastS
 TVBYEN
 TvD
 TVFi
 TViLLAGE
+TVNATiON
 TvNORGE
 TVP
+TVPOOL
 TvR
 TVS
 TVSHiT
@@ -3558,6 +3553,7 @@ Vivid-Watashi
 VLAD
 VLiS
 VOA
+VoDTv
 VOID
 VOLATiLE
 VOLDiES
