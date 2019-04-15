@@ -1,8 +1,3 @@
-kBaraka
-BlurayDesuYo
-IY
-MOVEE
-PiSi
 0Ac
 0MNiDVD
 0PTiMUS
@@ -487,6 +482,7 @@ blueZilla
 BluHD
 BluntSlayer-Obfuscated
 BluRay3D
+BlurayDesuYo
 BluRG
 BLUURY
 BluWave
@@ -1758,6 +1754,7 @@ ITSat
 iTSDVD
 iTSMEMARiO
 ITZ
+IY
 IY-A_Excal
 Iznogoud9
 JACKAL
@@ -1845,6 +1842,7 @@ KatMaster
 KatmovieHD
 KatmovieHD.me
 KAZAN
+kBaraka
 KBEC
 kE
 KEBABSAX
@@ -2211,6 +2209,7 @@ MOTU
 MoTv
 MOUSECLiCK
 MovCr
+MOVEE
 MOViEADDiCTS
 MovieEater
 MovieEater.net
@@ -2581,6 +2580,7 @@ PiNKPANTERS
 PIONEER
 PiPicK
 PirateMKV
+PiSi
 Pitufo180
 PiX
 PixelHD
