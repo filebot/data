@@ -22,10 +22,9 @@
 \p{XDigit}{32,}
 \p{XDigit}{8}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{12}
 ^(Completed|Downloads|Movies|TV.?Shows|TV.?Series|FileBot).*$
-^-.*$
 ^.*(Downloads|Movies|TV.Shows|TV.Series|FileBot)$
 ^3D$
-^[_+=!].+$
+^[_+=!]\w+$
 ^\d+.disk$
 ^\d+disk$
 ^\d.-.Complete$
@@ -38,7 +37,7 @@
 ^Adventure$
 ^Adventures$
 ^Amazon.Video$
-^AMC-.+$
+^AMC-\w+$
 ^and$
 ^Animation$
 ^Animations$
