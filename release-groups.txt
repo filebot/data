@@ -1,11 +1,3 @@
-Friday21st
-DRAKE
-Bushido.Samurai
-neko-kBaraka
-MIRRORED
-Non.Nobis.Translate
-LINGUISTIC
-LowSubs
 0Ac
 0MNiDVD
 0PTiMUS
@@ -551,6 +543,7 @@ BUNNY
 BURGER
 BurnFre@k.tk-Crew
 Burpecto
+Bushido.Samurai
 BUX
 BV265
 BVM
@@ -973,6 +966,7 @@ Dr3adLoX
 DRABBiTS
 DRACULA
 DragonTeam
+DRAKE
 DREAM
 DREAMINGROSES
 DREAMLiGHT
@@ -1256,6 +1250,7 @@ FreetheFish
 FREHD
 FRENCH-JPA
 FRiAR
+Friday21st
 FRiES
 FRiESSPORT
 FRIGGHD
@@ -2002,6 +1997,7 @@ lilwoodenboy
 LIME
 LIMO
 LiNE
+LINGUISTIC
 LiON
 LionsDen
 LiPAN
@@ -2037,6 +2033,7 @@ LOUNGE
 lOVE
 LoveHD
 LOVESICK
+LowSubs
 LP
 LPD
 LQTV
@@ -2166,6 +2163,7 @@ MiNT
 MiRAGETV
 MiRAMAX
 MIRCrew
+MIRRORED
 MIS
 MiSFiTS
 Mish
@@ -2320,6 +2318,7 @@ NcS-H
 NDRT
 NeDiVx
 NEECHAN
+neko-kBaraka
 NekoMimi
 NekoS
 nekotrice
@@ -2386,6 +2385,7 @@ NOGRP
 NoHaTe
 NOHD
 NOiR
+Non.Nobis.Translate
 NoneStop
 noobkg
 noobless
