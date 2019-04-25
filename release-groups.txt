@@ -1,6 +1,3 @@
-UppLoader
-Friday21st
-Slappy
 0Ac
 0MNiDVD
 0PTiMUS
@@ -3060,6 +3057,7 @@ SKYLIGHT
 SkyLord
 SKYRG
 SL
+Slappy
 SLG
 SLHD
 SLiGHT
@@ -3490,6 +3488,7 @@ UNTOUCHABLES
 UNTOUCHED
 UNVEiL
 UPPERCUT
+UppLoader
 UQ
 ureshii
 Ureshii-Yoroshiku
