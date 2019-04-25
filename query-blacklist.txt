@@ -91,6 +91,7 @@
 ^Download$
 ^Download.Movies$
 ^Downloaded$
+^Downloaded.New$
 ^Downloading$
 ^Downloads$
 ^Downloads.Area$
