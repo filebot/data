@@ -83,6 +83,7 @@
 ^Disco\d+$
 ^disk.\d+$
 ^disk\d+$
+^disque$
 ^DL$
 ^Documentaries$
 ^Documentary$
@@ -124,6 +125,7 @@
 ^Films$
 ^Finished$
 ^folder$
+^freebox$
 ^Fresh$
 ^fuck$
 ^Game.Show$
@@ -315,6 +317,7 @@
 ^TV.Shows$
 ^TVCurrent$
 ^TVFetch$
+^Téléchargements$
 ^UFC$
 ^UnProcessed$
 ^unsorted$
@@ -612,6 +615,7 @@ title\d+
 to.be.filed
 to.be.sorted
 torrent.download
+Torrent9.NZ
 ToSort
 TPB
 Tragikomödie
