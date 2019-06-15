@@ -42,6 +42,7 @@
 ^Animation$
 ^Animations$
 ^Anime$
+^Anime.Airing$
 ^Animes$
 ^Applications$
 ^automation$
