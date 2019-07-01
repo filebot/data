@@ -1,7 +1,3 @@
-SAMPA
-DESPACiTO
-HDv0T
-Otaibi
 0Ac
 0MNiDVD
 0PTiMUS
@@ -872,6 +868,7 @@ DerSchuft
 DESIRE
 DESiRED
 desnsurrender
+DESPACiTO
 DESPiTE
 DESS
 DETAiLS
@@ -1542,6 +1539,7 @@ HDT-Series-GrupoTS
 HDTeam
 HDTracker
 HDU
+HDv0T
 HDVD
 HDViSiON
 HDVN
@@ -2511,6 +2509,7 @@ OS
 OSiRiS
 OSiTV
 Osuald
+Otaibi
 OTR
 OTT
 OTV
@@ -2931,6 +2930,7 @@ Sajid790
 SakuraCircle
 SallySubs
 SAMFD
+SAMPA
 SAMUEL98
 SamuSubs
 sant1
