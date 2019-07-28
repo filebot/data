@@ -54,6 +54,7 @@
 ^BTN$
 ^Cartoni.Animati$
 ^Cartoon$
+^cine$
 ^Cinema$
 ^Classic$
 ^Clean$
