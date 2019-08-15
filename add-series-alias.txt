@@ -1,4 +1,6 @@
 @midnight	At Midnight
+A Certain Scientific Accelerator	Toaru Kagaku no Accelerator
+Astra Lost in Space	Kanata no Astra
 Australian Survivor	Survivor AU
 Battlestar Galactica (2003)	BSG
 Bordertown (2016)	Bordertown (US)
@@ -6,6 +8,7 @@ Catch-22	Catch 22
 Cosmos: A Spacetime Odyssey	Cosmos A Space Time Odyssey
 CSI: Crime Scene Investigation	CSI
 Dragon Ball Z	DBZ
+Fire Force	Enen no Shouboutai
 Forever (2014)	Forever (US)
 Game of Thrones	GOT
 House of Cards	HOC
