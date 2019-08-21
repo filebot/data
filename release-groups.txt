@@ -172,6 +172,7 @@ AiRTV
 AiRWAVES
 aiTen
 AJ
+AJ8
 AJA
 AJAX
 Ajna
@@ -323,6 +324,7 @@ Atlas47
 ATS
 AtsA
 ATTENTATET
+ATTLLN
 AUC
 AudioEditado
 AURORA
@@ -489,6 +491,7 @@ BLUTONiUM
 BLUURY
 BluWave
 BLUWORLD
+BluZilla
 BMB
 BMF
 BNFs
@@ -500,6 +503,7 @@ BonG
 bonkai77
 BoO
 BOOBIES
+boOk
 Bootstrap
 BORDERLiNE
 BORGATA
@@ -772,6 +776,7 @@ CYBER
 Cyber12.com
 CYBERMEN
 CyberTyger
+CyCR0
 Cyphanix
 CyTSuNee
 D-A
@@ -783,6 +788,7 @@ D-YFI
 D-Z0N3
 D.L
 D05
+d0ber
 D0ct0rLew
 D0NK
 D0PE
@@ -1052,6 +1058,7 @@ ELECTRiC
 Electrichka
 ELiA
 elizabethtga
+ELK
 ELYSIUM
 EM0C0RE
 EmC
@@ -1088,6 +1095,7 @@ ESiR
 ESPiSE
 ESPN
 EsQ
+EsrA
 ESSENTiAL
 ETACH
 ETHOS
@@ -1835,10 +1843,12 @@ kA-Oz
 KAA
 KAFFEREP
 KAGA
+KaiDubs
 KaKa
 KALAVALE
 KAMERA
 Kametsu
+KamiFS
 Kamigami
 Kamihikouki
 kamineko
@@ -1960,6 +1970,7 @@ L-E_AonE
 L-F
 L-S
 L3Subs
+L9
 LACHUH
 LadyN
 Lag-Taka
@@ -1999,11 +2010,13 @@ LiBRARiANS
 LiebeHD
 Lightmaker
 LiGHTSPEED
+LiksP
 LiLDiCK
 lilwoodenboy
 LIME
 LIMO
 LiNE
+LiNG
 LINGUISTIC
 LiON
 LionsDen
@@ -2148,6 +2161,7 @@ MenaceIISociety
 Mendokusai
 Mental.RG
 MEOW
+MERCK
 METCON
 METeam
 MeTH
@@ -2376,6 +2390,7 @@ NILE
 NIMA4K
 Nimu
 NinjaPanda
+NiP
 nItRo
 NiviSubs
 NiX
@@ -2384,6 +2399,7 @@ NKS
 NL.Subs
 NLC
 NLSGDVDr
+nmd
 NnH
 No.TK.BKF
 NO1CARES
@@ -2766,6 +2782,7 @@ RC
 RCDiVX
 RCP
 RCVR
+RD
 RD164
 Rdc
 RDK123
@@ -3118,6 +3135,7 @@ SOV
 SoW
 SoXu
 SOY
+SP4L
 SPABLAUW
 SpaceHD
 SpaceShuttle
@@ -3241,6 +3259,7 @@ T33V33
 T3RR0R1STS
 TACO
 Tadashi
+TAiCHi
 Taiyaki Subs
 Taiyaki-Subs
 Taiyo
@@ -3291,6 +3310,7 @@ TenkSu
 TeNNReeD
 Tensai-Anime
 Tenzinn
+TEPES
 TERMi
 TERMiNAL
 TERRA
@@ -3305,6 +3325,7 @@ TFS
 TG7
 TGP
 ThA
+ThD
 The3DTeam
 theAmresh
 TheBatman
@@ -3330,6 +3351,7 @@ TiDE
 Tigole
 TiiX
 TilMigSelv
+TiMEGOD
 TimeLesSub
 TiMELORDS
 TiMPE
@@ -3354,6 +3376,7 @@ TNAN
 tNe
 TnF
 TnH
+TnP
 TnTvillage
 To4ka
 ToF
@@ -3379,6 +3402,7 @@ TosKMV
 Towelie
 ToY-RC
 tpz
+tranc
 TRANSiENCE
 TREBLE
 trentalent
@@ -3520,6 +3544,7 @@ UVall
 UxO
 Uyirvani
 V-A
+V3RiTAS
 VaAr3
 VAiN
 VALHALLA
