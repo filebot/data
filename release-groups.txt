@@ -2390,7 +2390,6 @@ McXode
 MDB
 MDK
 MdM
-MdM
 MDR
 MDW-Subs
 MEAW
@@ -2473,7 +2472,6 @@ MOEBIUS
 MoeTV
 MoF
 MoH
-Mojo
 Mojo
 Mojogot
 Mokal
