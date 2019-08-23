@@ -29,6 +29,7 @@
 ^\d+.disk$
 ^\d+disk$
 ^\d.-.Complete$
+^\d{1,3}$
 ^\w$
 ^ACD$
 ^Acquisitions$
