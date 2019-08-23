@@ -628,7 +628,7 @@ TRUEFRENCH
 TryMovies
 TS
 TSXVID
-tt\d{4,8}
+tt\d+
 TV.Aufnahmen
 TV.Opnamen
 TV.Thriller
