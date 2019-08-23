@@ -1,6 +1,6 @@
 (?-i:WEB|SPECIAL|MULTi|DUAL|PPV|XXX+)
 (^\d{1,2}[.][ _.]|^[\p{Alnum}\p{Punct}]{1,2}$|^[a-z0-9]{22,}$|^19\d{2}$|^20\d{2}$)
-(Italian|Spanish)$
+(English|French|German|Spanish|Italian|Swedish)$
 (The|A|Special|Specials)$
 1-3-3-8.com
 10.bit
@@ -425,7 +425,6 @@ DVSKY
 E\d{1,3}
 ECE
 ENG
-English
 ENSub
 ettv
 Ext
@@ -441,11 +440,9 @@ Final.Cut
 FIXED
 Fra
 FRE
-French
 FS
 funxd
 GER\d*
-German
 Hard.Subbed
 HAVE.TO.BE.CUT
 HBO
@@ -604,7 +601,6 @@ Subtitle
 SVT2
 sw3
 swe.sub
-Swedish
 swesub
 SYNC
 SYNCED
