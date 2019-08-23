@@ -3811,7 +3811,7 @@ tranc
 TRANSiENCE
 trAsh
 TREBLE
-Tree
+TREE
 trentalent
 TRexHD
 TRG
