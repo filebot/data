@@ -236,6 +236,7 @@
 ^Record$
 ^Recorded.TV$
 ^Recordings$
+^Release$
 ^Remux$
 ^Remuxed$
 ^rename$
