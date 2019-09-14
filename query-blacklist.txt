@@ -270,6 +270,7 @@
 ^sex$
 ^share$
 ^shared$
+^Short$
 ^Shorts$
 ^show$
 ^shows$
