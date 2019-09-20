@@ -415,6 +415,7 @@ DL
 docu
 Dokumentarfilm
 Downloadhub
+DownloadingFolder
 DownRev
 dreambox.cut
 DSKI
@@ -609,6 +610,7 @@ SYNCED
 SYNCFIX
 TC
 tele5
+tempDownloadingFolder
 Temporary.Files
 Thrillerkomödie
 title\d+
