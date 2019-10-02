@@ -144,6 +144,7 @@
 ^History$
 ^home$
 ^Horror$
+^how$
 ^I+$
 ^iFlicks$
 ^ignore$
@@ -343,12 +344,14 @@
 ^War$
 ^watch$
 ^WD$
+^what$
 ^work$
 ^Working$
 ^www$
 ^x264$
 ^XBMC$
 ^XXX+$
+^YouTube$
 A.PROCESAR
 A.Release.Lounge
 AAC\D?\d*
