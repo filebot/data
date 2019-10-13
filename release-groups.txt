@@ -1196,6 +1196,7 @@ Encoderflaccid
 ENCOUNTERS
 ENCRyPTED
 EnDoR
+ENDSTATiON
 EnSu
 ENT
 ENTiCEMENT
@@ -1303,6 +1304,7 @@ FBI
 FBO
 FCC
 FD
+FDHQ
 FEATURE
 Feel-Free
 FeelFree
@@ -1706,6 +1708,7 @@ HDlif3
 HDLiTE
 HDMaNiAcS
 HDME
+HDMEDiA
 HDMI
 HDMike
 HDmonSK
@@ -2177,6 +2180,7 @@ KTR
 KTRL
 KubuSubs
 KUKLUDER
+KULTFiLME
 Kurai-Subs
 KURAMA
 kuraudo
@@ -2570,6 +2574,7 @@ MXB
 MXMG
 MyBadAssScene
 MYD
+myHD
 MySiLU
 MZABI
 Mô-Subs
@@ -3267,6 +3272,7 @@ Rx
 RYdE
 Ryotox
 RyS
+RYU
 Ryugan
 Ryuumaru
 RZeroX
@@ -3325,6 +3331,7 @@ SbY
 scAnt
 SCard
 SCARED
+scarfacex
 SCD
 Schitbusters
 SChiZO
@@ -3411,6 +3418,7 @@ Shoku-dan
 shon3i
 SHORTBREHD
 shoTV
+SHOWEHD
 SHRPY
 SHS
 SHUNPO
@@ -3720,6 +3728,7 @@ tff
 TFG
 TFiN
 TFS
+tg200366
 TG7
 TGP
 ThA
