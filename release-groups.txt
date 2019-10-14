@@ -263,6 +263,7 @@ AniMecha
 AnimeClipse
 AnimeKai
 AnimeNOW
+AnimePlaza
 AnimeRG
 AnimeSkulls
 AnimesPLUS
