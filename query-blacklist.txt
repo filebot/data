@@ -131,6 +131,7 @@
 ^folder$
 ^freebox$
 ^Fresh$
+^FTP$
 ^fuck$
 ^Game.Show$
 ^Games$
@@ -329,6 +330,7 @@
 ^UnProcessed$
 ^unsorted$
 ^UNTAGGED$
+^upload$
 ^usbdrive$
 ^Usenet$
 ^user$
