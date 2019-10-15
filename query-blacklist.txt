@@ -369,6 +369,7 @@ Anaglyph
 Animations
 Animationsfilm
 Anime
+Anime.*Serien.*
 Animes
 ard
 ardeinsfestival
