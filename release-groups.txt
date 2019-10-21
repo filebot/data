@@ -2809,6 +2809,7 @@ oO
 OOKAMI
 OOM
 Oosh
+OpeD
 OPiUM
 OPT!V!D
 OPTiC
@@ -3860,6 +3861,7 @@ TsH
 tsn
 TSP
 tspHD
+TSRG
 TSs
 TSUKI
 tsukikaze
@@ -3876,6 +3878,7 @@ TTVa
 TU
 TuGAZx
 TURBO
+TURG
 TURKiSO
 TUSAHD
 Tushar
