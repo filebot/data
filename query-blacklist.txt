@@ -169,6 +169,7 @@
 ^master$
 ^MD\d+.DATA$
 ^media$
+^MediaDownload$
 ^Mega.Storage$
 ^Mega\d*$
 ^mnt$
