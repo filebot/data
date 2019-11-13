@@ -138,9 +138,9 @@
 ^good$
 ^Guest$
 ^Hard.Drive$
-^HD\d+$
-^HD\w+.DATA$
-^hdd\d+$
+^HD\d*$
+^HD\w*.DATA$
+^hdd\d*$
 ^Hentai$
 ^History$
 ^home$
@@ -347,6 +347,7 @@
 ^War$
 ^watch$
 ^WD$
+^WEB$
 ^what$
 ^work$
 ^Working$
