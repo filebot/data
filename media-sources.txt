@@ -14,5 +14,5 @@ TELESYNC	TELESYNC|TS|HDTS|PDVD|PTVD|PreDVDRip
 UnknownRip	UnknownRip|URip
 VCD	VCD
 VHS	VHS|VHSRip
-WEB-DL	WEB.?DL|WEB.?DLRip|WEB.?Cap|WEB.?Rip|WEB|HC|HD.?Rip|VODR|VODRip|PPV|PPVRip|iTunesHD|ithd|AmazonHD|NetflixHD|NetflixUHD
+WEB-DL	WEB.?DL|WEB.?DLRip|WEB.?Cap|WEB.?Rip|HC|HD.?Rip|VODR|VODRip|PPV|PPVRip|iTunesHD|ithd|AmazonHD|NetflixHD|NetflixUHD|(?<=\d{3,4}[p].)WEB|WEB(?=.[hx]\d{3})
 WorkPrint	WORKPRINT|WP
