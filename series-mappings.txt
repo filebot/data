@@ -1,28 +1,26 @@
-11.22.63	11/22/63
-^24.(?:s\d{2}e\d{2}|\dx\d{2})	24
-^episodes.(?:s\d{2}e\d{2}|\dx\d{2})	Episodes
-at.midnight	@midnight
-BeCaSa|BeCaSau|BeCaSaul|BCallS|Be.Cll.Sl|btr.cs	Better Call Saul
-BSG	Battlestar Galactica
-CSI(?!.{0,3}(?:NY|LA|Miami|New.Orleans|Academy|Cyber))	CSI: Crime Scene Investigation
-epl	English Premier League
-greysana	Grey's Anatomy
-HIMYM	How I Met Your Mother
-Hml8p	Homeland
-hoc	House of Cards
-law.and.order.svu	Law & Order: Special Victims Unit
-MBFAGW	My Big Fat American Gypsy Wedding
-Navy.CIS.New.Orleans	NCIS: New Orleans
-NCIS.LA	NCIS: Los Angeles
-NCIS.NO	NCIS: New Orleans
-poid	Person of Interest
-SOS	Shahs of Sunset
-SuiG7p	Suits
-TBBT	The Big Bang Theory
-tv..got	Game of Thrones
-tv..poi	Person of Interest
-tv..shield	Marvel's Agents of S.H.I.E.L.D.
-tv..soa	Sons of Anarchy
-TWD	The Walking Dead
-UndG7p	Underemployed
-wsop	World Series of Poker
+11/22/63	11.22.63
+24	^24.(?:s\d{2}e\d{2}|\dx\d{2})
+@midnight	at.midnight
+Battlestar Galactica	BSG
+Better Call Saul	BeCaSa|BeCaSau|BeCaSaul|BCallS|Be.Cll.Sl|btr.cs
+CSI: Crime Scene Investigation	CSI(?!.{0,3}(?:NY|LA|Miami|New.Orleans|Academy|Cyber))
+English Premier League	epl
+Episodes	^episodes.(?:s\d{2}e\d{2}|\dx\d{2})
+Game of Thrones	tv..got
+Grey's Anatomy	greysana
+Homeland	Hml8p
+House of Cards	hoc
+How I Met Your Mother	HIMYM
+Law & Order: Special Victims Unit	law.and.order.svu
+Marvel's Agents of S.H.I.E.L.D.	tv..shield
+My Big Fat American Gypsy Wedding	MBFAGW
+NCIS: Los Angeles	NCIS.LA
+NCIS: New Orleans	NCIS.NO|Navy.CIS.New.Orleans
+Person of Interest	tv..poi|poid
+Shahs of Sunset	SOS
+Sons of Anarchy	tv..soa
+Suits	SuiG7p
+The Big Bang Theory	TBBT
+The Walking Dead	TWD
+Underemployed	UndG7p
+World Series of Poker	wsop
