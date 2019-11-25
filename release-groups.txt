@@ -244,6 +244,7 @@ ANGELiC
 Ani-Kraze
 aNi-PrO
 AniCom
+AniDL
 ANiHLS
 AniKami
 AniKat
@@ -2460,6 +2461,8 @@ MiNDTHEGAP
 MiNK
 MiNT
 MiRAGETV
+Mirai
+Mirai-Fansubs
 MiRAMAX
 MIRCrew
 MIRRORED
