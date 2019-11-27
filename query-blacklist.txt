@@ -206,6 +206,7 @@
 ^other$
 ^out$
 ^outbox$
+^output$
 ^Part$
 ^PELICULAS$
 ^Películas$
