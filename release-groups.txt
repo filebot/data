@@ -856,6 +856,7 @@ CureCom
 CureCom-Doremi
 CURIOSITY
 cusinndzl
+CUSTOM
 CUTE
 Cutting.EDGE
 CYBER
@@ -1546,6 +1547,7 @@ gleam
 GLF
 GlowGaze
 GlowGaze.Com
+GLUE
 Gluttony
 GLY
 GM
