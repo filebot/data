@@ -2153,6 +2153,7 @@ KnKF-Doremi
 KNOC
 KNP
 KnU-FS
+koalf
 KOC
 KoD
 KOENiG
@@ -3829,6 +3830,7 @@ TOMMY
 tonic
 Tonum1
 Tonyk
+Tooncore
 TOP
 TOPAZ
 TOPCAT
@@ -3874,6 +3876,7 @@ TRUEDEF
 TRUEFRENCH
 tRuEHD
 trulle
+TRUMP
 TS
 TSCC
 TSE
