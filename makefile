@@ -4,4 +4,4 @@ build:
 clean:
 	git reset --hard
 	git pull
-	git log -1
+	git --no-pager log -1
