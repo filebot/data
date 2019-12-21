@@ -74,6 +74,7 @@
 999
 9FisH
 9RS
+A-C
 A-Destiny
 A-E
 A-E.Ureshii
@@ -294,6 +295,7 @@ aO.PM
 AOE
 Aoi_Crossfade
 Aoi_Wasurenai
+AOmundson
 AonE
 AonE_A-Kingdom
 AonE_AnY
@@ -328,6 +330,7 @@ ARROW
 ARTHOUSE
 ArtSubs
 Arucard
+Arukoru
 AS
 AS-S
 asaadas
@@ -411,6 +414,7 @@ B4ND1T69
 B5
 BA
 Ba-Su
+Baal
 BabyGirl21@BluRG
 BABYLON
 babylonad
@@ -538,6 +542,7 @@ BLUEYES
 blueZilla
 BluHD
 BluntSlayer-Obfuscated
+BLURANiUM
 BluRay3D
 BlurayDesuYo
 BluRG
@@ -648,6 +653,7 @@ CAMELOT
 CAMERA
 CAMSTAiN
 canOPus
+Canzah
 CAP
 CapBd
 CAPH
@@ -893,6 +899,7 @@ DA-C
 DAA
 DADDY
 DaDuck
+DAE
 DAFTPUNK
 Dali-Neko
 DAMAN
@@ -903,9 +910,11 @@ danirl
 Danishbits
 DANNY
 DanskKulturskat
+dark_red
 DarkDream
 DARKFLiX
 darkfury
+DarkHollow
 Darkside.RG
 DARKTIGER
 DARM
@@ -1086,6 +1095,7 @@ Dr.STAR
 Dr3adLoX
 DRABBiTS
 DRACULA
+Dragonfox
 DragonTeam
 DRAKE
 DrBd
@@ -1480,6 +1490,7 @@ G_P
 GABE
 GAGE
 GALACTiCA
+Galator
 GanbaRaw
 GANOOL
 GAS
@@ -1772,6 +1783,7 @@ HH
 HHH
 HHI
 Hi-no-Ka
+HiCost
 HIDD3N
 HiDeF
 HiDeFZeN
@@ -1830,6 +1842,7 @@ HOWL
 HP
 HP4F
 HPY
+HQ
 HQC
 HQCLUB
 HqDTS
@@ -2081,6 +2094,7 @@ Kamigami
 Kamihikouki
 kamineko
 Kanarianime
+karios
 KART3LDVD
 KAS
 KASHMiR
@@ -2134,6 +2148,7 @@ kirklestat
 KISA
 KiSHD
 KiSS
+KiyoshiStar
 Kizuna
 Kizuna.FA
 KJKGlobal
@@ -2196,6 +2211,7 @@ KTNP
 KTR
 KTRL
 KubuSubs
+kuchikirukia
 KUKLUDER
 KULTFiLME
 Kurai-Subs
@@ -2461,6 +2477,7 @@ MiGHTY
 MightyM
 MiJO
 Mikoto
+MiLK
 MiLLENiUM
 MiND
 MiNDTHEGAP
@@ -2741,6 +2758,7 @@ NorTV
 NoSCR
 NOSCREENS
 NOsegmenT
+not-voss
 NoTether
 NOTV
 NotWCP
@@ -2750,6 +2768,7 @@ NovaLan
 NOVO
 NOWiNHD
 nox
+NP-Complete
 NPC
 NPW
 NSN
@@ -3000,6 +3019,7 @@ PoT
 PotentPortables
 PoTuS
 PP
+PPb
 PPQ
 pradanada
 PRECiOUS
@@ -3163,6 +3183,7 @@ REAVERS
 REBA
 REBELS
 RebelSD
+ReCult
 RedBlade
 ReDe@mer
 RedFox109e
@@ -3378,6 +3399,7 @@ SDGiRL
 SDH
 SDI
 SDLovers
+SDM
 sebastopol
 SecretMyth
 SECTOR7
@@ -3414,6 +3436,7 @@ SGKK
 ShAaNiG
 SHADOW
 Shadowman
+ShadyCrab
 SHAMNBOYZ
 ShaqSalazar
 ShareReactor
@@ -3532,6 +3555,7 @@ SOF
 SOFCJ-Raws
 Softfeng
 SoKa
+SOLA
 SOLAR
 Solar_Faith
 SOLDATS
@@ -3577,6 +3601,7 @@ SPYC
 SQsR
 SQUiZZiEs
 sriz
+SRLS
 SRN
 SRS
 sRu
@@ -4034,6 +4059,7 @@ VAMPS
 Vanillapunk
 VANiR
 VanRay
+Vawn
 VCDVaULT
 VCF
 VCORE
@@ -4184,6 +4210,7 @@ WPi
 WRCR
 WRD
 WRE
+WSE
 WuSiWuG
 www.descrgas2020.com
 wWw.EliteTorrent.BiZ
@@ -4205,6 +4232,7 @@ XC
 XCOPYHD
 xD2V
 xDR
+xDTK
 Xell
 XF
 XHD
@@ -4248,6 +4276,7 @@ yadong1985
 YaGAF
 YAKU
 YaKuZa
+YamiWheeler
 YanY
 YAPG
 YARDVID
@@ -4286,6 +4315,7 @@ YuS-マイワイフ
 Yuurisan-Subs
 YY-S
 Z-XCV
+Z-Z
 Z4CH
 Zaeem
 Zalis
@@ -4303,6 +4333,7 @@ ZER0
 ZeRO
 Zero-Raws
 ZEST
+ZetaRebel
 ZEUS
 Zeus-Dias
 Zi.t
@@ -4321,6 +4352,7 @@ ZonaTorrent2
 Zorori-Project
 Zox
 ZQ
+ZR
 zsewdc
 ZSiSO
 ZuKo
