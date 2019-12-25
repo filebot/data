@@ -1127,6 +1127,7 @@ DUDE
 DUDi
 DUKES
 DULB
+Dulus
 DUMBLE
 DUMMY
 DuMuVuLu
@@ -2483,6 +2484,7 @@ MiND
 MiNDTHEGAP
 MiNK
 MiNT
+MiNX
 MiRAGETV
 Mirai
 Mirai-Fansubs
