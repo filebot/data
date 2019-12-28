@@ -166,6 +166,7 @@
 ^Library$
 ^Love$
 ^made$
+^main$
 ^master$
 ^MD\d+.DATA$
 ^media$
