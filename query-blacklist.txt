@@ -330,6 +330,7 @@
 ^TVFetch$
 ^Téléchargements$
 ^UFC$
+^Unfinished$
 ^UnProcessed$
 ^unsorted$
 ^UNTAGGED$
