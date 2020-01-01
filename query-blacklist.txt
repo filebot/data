@@ -64,6 +64,7 @@
 ^Cloud$
 ^Code$
 ^Comedy$
+^Completadas$
 ^Complete$
 ^Complete.Torrents$
 ^Completed$
@@ -332,7 +333,7 @@
 ^UFC$
 ^Unfinished$
 ^UnProcessed$
-^unsorted$
+^Unsorted$
 ^UNTAGGED$
 ^upload$
 ^usbdrive$
