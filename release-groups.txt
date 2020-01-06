@@ -148,6 +148,7 @@ ADC-Germany
 ADC2060
 ADHD
 aDL
+ADRENALiNE
 ADRi
 ADTRW
 ADX
@@ -1664,6 +1665,7 @@ Hadena
 HAFVCD
 HAGGiS
 HAiDEAF
+HAiKU
 Hajike.HnG
 HALCYON
 HALYNA
@@ -3628,6 +3630,7 @@ STARLIGHT
 StarLord
 STARS
 StarWars
+STARZ
 StB
 Stealthmaster
 Steins;Sub
