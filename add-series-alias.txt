@@ -8,6 +8,7 @@ Catch-22	Catch 22
 Cosmos: A Spacetime Odyssey	Cosmos A Space Time Odyssey
 CSI: Crime Scene Investigation	CSI
 Dragon Ball Z	DBZ
+English Premier League	EPL
 Fairy Tail	Fairy Tail Final Season
 Fire Force	Enen no Shouboutai
 Forever (2014)	Forever (US)
@@ -18,6 +19,7 @@ How I Met Your Mother	HIMYM
 Instinct (2018)	Instinct (US)
 Law & Order: Special Victims Unit	Law & Order SVU	Law and Order SVU
 M*A*S*H	M.A.S.H.	MASH
+My Big Fat American Gypsy Wedding	MBFAGW
 Naruto Shippuden	Naruto Shippuuden
 NCIS: Los Angeles	NCIS LA	NCIS LosAngeles
 NCIS: New Orleans	Navy CIS New Orleans	NCIS NO
@@ -28,6 +30,7 @@ Rapunzel's Tangled Adventure	Tangled: The Series
 Resurrection	Resurrection (US)
 Scream	Scream The TV Series
 Sex&Drugs&Rock&Roll	Sex and Drugs and Rock and Roll
+Shahs of Sunset	SOS
 Smithsonian Channel Documentaries	Smithsonian
 Star Trek	Star Trek: TOS
 Star Trek: Deep Space Nine	Star Trek: DS9

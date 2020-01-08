@@ -1,26 +1,16 @@
 11/22/63	11.22.63
-24	^24.(?:s\d{2}e\d{2}|\dx\d{2})
+24	^24.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
 @midnight	at.midnight
 Battlestar Galactica	BSG
 Better Call Saul	BeCaSa|BeCaSau|BeCaSaul|BCallS|Be.Cll.Sl|btr.cs
 CSI: Crime Scene Investigation	CSI(?!.{0,3}(?:NY|LA|Miami|New.Orleans|Academy|Cyber))
-English Premier League	epl
-Episodes	^episodes.(?:s\d{2}e\d{2}|\dx\d{2})
-Game of Thrones	tv..got
+Episodes	^Episodes.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
+Game of Thrones	tv.{0,2}got
 Grey's Anatomy	greysana
+Home Movies	^Home.Movies.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
 Homeland	Hml8p
-House of Cards	hoc
-How I Met Your Mother	HIMYM
-Law & Order: Special Victims Unit	law.and.order.svu
-Marvel's Agents of S.H.I.E.L.D.	tv..shield
-My Big Fat American Gypsy Wedding	MBFAGW
-NCIS: Los Angeles	NCIS.LA
-NCIS: New Orleans	NCIS.NO|Navy.CIS.New.Orleans
-Person of Interest	tv..poi|poid
-Shahs of Sunset	SOS
-Sons of Anarchy	tv..soa
+Marvel's Agents of S.H.I.E.L.D.	tv.{0,2}shield
+Person of Interest	tv.{0,2}poi|poid
+Sons of Anarchy	tv.{0,2}soa
 Suits	SuiG7p
-The Big Bang Theory	TBBT
-The Walking Dead	TWD
 Underemployed	UndG7p
-World Series of Poker	wsop
