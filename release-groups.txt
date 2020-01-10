@@ -1358,6 +1358,7 @@ FiLMANTA
 FilmHD
 Filmikz
 Filmiwar
+Films.Club
 Filmytorrents
 Filmytorrents.com
 Final8
@@ -3764,6 +3765,7 @@ TDF
 tdl
 TDR
 TEAM-KAI
+TeamHD
 TeamNatsumi
 TeamRV
 TeamTelly
