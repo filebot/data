@@ -23,6 +23,8 @@
 \d{8,}.\d{4,}
 \p{XDigit}{32,}
 \p{XDigit}{8}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{12}
+^(?:19|20)\d0s$
+^(?:19|20)\d0s.{0,3}(?:19|20)\d0s$
 ^(?:Completed|Downloads|Movies|TV.?Shows|TV.?Series|TV.?Serier|FileBot).*$
 ^.*(?:Downloads|Movies|TV.?Shows|TV.?Series|TV.?Serier|FileBot)$
 ^3D$
@@ -30,6 +32,8 @@
 ^\d+.disk$
 ^\d+disk$
 ^\d.-.Complete$
+^\d0s$
+^\d0s.{0,3}\d0s$
 ^\d{1,3}$
 ^\w$
 ^ACD$
@@ -60,6 +64,7 @@
 ^cine$
 ^Cinema$
 ^Classic$
+^Classics$
 ^Clean$
 ^cleaned$
 ^Cloud$
@@ -203,6 +208,7 @@
 ^Newsleecher$
 ^of$
 ^old$
+^On.Deck$
 ^OneclickDownload$
 ^Opnamen$
 ^Organize$
@@ -327,7 +333,8 @@
 ^tv.rename$
 ^TV.Series$
 ^TV.Show$
-^TV.Shows$
+^TV.{0,3}Documentaries$
+^TV.{0,3}Shows$
 ^TVCurrent$
 ^TVFetch$
 ^Téléchargements$
