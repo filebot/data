@@ -320,7 +320,9 @@
 ^Thriller$
 ^tmp$
 ^to$
+^ToMove$
 ^ToProcess$
+^ToRename$
 ^Torrent$
 ^torrent.seeds$
 ^Torrents$
