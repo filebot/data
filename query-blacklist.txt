@@ -2,8 +2,8 @@
 (?:^\d{1,2}[.][ _.]|^[\p{Alnum}\p{Punct}]{1,2}$|^[a-z0-9]{22,}$|^19\d{2}$|^20\d{2}$)
 (?:English|French|German|Spanish|Italian|Swedish)$
 (?:Season|Staffel|Série).?\d+
-(?:The|A|Special|Specials)$
-1-3-3-8.com
+(?:The|A|Special|Specials|t\d+)$
+1.3.3.8.com
 10.bit
 1080
 18p
@@ -443,6 +443,7 @@ dreambox.cut
 DSKI
 Dual.?Audio
 dubbed
+DVD.VIDEO
 DVD\d+
 DVDsize
 DVDXvID
@@ -637,6 +638,7 @@ tele5
 tempDownloadingFolder
 Temporary.Files
 Thrillerkomödie
+title.t\d+
 title\d+
 to.be.filed
 to.be.sorted
