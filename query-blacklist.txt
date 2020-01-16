@@ -165,6 +165,7 @@
 ^Incoming$
 ^Incomplete$
 ^Index$
+^input$
 ^JDownloader$
 ^jukebox$
 ^Kids$
