@@ -304,6 +304,7 @@
 ^Stuff$
 ^sync$
 ^System$
+^séries$
 ^t$
 ^tank$
 ^tao$
