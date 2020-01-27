@@ -1546,6 +1546,7 @@ GFW
 GFY
 gg
 GHOST
+GHOSTS
 GhostYears
 GHOULS
 GHS
@@ -2961,6 +2962,7 @@ Peri
 PETRiFiED
 PFa
 phase
+PHENOMENAL
 PHF
 Philanthropy_Sekai
 PHiN
@@ -3290,6 +3292,7 @@ ROBO
 RoCK&BlueLadyRG
 RoCKRioT
 RoFL
+RoG
 ROGER
 ROIMEZ
 Rojo
