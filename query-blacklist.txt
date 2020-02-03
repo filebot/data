@@ -301,6 +301,7 @@
 ^Sports$
 ^staging$
 ^Storage$
+^STREAM$
 ^Studio$
 ^Stuff$
 ^sync$
