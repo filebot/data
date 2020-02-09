@@ -500,6 +500,7 @@ BGE
 BgFr
 BHATTI
 BHDStudio
+BHRG
 BiA
 BiDA
 BiEN
@@ -817,6 +818,7 @@ CPY
 CR
 CRAVERS
 Crazy4ad
+CREATiVE-24
 CREED
 CREEDANCE
 CREEPSHOW
@@ -1501,6 +1503,7 @@ GABE
 GAGE
 GALACTiCA
 Galator
+GalaxyRG
 GanbaRaw
 GANOOL
 GAS
@@ -1857,6 +1860,7 @@ HP
 HP4F
 HPY
 HQ
+HQ7
 HQC
 HQCLUB
 HqDTS
@@ -2106,6 +2110,7 @@ Kametsu
 KamiFS
 Kamigami
 Kamihikouki
+KAMIKAZE
 kamineko
 Kanarianime
 karios
@@ -2720,6 +2725,7 @@ NHD
 NHH
 NiBURU
 nick64
+nickarad
 NickHD
 NicoNico
 NicoNicoDaoga
@@ -2905,6 +2911,7 @@ OUZO
 Ov3rl1f3
 Ov3rload
 OVERTiME
+Oxlem
 OYHD
 OZC
 OZC-EZ8
@@ -3165,6 +3172,7 @@ RAiNDEER
 Raizel
 RAKUDA
 RANDi
+Ranvijay
 Raoul
 RAP
 RAPiDCOWS
@@ -3786,6 +3794,7 @@ TeamRV
 TeamTelly
 tear
 TECH
+TeeHee
 TeGijA
 TEKATE
 Tekno3d
@@ -3891,6 +3900,7 @@ TOP
 TOPAZ
 TOPCAT
 TOPHD
+TOPKEK
 TOPPESTOFKEKS
 Tormaid
 TorrentCouch
@@ -4159,6 +4169,7 @@ VS
 VST
 VT
 VTV
+VXT
 Vyndros
 W-B
 w.0.0.f
@@ -4263,6 +4274,7 @@ Xell
 XF
 XHD
 XiA
+Xibirikinho
 XII
 XLF
 XM4F
@@ -4334,6 +4346,8 @@ YSTeam
 YT
 YTS
 YTS.AG
+YTS.AM
+YTS.LT
 YUMA
 YuS-m.3.3.w
 YuS-MaiWaiFu
