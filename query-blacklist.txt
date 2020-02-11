@@ -278,6 +278,7 @@
 ^Seedbox$
 ^Seeding$
 ^Seeds$
+^serials$
 ^Serien$
 ^SerienRenamer$
 ^Serier$
