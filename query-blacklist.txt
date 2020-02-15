@@ -3,6 +3,7 @@
 (?:English|French|German|Spanish|Italian|Swedish)$
 (?:Season|Staffel|Série).?\d+
 (?:The|A|Special|Specials|part\d+|t\d+)$
+00000+
 1.3.3.8.com
 10.bit
 1080
