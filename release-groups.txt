@@ -2441,6 +2441,7 @@ maz
 Mazinger_Z33
 Mazui
 MB
+MBRHDRG
 MC
 Mc5
 McCain
@@ -3802,6 +3803,7 @@ Tekno3d
 TELEFLiX
 TELEFUNKEN
 TELEViSiON
+TELLY
 TenaciousD
 TENEIGHTY
 TenkSu
