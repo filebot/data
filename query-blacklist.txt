@@ -473,6 +473,7 @@ FIXED
 Fra
 FRE
 FS
+funimation
 funxd
 GER\d*
 Hard.Subbed
@@ -536,6 +537,7 @@ MasterEdition
 MCEBuddy
 mdr
 MegaPack
+Minisodes
 MkvCage
 mkvonly
 MoTv
