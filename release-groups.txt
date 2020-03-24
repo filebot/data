@@ -442,6 +442,7 @@ BAMBOOCHA
 BAMBOOZLE
 BamHD
 BAND1D0S
+Bandi
 BANKAi
 BANZAI
 BaraTV
@@ -638,7 +639,6 @@ C-N.NTFS
 C-N.NTFS.No
 C-P-S
 C-Subs
-C-W
 c0nFuSed
 c0re
 C1
@@ -1708,6 +1708,7 @@ Hauu~
 HAY
 HAYAKU
 HazMatt
+HAZY
 HB
 HBHD
 HCA
@@ -2921,7 +2922,6 @@ OZC-EZ8
 Ozlem
 OzZY1
 p-a
-P-O
 P-S
 P-Z.SUBS
 p0.618
@@ -3303,6 +3303,7 @@ RMx
 RnC
 RoB
 ROBO
+ROBOTS
 RoCK&BlueLadyRG
 RoCKRioT
 RoFL
@@ -4207,6 +4208,7 @@ WEBTiFUL
 WEBTUBE
 Weby
 WELEEF
+WELP
 WESEN
 WEST
 WESTSiDE
@@ -4254,6 +4256,7 @@ WRD
 WRE
 WSE
 WuSiWuG
+WUTANG
 www.descrgas2020.com
 wWw.EliteTorrent.BiZ
 WYH
