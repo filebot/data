@@ -1429,6 +1429,7 @@ FoV
 FOXM
 FOXY
 FPG
+FpN
 FQM
 FR34KTV
 FRACTAL
@@ -3601,6 +3602,7 @@ sommeee
 SONiDO
 SONS
 SoP
+SOS
 SOUR
 SOV
 SoW
@@ -3664,6 +3666,7 @@ StB
 Stealthmaster
 Steins;Sub
 STELLA
+STFU
 STH
 Sticky83
 Stickya
