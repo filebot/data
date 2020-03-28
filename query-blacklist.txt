@@ -234,6 +234,7 @@
 ^Plex.Media$
 ^Plex.Media.Server$
 ^Plexserv$
+^post.process$
 ^pre.process$
 ^private$
 ^Procesar$
