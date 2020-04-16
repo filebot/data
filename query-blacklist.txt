@@ -93,6 +93,7 @@
 ^Descargando$
 ^Descargas$
 ^Desktop$
+^Destination$
 ^dev$
 ^Die$
 ^Disco\d+$
@@ -302,6 +303,7 @@
 ^sort$
 ^sorted$
 ^SortedMedia$
+^Source$
 ^Sport$
 ^Sports$
 ^staging$
