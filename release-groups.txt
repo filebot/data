@@ -530,6 +530,7 @@ BK
 BKF
 BKT
 BLA
+BLACKHAT
 BladeBDP
 BlaZe
 BLiN
@@ -4201,6 +4202,7 @@ WAF
 Wakku
 Walküre
 WaLMaRT
+WALT
 wAm
 WANKAZ
 WASABi
