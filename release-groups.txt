@@ -2217,6 +2217,7 @@ KonzillaRG
 KooKoo
 KOR
 KOSHARA
+Koten_Gars
 KOTOMI
 KOTOMI_GMB_F-B
 KoTuWa
@@ -2283,6 +2284,7 @@ LATENCY
 LAZERS
 LAZY
 Lazy-Subs
+LazyMux
 LB
 LCD
 LCHD
@@ -2953,6 +2955,7 @@ Pantsu
 PANTY
 PAPAi
 papi
+ParanDark
 PAROVOZ
 PARTICLE
 PartyBoy
@@ -2988,6 +2991,7 @@ phase
 PHENOMENAL
 PHF
 Philanthropy_Sekai
+philosophy-raws
 PHiN
 PHOBOS
 PHOENiX
@@ -4359,6 +4363,7 @@ YMG
 YMN
 Yn1D
 YnK
+YoGAL
 YOGI
 YoHo
 YOL0W
@@ -4418,6 +4423,7 @@ Zorori-Project
 Zox
 ZQ
 ZR
+ZRK
 zsewdc
 ZSiSO
 ZuKo
