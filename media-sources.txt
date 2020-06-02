@@ -14,5 +14,5 @@ TELESYNC	TELESYNC|TS|HDTS|PDVD|PTVD|PreDVDRip
 UnknownRip	UnknownRip|URip
 VCD	VCD
 VHS	VHS|VHSRip
-WEB-DL	WEB.?DL|WEB.?DLRip|WEB.?Cap|WEB.?Rip|HC|HD.?Rip|VODR|VODRip|PPV|PPVRip|iTunesHD|ithd|AmazonHD|NetflixHD|NetflixUHD|(?<=\d{3,4}[p].)WEB|WEB(?=.[hx]\d{3})
+WEB-DL	(?:WEB.?DL|WEB.?DLRip|WEB.?Cap|WEB.?Rip|HC|HD.?Rip|VODR|VODRip|PPV|PPVRip|iTunesHD|ithd|AmazonHD|NetflixHD|NetflixUHD|(?<=\d{3,4}[p].)WEB|WEB(?=.[hx]\d{3}))(?:[.-](?:ABC|ATVP|AMZN|BBC|CBS|CC|CR|CW|DCU|DSNP|DSNY|FBWatch|FREE|FOX|HMAX|HULU|iP|LIFE|MTV|NBC|NICK|NF|RED|TF1|STZ))?
 WorkPrint	WORKPRINT|WP
