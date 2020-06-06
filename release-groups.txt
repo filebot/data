@@ -2956,6 +2956,7 @@ PAKF1
 Pakman
 PALEALE
 PANDA
+PANDEMONiUM
 Pankhabd
 panos
 Pantsu
@@ -3118,6 +3119,7 @@ PTBR
 PTer
 Pti
 PTMiR
+PTNK
 PtP
 PTpOWeR
 PtS
@@ -3613,6 +3615,7 @@ SOF
 SOFCJ-Raws
 Softfeng
 SoKa
+SOL
 SOLA
 SOLAR
 Solar_Faith
