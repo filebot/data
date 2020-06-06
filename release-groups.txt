@@ -51,6 +51,7 @@
 4HUN
 4IL
 4KiSS
+4KTv
 4LiBeRtY
 4PL
 4RiLLa
@@ -391,6 +392,7 @@ AVS720
 AW
 awa
 aWake
+AWARDS
 AWGS
 AXE
 AXED
@@ -532,6 +534,7 @@ BK
 BKF
 BKT
 BLA
+BLACK
 BLACKHAT
 BladeBDP
 BlaZe
@@ -557,6 +560,7 @@ BLURANiUM
 BluRay3D
 BlurayDesuYo
 BluRG
+BluRHD
 BLUTONiUM
 BLUURY
 BluWave
@@ -863,6 +867,7 @@ CSS
 CT.FS
 CTC
 CTD
+CTFOH
 Cthuyuu
 CTR
 Ctrl-Znf
@@ -976,6 +981,7 @@ DECADE
 decatora27
 DECENT
 decibeL
+DECiDE
 DeeJayAhmed
 deepslaps
 DEFACED
@@ -1304,6 +1310,7 @@ eXtaCY
 ExtraMovies
 ExtraTorrentRG
 EXTREME
+EXTRUSION
 ExTwoSixFive
 EXViD
 EXViDiNT
@@ -1490,6 +1497,8 @@ FuN
 FUNKKY
 FUNNER
 Funnuraba
+FUNXDTV
+FURTUM
 FURZI
 FUSiON
 FUSSOIR
@@ -1561,6 +1570,7 @@ gFViD
 GFW
 GFY
 gg
+GHDP
 GHOST
 GHOSTS
 GhostYears
@@ -1647,6 +1657,7 @@ GrupoTS
 GRYM
 GS
 GSFTX
+GSG9
 GSK_kun
 GSN
 gSS
@@ -1881,12 +1892,14 @@ HQCLUB
 HqDTS
 HQE
 HQM
+HQX
 HR
 HRiP
 HRS
 HS
 HuBBaTiX
 HUBRiS
+HUNTEDONES
 HuNTER
 Hurtom
 HuSh
@@ -2286,6 +2299,7 @@ LAPUMiAFiLMES
 LARCENY
 LARD
 LATENCY
+LAW
 LAZERS
 LAZY
 Lazy-Subs
@@ -2317,6 +2331,7 @@ LiebeHD
 LiGATE
 Lightmaker
 LiGHTSPEED
+LiKEiT
 LiksP
 LiLDiCK
 lilwoodenboy
@@ -2471,6 +2486,7 @@ MCR
 McRipz
 McXode
 MDB
+MDGP
 MDK
 MdM
 MDR
@@ -2515,6 +2531,7 @@ mHD
 MHQ
 MiGHTY
 MightyM
+miHD
 MiJO
 Mikoto
 MiLK
@@ -2606,6 +2623,7 @@ Mr. KickASS
 MRC
 MrGrey
 MrLore
+MRM
 MRN
 MrO
 mRs
@@ -2731,6 +2749,7 @@ NEXTGEN
 NEZU
 NF
 NFHD
+NFLX
 NFRiP
 NGB
 NGE
@@ -2858,6 +2877,7 @@ OATH
 OB1
 OBjECT
 OBLiGATED
+OCA
 Occor
 OCTi
 oddset
@@ -2865,6 +2885,7 @@ ODOP
 OEM
 OEM1080
 OFS
+OHD
 OhShit
 ohys
 Ohys-Raws
@@ -3077,6 +3098,7 @@ PP
 PPb
 PPQ
 pradanada
+PRD
 PRECiOUS
 PRETAiL
 PRETENTIOUS
@@ -3220,6 +3242,7 @@ RaX
 RazEn
 RazHD
 Razor1911
+RB
 RB58
 RBB
 RBT
@@ -3245,6 +3268,7 @@ ReCult
 RedBlade
 ReDe@mer
 RedFox109e
+RedHands
 REDJOHN
 RedLineSP
 ReDone
@@ -3459,6 +3483,7 @@ SDI
 SDLovers
 SDM
 sebastopol
+SECRECY
 SecretMyth
 SECTOR7
 SeeHD
@@ -3879,6 +3904,7 @@ THOR
 THORA
 threesixtyp
 THRONE
+THUGANOMiCS
 THUGLiNE
 THUNDER
 tib
@@ -4210,6 +4236,7 @@ w.0.0.f
 w0rm
 W23
 W4F
+W4K
 WaCkOs
 WAF
 Wakku
@@ -4230,6 +4257,7 @@ WATBATH
 WATCHABLE
 WATERS
 WAVEY
+WAYNE
 WBZ
 Web4HD
 WEBSTER
@@ -4263,6 +4291,7 @@ Wings13
 WINTERS
 WiRA
 WiRE
+WiSHTV
 WLF
 WLM
 WLX
@@ -4286,6 +4315,7 @@ WRE
 WSE
 WuSiWuG
 WUTANG
+WvF
 www.descrgas2020.com
 wWw.EliteTorrent.BiZ
 WYH
