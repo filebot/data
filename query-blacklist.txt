@@ -176,6 +176,7 @@
 ^Kids.Movies$
 ^Kids.Shows$
 ^kidsmovies$
+^Killing$
 ^Library$
 ^Love$
 ^made$
@@ -541,6 +542,7 @@ Mandarin
 MasterEdition
 MCEBuddy
 mdr
+media.copy
 MegaPack
 Minisodes
 MkvCage
