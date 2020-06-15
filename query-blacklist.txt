@@ -322,6 +322,7 @@
 ^Telefilm\d*$
 ^Television$
 ^temp$
+^Temp.Movies$
 ^temporary$
 ^test$
 ^testdata$
