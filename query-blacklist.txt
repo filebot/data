@@ -267,6 +267,7 @@
 ^rip$
 ^Rips$
 ^Romance$
+^rtfinishedownloads$
 ^rtorrent$
 ^Saga$
 ^SARJAT$
@@ -574,7 +575,6 @@ orf2
 P2P
 PAL
 passthepopcorn.me
-landof.tv
 PBS
 PHoQUE
 Plex
