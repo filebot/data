@@ -267,7 +267,6 @@
 ^rip$
 ^Rips$
 ^Romance$
-^rtfinishedownloads$
 ^rtorrent$
 ^Saga$
 ^SARJAT$
@@ -605,6 +604,8 @@ RETAIL
 RiffTrax
 RiPSalot
 Romantikkomödie
+rtdownloads
+rtfinishedownloads
 rtl
 rtl2
 rtlnitro
