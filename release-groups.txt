@@ -53,6 +53,7 @@
 4KiSS
 4KTv
 4LiBeRtY
+4NH
 4PL
 4RiLLa
 4SJ
@@ -931,6 +932,7 @@ danirl
 Danishbits
 DANNY
 DanskKulturskat
+DaR
 dark_red
 DarkDream
 DARKFLiX
@@ -1215,6 +1217,7 @@ EIGO
 EiMi
 Eiri
 EiSBOCK
+EiSDOCK
 Eisy
 Ekolb
 Electri4ka
@@ -3047,6 +3050,7 @@ PIONEER
 PiPicK
 pirata00
 PirateMKV
+PiRAToS
 PiSi
 Pitufo180
 PiX
@@ -3132,6 +3136,7 @@ PSEUDO
 PSH
 PSiG
 PsiX
+PsLM
 PsO
 PSV
 Psyc
@@ -3468,6 +3473,7 @@ scarfacex
 SCD
 Schitbusters
 SChiZO
+SCHNeCKHOUSe
 SCiENTOLOGY
 SCORN
 Scratch404
@@ -3568,6 +3574,7 @@ SIF
 SightHD
 SiGMA
 SiHD
+sikamikanico
 SILENCE
 SillyBird
 SiLU
@@ -3583,6 +3590,7 @@ SiRiUs.sHaRe
 SiSO
 SiTiN
 SiTV
+sIU
 sJR
 SK
 Sk1llSh0t
@@ -4036,6 +4044,7 @@ TURKiSO
 TURMOiL
 TUSAHD
 Tushar
+TuZ
 Tv21
 TV2LAX9
 TV4A
