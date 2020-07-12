@@ -666,6 +666,7 @@ CAF
 CAFFEiNE
 CAKE
 CALiGARi
+CallMeBrado
 CAMELOT
 CAMERA
 CAMSTAiN
@@ -700,6 +701,7 @@ CDevils
 CDP
 CEA
 CEB
+CENC
 CENSORED
 CENTi
 CENTROPY
@@ -861,6 +863,7 @@ Crunchyroll
 CrunchySubs
 Crustyroll
 CRX
+CRYPTIC
 CRYS
 CRYSTAL
 CSHD
@@ -1437,6 +1440,7 @@ FooKas
 FOOTBALL
 FORCE
 ForceBleue
+ForFun
 FORGE
 Forlorn
 FoRM
@@ -1883,6 +1887,7 @@ HORiZON-ArtSubs
 HorribleSubs
 hoschi
 HOSTiLE
+HOTLiPS
 HOVAC
 HOWL
 HP
@@ -2147,6 +2152,7 @@ Kamihikouki
 KAMIKAZE
 kamineko
 Kanarianime
+Kappa
 karios
 KART3LDVD
 KAS
