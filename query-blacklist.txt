@@ -328,6 +328,7 @@
 ^testdata$
 ^testin$
 ^testout$
+^The$
 ^The.Best$
 ^The.TV.Series$
 ^Thriller$
