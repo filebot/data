@@ -1240,7 +1240,7 @@ EmeraldEmpire
 EMG
 Eml.HDTeam
 EMLHDTeam
-EMPiREHD
+EmpireHD
 EnA
 Encoderflaccid
 ENCOUNTERS
