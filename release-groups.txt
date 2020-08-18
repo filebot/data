@@ -122,6 +122,7 @@ ABH
 AbhiSona
 AbhiStuff
 ABiS
+ABJ
 Abjex
 ABM
 Absinth
@@ -258,6 +259,7 @@ AniKami
 AniKat
 AniMaL
 Animanda
+Anime.Time
 Anime-Ancestors
 Anime-Conan
 Anime-Koi
@@ -269,8 +271,10 @@ Anime.Land
 anime_fin
 Animebreaker
 AniMecha
+AnimeChiby
 AnimeClipse
 AnimeKai
+AnimeKaizoku
 AnimeNOW
 AnimePlaza
 AnimeRG
@@ -294,6 +298,7 @@ ANONYMUS
 anoXmous
 AnryV
 AnS
+ANSK
 ANUBIS
 AnY
 AnY_ShiFa
@@ -442,6 +447,7 @@ Baka-Chi
 Bakakozou
 Bakaniichan
 BAKED
+BakeSubs
 Bakura2
 BaLD
 BALLERINA
@@ -1054,6 +1060,7 @@ DiMiTri
 DiMMAN
 DiN
 DiNA
+Diogo4D
 DiR
 DiRTY
 DiRTYDUB
@@ -1233,6 +1240,7 @@ ELK
 ElseHD
 ELYSIUM
 EM0C0RE
+EMBER
 EmC
 EmEm
 EMERALD
@@ -1648,6 +1656,7 @@ GREEK
 greenbud1969
 greenHD
 GREiD
+Gremlin
 GREVO
 GREYHOUNDS
 GreyWolf
@@ -2059,6 +2068,7 @@ IY-A_Excal
 Iznogoud9
 J4F
 JACKAL
+jackie
 jackoneill
 JACKVID
 JacobSwaggedUp
@@ -3128,6 +3138,7 @@ PROD
 PRoDJi
 PROF
 PROGRESS
+Project-gxs
 Project.Kitteh
 PROMiSE
 PROPHETS
@@ -4405,6 +4416,7 @@ YABAI
 yadong1985
 YaGAF
 YAKU
+YakuboEncodes
 YaKuZa
 YamiWheeler
 YanY
@@ -4434,6 +4446,7 @@ YOL0W
 yoof
 YOUFORGOTTOREPACKTHIS
 Your-Mom
+Yousei-raws
 YRAG
 YS
 YSTeam
@@ -4456,6 +4469,7 @@ Zalis
 zan
 ZBS
 zdzd
+ZECHS
 ZeDD
 ZeiZ
 ZEKTORM
