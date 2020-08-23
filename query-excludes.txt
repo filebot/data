@@ -26,8 +26,8 @@
 \p{XDigit}{8}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{12}
 ^(?:19|20)\d0s$
 ^(?:19|20)\d0s.{0,3}(?:19|20)\d0s$
-^(?:Completed|Downloads|Movies|TV|FileBot).*$
-^.*(?:Downloads|Movies|TV|FileBot)$
+^(?:Completed|Downloads|Movies|TV|FileBot)\b.*$
+^.*\b(?:Downloads|Movies|TV|FileBot)$
 ^3D$
 ^[_+=!]\w+$
 ^\d+.disk$
