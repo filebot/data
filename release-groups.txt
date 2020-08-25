@@ -259,7 +259,6 @@ AniKami
 AniKat
 AniMaL
 Animanda
-Anime.Time
 Anime-Ancestors
 Anime-Conan
 Anime-Koi
@@ -268,6 +267,7 @@ anime-rg
 Anime-Supreme
 Anime-Takeover
 Anime.Land
+Anime.Time
 anime_fin
 Animebreaker
 AniMecha
@@ -777,6 +777,7 @@ CLEAR
 Cleo
 CLERKS
 CLITORI
+CLOCKWORK
 cloudyvision
 cLT
 CLUE
