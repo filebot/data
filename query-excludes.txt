@@ -126,6 +126,7 @@
 ^Episodes$
 ^Erotic$
 ^Erotica$
+^Example$
 ^Exotic$
 ^extract$
 ^extracted$
@@ -241,6 +242,7 @@
 ^pre.process$
 ^private$
 ^Procesar$
+^Process$
 ^Processed$
 ^Processing$
 ^Prueba$
