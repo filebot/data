@@ -140,6 +140,7 @@
 ^Filme$
 ^Filme.Neu$
 ^Films$
+^Final$
 ^Finished$
 ^folder$
 ^freebox$
