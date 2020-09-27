@@ -596,6 +596,7 @@ R6
 Radarr
 rbb
 READNFO
+readytomove
 REAL.PROPER
 RecordedTV
 REMASTER
