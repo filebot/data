@@ -2256,6 +2256,7 @@ KOC
 KoD
 KOENiG
 Koffe
+KOGi
 Koharubi
 KOI
 koishi
@@ -3803,6 +3804,7 @@ subs4u.Lightmaker
 subs4u.Vidom
 subs4u.YKS.No
 SubSmith
+SubsPlease
 SUBSTANCE
 SUBTiTLES
 Subtox
