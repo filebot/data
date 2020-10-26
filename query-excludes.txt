@@ -156,6 +156,7 @@
 ^HD\w*.DATA$
 ^hdd\d*$
 ^Hentai$
+^here$
 ^History$
 ^home$
 ^Horror$
