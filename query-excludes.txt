@@ -36,7 +36,8 @@
 ^\d0s$
 ^\d0s.{0,3}\d0s$
 ^\d{1,3}$
-^\w$
+^\w+(?:Renamed|Unfinished)$
+^\w{1,2}$
 ^ACD$
 ^Acquisitions$
 ^Action$
