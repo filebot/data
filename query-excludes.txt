@@ -218,6 +218,8 @@
 ^New.Unsorted$
 ^News$
 ^Newsleecher$
+^Nye.Film$
+^Nye.Serier$
 ^of$
 ^old$
 ^On.Deck$
