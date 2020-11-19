@@ -692,6 +692,7 @@ CaptainStrange
 Caribe
 CarpeDiem
 CARTEL
+CARVED
 CarVeR
 CasStudio
 CATCH
@@ -3787,6 +3788,7 @@ Strawhat
 streetwars
 STRiFE
 STRONG
+STRONTiUM
 STUTTERSHIT
 STVFilm
 STVFRV
