@@ -1266,6 +1266,7 @@ EnDoR
 ENDSTATiON
 EnSu
 ENT
+entameSubs
 ENTiCEMENT
 eots
 EP1C
@@ -1618,6 +1619,7 @@ GL
 GLaDOS
 GLASSES
 gleam
+Glenn
 GLF
 GlowGaze
 GlowGaze.Com
@@ -1888,6 +1890,7 @@ HN
 HnK
 HNR
 HNRDVD
+HnY
 HoangMai
 HoH
 HOLDEM
@@ -2656,6 +2659,7 @@ MoviesEvil
 MoviesMix
 MOViESTARS
 Moviezworldz
+MoyaiSubs
 Mp4Ba
 MPTDVD
 Mr. KickASS
@@ -2994,6 +2998,7 @@ OUZO
 Ov3rl1f3
 Ov3rload
 OVERTiME
+OWO
 Oxlem
 OYHD
 OZC
@@ -3698,6 +3703,7 @@ SOLA
 SOLAR
 Solar_Faith
 SOLDATS
+Some-Stuffs
 somedouches
 SomeTV
 sommeee
@@ -3777,6 +3783,7 @@ Stickya
 stieg
 stiller
 STiNGER
+STiNX
 Stitch_Encodes
 STOCK
 stoffinho17
