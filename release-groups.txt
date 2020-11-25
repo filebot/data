@@ -1143,6 +1143,7 @@ DRACULA
 Dragon-Releases
 Dragonfox
 DragonTeam
+DrainedDay
 DRAKE
 DrBd
 DrBlaze
@@ -3835,6 +3836,7 @@ SUPERiER
 SuperNova
 SUPERSIZE
 SuPReME
+SURCODE
 SURFER
 SuS
 Suspeedia
@@ -4122,6 +4124,7 @@ TVSmash
 TvSTUE
 TvTiME
 TVTUPA
+TVV
 TW
 TWA
 TweakAnime
