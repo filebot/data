@@ -152,6 +152,7 @@
 ^Game.Show$
 ^Games$
 ^good$
+^GROUP$
 ^Guest$
 ^Hard.Drive$
 ^HD\d*$
