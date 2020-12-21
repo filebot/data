@@ -81,6 +81,7 @@
 ^Complete.Torrents$
 ^Completed$
 ^CompletedMedia$
+^Completo$
 ^Completos$
 ^conf.backup$
 ^Continue$
@@ -141,6 +142,7 @@
 ^Film.&.TV$
 ^Filme$
 ^Filme.Neu$
+^Filmes$
 ^Films$
 ^Final$
 ^Finished$
@@ -438,6 +440,7 @@ CLASSIC
 CN
 CODIFICAR
 CODY
+COMANDOTORRENTS.ORG
 CompletedDownloads
 ConvertedTV
 Creditless
