@@ -3571,6 +3571,7 @@ SFW-Chihiro
 SFWhine
 SG
 SGKK
+SH3LBY
 ShAaNiG
 SHADOW
 Shadowman
@@ -4278,6 +4279,7 @@ ViVID
 Vivid-Asenshi
 Vivid-Taku
 Vivid-Watashi
+ViXON
 VLAD
 vlaluk
 VLiS
