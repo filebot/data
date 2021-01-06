@@ -27,8 +27,8 @@
 ^(?:19|20)\d0s$
 ^(?:19|20)\d0s.{0,3}(?:19|20)\d0s$
 ^(?:ABC|DEF|GHI|JKL|MNO|PQR|STU|VW|XYZ)$
-^(?:Completed|Downloads|Movies|TV\b|FileBot|Temp\b).*$
-^.*(?:Downloads|Movies|TV|FileBot|Temp)$
+^(?:Completed|Downloads|Movies|Film|TV\b|FileBot|Temp\b).*$
+^.*(?:Downloads|Movies|Film|TV|FileBot|Temp)$
 ^3D$
 ^[_+=!]\w+$
 ^\d+.disk$
