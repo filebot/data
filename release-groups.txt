@@ -3757,6 +3757,7 @@ SRS
 sRu
 SS
 SS-Eclipse
+SSA
 SSF
 SSG
 SSK
@@ -4492,6 +4493,7 @@ YTS
 YTS.AG
 YTS.AM
 YTS.LT
+YuiSubs
 YUMA
 YuS-m.3.3.w
 YuS-MaiWaiFu
