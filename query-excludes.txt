@@ -638,6 +638,7 @@ serienJK
 Series\D?\d+
 sf1
 sf2
+Shana.Project
 ShareGo
 ShareReactor
 ShareZONE
