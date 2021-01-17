@@ -320,6 +320,7 @@
 ^Sport$
 ^Sports$
 ^staging$
+^stash$
 ^Storage$
 ^Studio$
 ^Stuff$
