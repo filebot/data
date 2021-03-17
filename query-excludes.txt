@@ -714,6 +714,7 @@ Volume.TB
 vox
 wdr
 Western
+withsubs
 working.directory
 WS
 www[.][\p{Alnum}\p{Punct}]+?[.][a-z]{2,4}
