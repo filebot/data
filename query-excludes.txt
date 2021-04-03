@@ -89,6 +89,7 @@
 ^Crime$
 ^Das$
 ^data$
+^Deep$
 ^deluge$
 ^Den$
 ^Der$
@@ -154,6 +155,7 @@
 ^Game.Show$
 ^Games$
 ^good$
+^greece$
 ^GROUP$
 ^Guest$
 ^Hard.Drive$
