@@ -739,6 +739,7 @@ CENC
 CENSORED
 CENTi
 CENTROPY
+Cerberus
 CF
 CFE
 cfh
@@ -2839,6 +2840,7 @@ nelly45
 NemDiggers
 NEMESIS
 NEMO
+neoHEVC
 Nep_Blanc
 NEPTUNE
 NERDHD
@@ -3391,6 +3393,7 @@ RDLinks
 RDVAS
 rDX
 REACTOR
+Reaktor
 Reaperza
 REAVERS
 REBA
@@ -3854,7 +3857,7 @@ sRu
 srw
 SS
 SS-Eclipse
-ssa
+SSA
 SSF
 SSG
 SSK
