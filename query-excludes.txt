@@ -85,6 +85,7 @@
 ^Completos$
 ^conf.backup$
 ^Continue$
+^Convert$
 ^Cover$
 ^Crime$
 ^Das$
