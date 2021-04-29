@@ -4,6 +4,7 @@
 0PTiMUS
 0SEC
 0TV
+0x539
 0xC0
 1080
 10Laughing
@@ -20,6 +21,7 @@
 224
 26k
 2Brothers
+2D4U
 2DVD
 2HD
 2Lions
@@ -146,6 +148,7 @@ ACK
 AckTiv3
 ACL
 AConan
+ACSS
 Acushla
 ACX
 ACX-SaintDeath
@@ -179,6 +182,7 @@ afi
 afm72
 AFO
 AFP
+AFRO
 AFS
 AFz
 AG
@@ -215,6 +219,7 @@ AKIBA
 akihitosubs
 AKiNA
 AKIO
+aKraa
 AKU
 AKUPX
 ALANiS
@@ -308,6 +313,7 @@ ANON
 ANONA911
 AnonymousRG
 ANONYMUS
+anorak
 anoXmous
 AnryV
 AnS
@@ -343,6 +349,7 @@ ArenaBG
 ARGON
 Argotzz
 ARI
+ARID
 ARiES
 ARIGATOU
 ARiGOLD
@@ -361,6 +368,7 @@ Arukoru
 AS
 AS-S
 asaadas
+Asakura
 ASAP
 ASCENDANCE
 Asenshi
@@ -554,6 +562,7 @@ Billman424
 BINGO
 BiPOLAR
 BiQ
+Biraru
 BiRDHOUSE
 BitMeTV
 BiTo
@@ -668,12 +677,15 @@ BURGERKiNG
 BurnFre@k.tk-Crew
 Burpecto
 Bushido.Samurai
+BUTTER
 BUX
 BV265
 BVM
 BWB
 BWBP
+bwq
 BX
+bxyh
 bySnoper
 ByteShare
 Bzingaz
@@ -696,6 +708,7 @@ CADAVER
 CAELUM
 CAF
 CAFFEiNE
+Cait-Sidhe
 CAKE
 CAKES
 CALiGARi
@@ -779,6 +792,7 @@ CHUPAWAKE
 CHUPPI
 CHwDgB
 chyuu
+Chyuu-PAS
 CiA
 CiC
 CiELO
@@ -936,6 +950,7 @@ CYBER
 Cyber12.com
 CYBERMEN
 CyberTyger
+CyC
 CyCR0
 cypfq
 Cyphanix
@@ -989,6 +1004,7 @@ DARM
 DaScubaDude
 DASH
 DATS
+Datte13
 DAW
 DAWGS
 DAWGSSERiER
@@ -1043,6 +1059,7 @@ DEiMOS
 DEiTY
 dekabroken
 Dekinai
+Delicio.us
 DELiCiOUS
 DELOS
 DEMAND
@@ -1132,6 +1149,7 @@ DLTVR
 DM3000
 dmd
 dmeggs
+DmonHiro
 DMT
 DNA
 DnB
@@ -1328,6 +1346,7 @@ EsQ
 EsrA
 ESSENTiAL
 ETACH
+EtB
 ETH
 ethaNoL
 ETHOS
@@ -1363,6 +1382,7 @@ EXiLE
 Exiled-Destiny
 EXIST3NC3
 ExKinoRay
+EXP
 EXPS
 EXQUiSiTE
 eXtaCY
@@ -1485,6 +1505,7 @@ FLSH
 FLUBEL
 FLUX
 FLX
+FMA1394
 FMDAB
 FmE
 FoA
@@ -1505,6 +1526,7 @@ FORWARD
 FourGHD
 FoV
 FOXM
+FOXTROT
 FOXY
 FPG
 FpN
@@ -1531,6 +1553,7 @@ FROH-BITE
 FrOnkY
 FROST
 Frostii
+Frostii&AonE
 FROSTII-DCTP
 Frostii-Saizen
 Frostii_Live-eviL
@@ -1590,6 +1613,7 @@ GalaxyRG
 GanbaRaw
 GANGO
 GANOOL
+GAO
 GAS
 GASM
 GASM.GAX
@@ -1652,6 +1676,7 @@ GIRAYS
 giu
 gizzmo
 GJM
+GJM-DDY
 GK
 GK.GAX
 GK.RTFS
@@ -1707,6 +1732,7 @@ GoTV
 GotWoot
 GP-Subs
 GR0GG
+GRAINY
 Graveurexterne
 GREEK
 greenbud1969
@@ -1741,6 +1767,7 @@ GTVG
 GUACAMOLE
 GUARDiANS
 gudhak
+GUDish
 GunGravE
 GUNSubs
 GUPDVDR
@@ -1753,6 +1780,7 @@ GWViD
 GxP
 GYLSMuX
 Gyroscope
+Gyuunyuu
 GZCrew
 GZP
 h-b
@@ -1790,8 +1818,10 @@ HANGPUNG
 HANNIBAL
 HANrel
 HappiTeam-YnK
+Hark0n
 HARMY
 HarrHD
+Harunatsu
 HatchetGear
 Haterman
 Hatsuyuki
@@ -1880,6 +1910,7 @@ HEJRA
 HELIX
 HELLRAZ0R
 HenDerson
+Henshin
 Hentai-Legacy
 HentaiHeaven
 Herakler
@@ -1916,6 +1947,7 @@ Himi
 Himi.No
 Himitsu
 Himitsu_OOM
+Himiwari
 HIMMEL
 Hinshitsu
 HiNT
@@ -1970,6 +2002,7 @@ HQCLUB
 HqDTS
 HQE
 HQM
+HQR
 HQX
 HR
 HRiP
@@ -1991,6 +2024,7 @@ HWE
 Hyb
 HYBRiD
 HYBRiS
+HyD
 HyDe
 HYDROGEN
 HYFS
@@ -2035,6 +2069,7 @@ IHQDR
 iHT
 IIF
 iKA
+iKaos
 iKiW
 ILA
 iLG
@@ -2193,6 +2228,7 @@ JS
 jth
 jTV
 Judas
+JUDGEMENT
 Juggalotus
 JUGGS
 JUMANJi
@@ -2222,6 +2258,7 @@ KaiDubs
 KaKa
 KALAVALE
 Kaleido-Flax
+Kaleido-subs
 KalorZ
 KAMERA
 Kametsu
@@ -2281,6 +2318,7 @@ KINGDOM
 Kingmaker
 KiNGS
 KingStoner
+Kinomoto
 KiNOWELT
 Kira
 Kira-Fansub
@@ -2304,6 +2342,7 @@ KLINGON
 KLL
 KlockreN
 KLP
+km
 KN3
 knifesharp
 KNIGHTY1973
@@ -2364,6 +2403,7 @@ KURAMA
 kuraudo
 kuraze
 Kuro-Hana
+KuroUma
 KUTH
 KweeK
 KyF
@@ -2400,6 +2440,7 @@ LAW
 LAZERS
 LAZY
 Lazy-Subs
+LazyLily
 LazyMux
 LB
 LCD
@@ -2424,6 +2465,7 @@ LGC
 LGLuX
 LiBERTY
 LiBRARiANS
+Licca
 LiebeHD
 LiGATE
 Lightmaker
@@ -2453,6 +2495,8 @@ LMAO
 LMG
 LMK
 LNFS
+LNS
+LNS-Tsundere
 LoB
 LoD
 LoKI
@@ -2551,6 +2595,7 @@ MANGACiTY
 MANHOLE
 MANNING
 Mantas
+MapleClub
 Marhaba
 MARiNES
 marioBombo
@@ -2562,9 +2607,11 @@ Maruchan
 MaRV
 MaRVeLouS
 MasHD
+Matsya
 MATTER
 MattZ
 MAWA
+Mawaru
 MaX
 MaxHD
 MAXiMUM
@@ -2619,6 +2666,7 @@ METCON
 METeam
 MeTH
 METiS
+Mezashite
 MF
 MFO
 MFS
@@ -2695,11 +2743,13 @@ Monokage
 MONOLITH
 MONSTER
 MONT
+moo-shi
 MOOS
 MOOVEE
 Moozzi2
 Morai
 MoreHD
+Mori
 MORiCH
 MORiTZ
 MOROSE
@@ -2707,6 +2757,7 @@ MORRiS
 MORS
 Moshy
 MOTION
+mottoj
 MOTU
 MoTv
 MOUSECLiCK
@@ -2835,6 +2886,7 @@ NeDiVx
 NEECHAN
 nek
 neko-kBaraka
+neko-raws
 NekoMimi
 NekoS
 nekotrice
@@ -2842,6 +2894,7 @@ nelly45
 NemDiggers
 NEMESIS
 NEMO
+neo1024
 neoHEVC
 Nep_Blanc
 NEPTUNE
@@ -3012,6 +3065,7 @@ ohys
 Ohys-Raws
 Okashii
 Okashii-RyRo
+Okay-Subs
 oki
 OKTHXBYE
 old-tejo
@@ -3242,6 +3296,7 @@ prithwi
 PrivateHD
 PRiViLEGED
 PrLund
+Procrastinating
 PROD
 PRoDJi
 PROF
@@ -3300,6 +3355,7 @@ pwq
 PXE
 PxHD
 pyrodex
+pyroneko
 PZCAT
 PzD
 PZE
@@ -3327,6 +3383,7 @@ quasome
 quaz
 QuebecRules
 QUEENS
+Quetzal
 QUI
 quietE
 QXE
@@ -3373,6 +3430,7 @@ RATPACK
 Raul07
 RavenCrow
 RAWKiNS
+Raws-Maji
 RaX
 RAZE
 RazEn
@@ -3470,6 +3528,7 @@ RIPLEY
 RiplleyHD
 Ripp3rX
 RippingGods
+RippleSubs
 RiPRG
 RiPTATORz
 RishiBhai
@@ -3581,6 +3640,8 @@ Saizen-HnG
 Sajid790
 SakuraCircle
 SallySubs
+SaltSplash
+SAM
 SAMFD
 SAMiR
 samir755
@@ -3688,6 +3749,7 @@ shera
 SHFS
 Shi-Fa
 Shiki
+SHIN-gx
 SHiNiGAMi
 SHINJI
 Shinji-Nekomimi
@@ -3774,6 +3836,7 @@ SLO
 SLOMO
 SLOW
 SlowHD
+SLRS
 SM-Subs
 SM_LoC
 SMAHD
@@ -3785,6 +3848,7 @@ SmokeRings
 SMOKEY
 SMRKings
 SMRPRTY
+SmugCat
 Smurfenlars
 Sn0wMaN
 SNAKE
@@ -3807,6 +3871,7 @@ SOL
 SOLA
 SOLAR
 Solar_Faith
+SoLCE
 SOLDATS
 Some-Stuffs
 somedouches
@@ -3987,11 +4052,13 @@ Taiyaki-Subs
 Taiyo
 Taka
 Taka-THORA
+Takara
 Takoyaki
 TangoAlpha
 Tanoshi
 tantrum
 TAoE
+Tap24
 TAPpika
 TARGET
 TaS0
@@ -4261,6 +4328,7 @@ UBR
 UCCUSS
 UDC4ALL
 Uderzo
+UDF
 uffowich
 UFW
 UHDCL
@@ -4308,12 +4376,14 @@ URANiME
 urban20
 ureshii
 Ureshii-Yoroshiku
+Urotsuki
 USD
 USELESS
 USURY
 UTOPiA
 UTR
 UTR-HD
+Utsukushii-Raws
 UTT
 UTW
 UTW-Mazui
@@ -4340,6 +4410,7 @@ VAMPS
 Vanillapunk
 VANiR
 VanRay
+varo
 Vawn
 vcb-studio
 VCDVaULT
@@ -4376,6 +4447,7 @@ ViDEOWELT
 vidom
 Vidom.FA
 VietHD
+VietHD-Dekinai
 ViGi
 ViKAT
 ViLD
@@ -4384,6 +4456,7 @@ ViNYL
 ViP3R
 vipapkstudios
 ViPER
+Virtuality
 ViscaBarca
 ViSiON
 Vision-Anime
@@ -4542,6 +4615,7 @@ XOR
 XORBiTANT
 Xorp
 XOXO
+xPearse
 XPERT
 XPERT.HD
 XPRESS
@@ -4558,10 +4632,12 @@ XSubs
 XTM
 xTriLL
 XTSF
+XuN
 xV
 XviDEkolb
 XviK
 XWT
+xxon
 XxUnkn0wnxX
 XXX4U
 xxxpav69
@@ -4615,6 +4691,7 @@ YTS.AG
 YTS.AM
 YTS.LT
 YuiSubs
+YUKI
 YUMA
 YuS-m.3.3.w
 YuS-MaiWaiFu
@@ -4629,6 +4706,8 @@ z4st1n
 Zaeem
 Zalis
 zan
+zang
+zangafan
 ZBS
 zdzd
 ZECHS
