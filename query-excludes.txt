@@ -46,6 +46,7 @@
 ^Adults$
 ^Adventure$
 ^Adventures$
+^airing$
 ^Amazon.Video$
 ^AMC-\w+$
 ^and$
