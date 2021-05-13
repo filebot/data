@@ -1,5 +1,6 @@
 11/22/63	11.22.63
 24	^24.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
+86: Eighty Six	Eighty.Six.{0,3}\d+
 @midnight	at.midnight
 Battlestar Galactica	BSG
 Better Call Saul	BeCaSa|BeCaSau|BeCaSaul|BCallS|Be.Cll.Sl|btr.cs
