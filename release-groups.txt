@@ -1159,6 +1159,7 @@ DnO
 DNR
 dns
 DoA
+DoC
 DOCUMENT
 DOESNTSUCK
 DOGE
@@ -2295,6 +2296,7 @@ KEG
 KEKKAI
 keltz
 Kemo-Subs
+KENOBI
 KESH
 KETTLE
 kewenyu
@@ -4234,6 +4236,7 @@ TRIBAL
 TRiMEDIA
 Tripendicular
 TRiPS
+TRiToN
 triumphh
 TRL
 TROJAN
