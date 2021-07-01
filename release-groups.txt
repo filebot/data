@@ -67,6 +67,7 @@
 4UAlone
 4UT15M
 4YOU
+557953
 55L
 56k
 577
@@ -470,6 +471,7 @@ BaDTaStE
 BAE
 Baer
 BAF
+BaggerInc
 BAGS
 BaibaKo
 BAJSKORV
@@ -938,6 +940,7 @@ CTU
 CTUSports
 CUAP
 CULT
+CultFilms™
 CultHD
 CuMBuCKeTS
 CuNT
@@ -1176,6 +1179,7 @@ DoNE
 DONG
 DONNA
 DoNOLi
+DopeHD
 DoR2
 DOREMI
 Doremi-Asenshi
@@ -1184,6 +1188,7 @@ DOUBT
 DOUCEMENT
 Dowcker
 DOWN
+DownRev
 DP
 dpf
 DPiMP
@@ -1251,6 +1256,7 @@ DYNAMiCS
 DYNOSAUR
 E-D
 E-Portal
+E.N.D
 E.Rev
 E1
 E7
@@ -1630,6 +1636,7 @@ Gazdi
 GB
 GBB
 GBM
+gc04
 gcd
 GDR
 Ge-Ba
@@ -1853,6 +1860,7 @@ HDBart
 HDBEE
 HDBiRD
 HDBRiSe
+HDBS
 HDBT
 HDC
 HDChina
@@ -2214,7 +2222,9 @@ JIVE
 JJ
 JJH
 JKG
+JKP
 JKR
+JM
 jmanwf
 JMT
 JN
@@ -2241,6 +2251,7 @@ Junoon
 JUPiLER
 Just4fun
 justblthings-aarinfantasy
+JustHD
 JustSubs
 JustWatch
 JYK
@@ -3264,6 +3275,7 @@ POCHER
 POD
 PODO
 POE
+POH
 POKE
 POKERUS
 POLAR
@@ -3689,6 +3701,7 @@ SCRATCHED
 SCREAM
 ScWb
 SCY
+SD
 SD-Project
 SD_Taka
 SDC
@@ -3830,6 +3843,7 @@ SL
 SLAG
 Slappy
 slax
+Slbenfica
 SLG
 SLHD
 SLiGHT
@@ -3957,6 +3971,7 @@ STH
 Sticky83
 Stickya
 stieg
+StillChoosing
 stiller
 STiNGER
 STiNX
@@ -4002,6 +4017,7 @@ Subtox
 SUBZERO
 SUJAIDR
 SuKo
+SumVision
 sUN.sujaidr
 Sunny
 Sunshine.Studio
@@ -4377,6 +4393,7 @@ UPPERCUT
 UppLoader
 UQ
 UQW
+uRaMeSHi
 URANiME
 urban20
 ureshii
@@ -4469,6 +4486,7 @@ VISIONPLUSHDR1000
 ViSORY
 ViSTA
 ViSTA™
+ViSUALHD
 ViSUM
 ViTE
 ViVi
@@ -4552,6 +4570,7 @@ Wiggy
 WiHD
 WiiFi
 WiKi
+WiLDCAT
 WILDER
 WinD
 WinD-DE
