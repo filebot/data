@@ -1598,6 +1598,7 @@ FURZI
 FUSiON
 FUSSOIR
 FUtV
+FUUKO
 FuzerHD
 FWDHD
 FWiW
@@ -2703,6 +2704,7 @@ MiLK
 MiLLENiUM
 MiND
 MiNDTHEGAP
+Mindus
 minifreeza
 MiNK
 MiNT
@@ -3538,6 +3540,7 @@ RiFF
 RIG
 RightSiZE
 RIKU
+Rikugou
 RiP
 RIPinpieces
 RIPLEY
@@ -4077,6 +4080,7 @@ Takoyaki
 TangoAlpha
 Tanoshi
 tantrum
+TANUKI
 TAoE
 Tap24
 TAPpika
@@ -4196,6 +4200,7 @@ TjHD
 TK
 TK.STORM
 TKO
+TKP21
 TLA
 tlacatlc6
 TLF
@@ -4520,6 +4525,7 @@ W-B
 w.0.0.f
 w0rm
 W23
+w33b
 W4F
 W4K
 WaCkOs
@@ -4551,6 +4557,7 @@ WEBTiFUL
 WEBTUBE
 Weby
 weeb.gakuin
+WeebPinn
 WELEEF
 WELP
 WEM
