@@ -720,6 +720,7 @@ CallMeBrado
 CAMELOT
 CAMERA
 CAMSTAiN
+Candial
 canOPus
 Canzah
 CAP
@@ -763,6 +764,7 @@ CFE
 cfh
 CFS
 CH-S
+CHAI
 CHAKRA
 Chamele0n
 chanquete69
@@ -1207,6 +1209,7 @@ DrBd
 DrBlaze
 drealiT
 DREAM
+DREAMCATCHER
 DREAMINGROSES
 DREAMLiGHT
 DRG
@@ -1318,6 +1321,7 @@ EmeraldEmpire
 EMG
 Eml.HDTeam
 EMLHDTeam
+EMPATHY
 EmpireHD
 EnA
 Encoderflaccid
@@ -1730,6 +1734,7 @@ GoN
 GOOD.PEOPLE
 GOOGLE
 GooN
+gooz
 GOP
 GoPanda
 GOPI.SAHI
@@ -2148,6 +2153,7 @@ iNTiMiD
 INtL
 iNVADERS
 iNVANDRAREN
+INVICTUS
 IOKE
 iON
 ION10
@@ -2656,6 +2662,7 @@ MDK
 MdM
 MDR
 MDW-Subs
+Meakes
 MEAW
 MEAZONE
 med
@@ -2972,6 +2979,7 @@ NiP
 nipah-subs
 nipahsubs
 NiSC
+NiTK
 nItRo
 NiviSubs
 NiX
@@ -3047,6 +3055,7 @@ NWB
 NWO
 NwS
 NWTC
+NY
 NY2
 NYA
 nyanpasu
@@ -3793,6 +3802,7 @@ SHORTBREHD
 shoTV
 SHOWEHD
 showy
+SHR
 SHRPY
 SHS
 Shujinowski
@@ -4050,6 +4060,7 @@ SWOLLED
 SWTYBLZ
 sxales
 SxHD
+SymBiOTes
 SYNCOPY
 SYNDICATE
 SYS
@@ -4775,6 +4786,7 @@ Zox
 ZQ
 ZR
 ZRK
+ZS
 zsewdc
 ZSiSO
 ZuKo
