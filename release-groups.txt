@@ -189,6 +189,7 @@ AFS
 AFz
 AG
 aGGr0
+AGLET
 AgusiQ
 AH
 AHD
@@ -1850,6 +1851,7 @@ Hauu
 Hauu~
 HAY
 HAYAKU
+HazardX
 HazMatt
 HAZY
 HB
@@ -3026,6 +3028,7 @@ NOsegmenT
 not-voss
 NoTether
 NOTV
+NotVOCH
 NotWCP
 noushi
 NoVA
@@ -3102,6 +3105,7 @@ OldsMan
 OlLanDGroup
 OlSTiLe
 OMA
+Omake
 omar.hidan
 OMER
 OMERTA
@@ -3425,6 +3429,7 @@ R0B0T
 R0CKED
 R10
 R2D2
+R2J
 R3QU3ST
 R4aNiA
 R4F
@@ -4603,6 +4608,8 @@ WiSHTV
 WLF
 WLM
 WLX
+WMD
+wmt
 WMZ
 WNFN
 WodkaE
