@@ -326,6 +326,7 @@
 ^Sport$
 ^Sports$
 ^staging$
+^Star$
 ^stash$
 ^Storage$
 ^Studio$
