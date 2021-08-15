@@ -951,6 +951,7 @@ CuNT
 CureCom
 CureCom-Doremi
 CURIOSITY
+CurryWurst
 cusinndzl
 CUSTOM
 CUTE
@@ -1664,6 +1665,7 @@ GENJO
 GENUiNE
 GEO
 GerHD
+GERTv
 GERUDO
 Getbackers
 GETiT
@@ -2022,6 +2024,7 @@ HQ
 HQ7
 HQC
 HQCLUB
+HQD
 HqDTS
 HQE
 HQM
@@ -2680,6 +2683,7 @@ MEG
 MEGAMACY
 MeGUiL
 MeGusta
+MeH
 MeiohSubs
 MELBA
 MelC4Eva
@@ -2817,6 +2821,7 @@ mRs
 MRShanku
 MRSK
 MRTV
+MRW
 MS
 Ms89
 mSD
@@ -3027,6 +3032,7 @@ NorTV
 NoSCR
 NOSCREENS
 NOsegmenT
+NoSpaceLeft
 not-voss
 NoTether
 NOTV
@@ -3041,6 +3047,7 @@ nox
 NP-Complete
 NPC
 NPW
+NScR
 NSN
 NSUBS
 NT
@@ -3205,6 +3212,7 @@ pasta-subs
 pat
 PATE
 PaTHe
+PaTrol
 PAYiSO
 PaYxXx
 pB
@@ -3587,6 +3595,7 @@ ROBO
 ROBOTS
 ROCCaT
 RoCK&BlueLadyRG
+ROCKEFELLER
 RoCKRioT
 RoFL
 RoG
@@ -3611,10 +3620,12 @@ RSG
 RTA
 RtD
 RTFM
+RTL
 Rtl2x
 RTN
 RTw
 RuBbERDuCK
+RUBBiSH
 RUBLU
 RUBY
 RuDE
@@ -3698,6 +3709,7 @@ sasukexx23
 SATANiC
 SATIVA
 SAVANNAH
+SAViOUR
 SAViOURHD
 SayreUDP
 SB-Subs
@@ -3842,6 +3854,7 @@ SiTiN
 SiTV
 sIU
 sizumeru-subs
+SJ
 sJR
 SK
 Sk1llSh0t
