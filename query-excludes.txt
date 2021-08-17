@@ -362,6 +362,7 @@
 ^Torrents$
 ^Tracker$
 ^transfer$
+^Transfers$
 ^transmission$
 ^TV$
 ^TV.-.edited$
