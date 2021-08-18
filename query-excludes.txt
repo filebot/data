@@ -28,7 +28,7 @@
 ^(?:19|20)\d0s.{0,3}(?:19|20)\d0s$
 ^(?:ABC|DEF|GHI|JKL|MNO|PQR|STU|VW|XYZ)$
 ^(?:Completed|Downloads|Movies|Film|TV\b|FileBot|Temp\b).*$
-^.*(?:Downloads|Movies|Film|TV|FileBot|Temp|Backup)$
+^.*(?:Downloads|Movies|Film|TV|FileBot|Temp|Transfers|Backup)$
 ^3D$
 ^[_+=!]\w+$
 ^\d+.disk$
@@ -85,7 +85,6 @@
 ^CompletedMedia$
 ^Completo$
 ^Completos$
-^conf.backup$
 ^Continue$
 ^Convert$
 ^Cover$
@@ -362,7 +361,6 @@
 ^Torrents$
 ^Tracker$
 ^transfer$
-^Transfers$
 ^transmission$
 ^TV$
 ^TV.-.edited$
