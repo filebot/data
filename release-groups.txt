@@ -3226,6 +3226,7 @@ PCS
 pcsyndicate
 PctNew
 PDSG-Sentosha
+PECULATE
 PeeWee
 PeKI
 PELLUCiD
