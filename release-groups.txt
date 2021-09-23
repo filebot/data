@@ -436,6 +436,7 @@ AXE
 AXED
 AXIAL
 AXiNE
+AXLBEN
 AXNPL.N6
 aXXo
 AYAKO
@@ -446,6 +447,7 @@ AYMO
 AyoEunji
 AyoSuzy
 AYU
+AZAZE
 AzNiNVASiAN
 AZRAEL
 AZU
@@ -496,8 +498,10 @@ BANKAi
 BANZAI
 BaraTV
 BARBA
+BARBIE
 BARC0DE
 BARGE
+BARON
 BaSS
 Bassline
 BatchGuy
@@ -620,6 +624,7 @@ BoB
 BoBo
 BoK
 BOKUTOX
+BONBON
 BonG
 BongK
 bonkai77
@@ -638,6 +643,7 @@ BOV
 BOViCE
 BOW
 BoX
+BraD
 BRADJE
 BRASTEMP
 BRAVERY
@@ -1249,6 +1255,7 @@ DUPLI
 DUQA
 DURHAM
 DUSTED
+DUSTiN
 DutchReleaseTeam
 DuX
 DVD4LiFE
@@ -1446,6 +1453,7 @@ fatman
 FBI
 FBO
 FCC
+FCK
 FD
 FDHQ
 FEATURE
@@ -1518,6 +1526,7 @@ FLiCKS
 FLiCKSiCK
 FliK
 Flomp-Rumbel
+FLOP
 FLOSER
 FLS
 FLSH
@@ -1554,6 +1563,7 @@ FR34KTV
 FRACTAL
 FRAGMENT
 FraMeSToR
+FRATERNiTY
 FREAKS
 FREEDOM
 FreeSub-Raw
@@ -1562,6 +1572,7 @@ FREHD
 FRENCH-JPA
 FRiAR
 Friday21st
+FrIeNdS
 FRiES
 FRiESSPORT
 FRIGGHD
@@ -1571,6 +1582,7 @@ FrogPerson
 FROH-BITE
 FrOnkY
 FROST
+Frosties
 Frostii
 Frostii&AonE
 FROSTII-DCTP
@@ -2291,6 +2303,7 @@ KaKa
 KALAVALE
 Kaleido-Flax
 Kaleido-subs
+KALiPSO
 KalorZ
 KAMERA
 Kametsu
@@ -2471,6 +2484,7 @@ LARCENY
 LARD
 LATENCY
 LAW
+LAZARUS
 LAZERS
 LAZY
 Lazy-Subs
@@ -2545,6 +2559,7 @@ LoneWolf
 LooKMaNe
 LoRD
 LordVako
+LOST
 LostFilm
 LostYears
 LoT
@@ -3036,6 +3051,7 @@ NOSCREENS
 NOsegmenT
 NoSpaceLeft
 not-voss
+NoTag
 NoTether
 NOTV
 NotVOCH
@@ -3191,6 +3207,7 @@ P0W4
 P0W4DVD
 P2u
 P4DGE
+P4Tri0T
 Pa@Ph
 PaCMaN
 PADDO
@@ -3283,6 +3300,7 @@ PL
 PL3X
 PLAiD
 PLANET3
+PlanetX
 PLASTKASSE
 playHD
 PLAYNOW
@@ -3318,6 +3336,7 @@ PopHD
 PoRNDoCtOR
 PORNOHOLiCS
 PorphyriA
+PORTOS
 POSITIVE
 PosTX
 PoT
@@ -3836,6 +3855,7 @@ SHUNPO
 SiAT
 SiBV
 SiC
+SICARIO
 Sick-Fansubs
 sickboy88
 SIF
@@ -3883,6 +3903,7 @@ SL
 SLAG
 Slappy
 slax
+Slay3R
 Slbenfica
 SLG
 SLHD
@@ -4126,6 +4147,7 @@ TARGET
 TaS0
 Tass
 TASTE
+TASTED
 TASTETV
 TastyMelon
 TATUGAMESCF
@@ -4162,6 +4184,7 @@ TEKATE
 Tekno3d
 TELEFLiX
 TELEFUNKEN
+telemO
 TELEViSiON
 TELLY
 TenaciousD
@@ -4211,6 +4234,7 @@ Thizz
 THOR
 THORA
 threesixtyp
+THREESOME
 THRONE
 THUGANOMiCS
 THUGLiNE
@@ -4279,6 +4303,7 @@ TorrenTGui
 TorrentsGroup.Exclusive
 TosKMV
 Towelie
+TOXIC
 ToY-RC
 TPB
 tpz
