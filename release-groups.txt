@@ -3663,6 +3663,7 @@ RULLSTOL
 RUMBEL
 Rumbel_sMi
 Rumi
+RUMOUR
 RUNNER
 RURI
 Ruri-Saizen
