@@ -4,7 +4,6 @@
 @midnight	at.midnight
 Battlestar Galactica	BSG
 Better Call Saul	BeCaSa|BeCaSau|BeCaSaul|BCallS|Be.Cll.Sl|btr.cs
-CSI: Crime Scene Investigation	CSI(?!.{0,3}(?:NY|LA|Miami|New.Orleans|Academy|Cyber))
 Episodes	^Episodes.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
 Game of Thrones	tv.{0,2}got
 Grey's Anatomy	greysana
