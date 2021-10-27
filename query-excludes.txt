@@ -189,6 +189,7 @@
 ^Kids.Shows$
 ^kidsmovies$
 ^Killing$
+^King$
 ^Library$
 ^Love$
 ^made$
