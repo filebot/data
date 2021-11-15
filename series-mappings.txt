@@ -16,6 +16,5 @@ RE-MAIN	Re-Main
 Sex/Life	Sex.and.Life.2021
 Sons of Anarchy	tv.{0,2}soa
 Suits	SuiG7p
-The Morning Show	the.morning.show.2019
 Underemployed	UndG7p
 Upload	^Upload.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
