@@ -2147,6 +2147,7 @@ iNCiTE
 iNCLUSION
 iNCOGNiTO
 iND
+iNDG
 iNFAMOUS
 INFERNO
 iNfInItE_424
@@ -3273,6 +3274,7 @@ Philanthropy_Sekai
 philosophy-raws
 PHiN
 PHOBOS
+PHOCiS
 PHOENiX
 PhoenixRG
 PHoQUE
