@@ -111,7 +111,6 @@
 ^Documentary$
 ^Documents$
 ^Done$
-^DOWNS$
 ^Download$
 ^Download.Movies$
 ^Downloaded$
@@ -119,6 +118,7 @@
 ^Downloading$
 ^Downloads$
 ^Downloads.Area$
+^DOWNS$
 ^Drama$
 ^drive\d+$
 ^DroneFactory$
