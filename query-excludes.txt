@@ -634,6 +634,7 @@ rtfinishedownloads
 rtl
 rtl2
 rtlnitro
+Rutracker
 S\d{2}
 sample
 samples
