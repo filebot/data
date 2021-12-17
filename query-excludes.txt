@@ -7,12 +7,14 @@
 1.3.3.8.com
 10.bit
 1080
+1080.60
 18p
 2D
 2DDL
 3D
 3DFP
 720
+720.60
 7p
 @KIDZ
 \d(Audio|CD|CDRip)
