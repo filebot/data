@@ -152,6 +152,7 @@
 ^Films$
 ^Final$
 ^Finished$
+^FIX$
 ^folder$
 ^freebox$
 ^Fresh$
