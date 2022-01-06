@@ -3324,6 +3324,7 @@ playTV
 PlayWEB
 playXD
 PLEADERS
+PLEW
 PLT
 PlutO
 PLUTONiUM
@@ -4156,6 +4157,7 @@ Taiyo
 Taka
 Taka-THORA
 Takara
+TAKi
 Takoyaki
 TangoAlpha
 Tanoshi
