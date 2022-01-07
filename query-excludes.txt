@@ -199,6 +199,7 @@
 ^Love$
 ^made$
 ^main$
+^manual$
 ^master$
 ^MD\d+.DATA$
 ^media$
