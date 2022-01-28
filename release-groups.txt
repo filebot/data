@@ -1,17 +1,3 @@
-SENPAI
-ION265
-HashMiner
-RONIN
-Paso77
-MrStrange
-KamiKaze
-FreetheFish
-Garshasp
-T0M
-SP3LL
-HiQVE
-HakataRamen
-h3llg0d
 (?-i:ONe|DECADE)
 00d
 0Ac
@@ -1665,6 +1651,7 @@ GanbaRaw
 GANGO
 GANOOL
 GAO
+Garshasp
 GAS
 GASM
 GASM.GAX
@@ -1845,6 +1832,7 @@ H-S&McS
 H2
 h264iRMU
 H3LL2P4Y
+h3llg0d
 H3XDVD
 H4S5S
 H72
@@ -1859,6 +1847,7 @@ HAGGiS
 HAiDEAF
 HAiKU
 Hajike.HnG
+HakataRamen
 HALCYON
 HALOGEN
 HALYNA
@@ -1878,6 +1867,7 @@ Hark0n
 HARMY
 HarrHD
 Harunatsu
+HashMiner
 HatchetGear
 Haterman
 Hatsuyuki
@@ -2009,6 +1999,7 @@ Himiwari
 HIMMEL
 Hinshitsu
 HiNT
+HiQVE
 Hiryuu
 HiSD
 Hitode
@@ -2200,6 +2191,7 @@ INVICTUS
 IOKE
 iON
 ION10
+ION265
 iOZO
 ipeerstein
 iPlayerTV
@@ -2333,7 +2325,7 @@ Kametsu
 KamiFS
 Kamigami
 Kamihikouki
-KAMIKAZE
+KamiKaze
 kamineko
 Kanarianime
 Kappa
@@ -2861,6 +2853,7 @@ MrO
 mRs
 MRShanku
 MRSK
+MrStrange
 MRTV
 MRW
 MS
@@ -3256,6 +3249,7 @@ PAROVOZ
 PARTICLE
 PartyBoy
 PAS
+Paso77
 pasta-subs
 pat
 PATE
@@ -3659,6 +3653,7 @@ ROGER
 ROIMEZ
 Rojo
 ROLAND
+RONIN
 ROOR
 RORI
 rosenbavm
@@ -3812,6 +3807,7 @@ SEiGHT
 SEKTiON9
 SEMTEX
 SENATiON
+SENPAI
 SEPTiC
 SEQUA
 SERIOUSLY
@@ -4002,6 +3998,7 @@ SOV
 SoW
 SoXu
 SOY
+SP3LL
 SP4L
 SPABLAUW
 SpaceHD
@@ -4156,6 +4153,7 @@ T-S
 T-Subs
 t00ng0d
 t09
+T0M
 T0nK4
 T1
 T33V33
