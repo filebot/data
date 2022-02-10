@@ -447,6 +447,7 @@ Behind.The.Scenes
 Best.of.\d{4}
 Best.Quality
 Big4uMOVIES.PW
+bluraytracker
 bt.downloads
 btarena.org
 By.Cool.Release
@@ -465,6 +466,8 @@ ConvertedTV
 Creditless
 Custom.DKsubs
 CVCD
+CZ
+dabing
 DC
 DD\d\D\d
 DDL
@@ -587,6 +590,7 @@ MovieObject
 moviestobeprocessed
 mp
 MPG
+Multiple.Subtitle
 MultiSub
 MVGroup.org
 Mysterythriller
@@ -637,6 +641,7 @@ RESYNC
 RETAIL
 RiffTrax
 RiPSalot
+RLS
 Romantikkomödie
 rtdownloads
 rtfinishedownloads
