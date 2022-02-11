@@ -623,6 +623,7 @@ BMF
 BNFs
 BnS
 BoB
+BobarBiriyani
 BoBo
 BoK
 BOKUTOX
@@ -2616,6 +2617,7 @@ LVL7T7
 LWN
 LX-Sub
 LYCAN
+LycanHD
 M-AF
 M-F
 M-L
@@ -3232,6 +3234,7 @@ P2u
 P4DGE
 P4Tri0T
 Pa@Ph
+PAAI
 PaCMaN
 PADDO
 Pahe.in
