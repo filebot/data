@@ -3345,6 +3345,7 @@ PLT
 PlutO
 PLUTONiUM
 PlX
+plzproper
 PM
 pmHD
 PmP
