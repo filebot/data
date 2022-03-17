@@ -113,6 +113,7 @@
 ^Disney.Shorts$
 ^disque$
 ^DL$
+^Doc$
 ^Documentaries$
 ^Documentary$
 ^Documents$
