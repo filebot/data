@@ -220,7 +220,7 @@ AK-Subs
 AKA
 Akatomba-kBaraka
 akf
-aki
+AKi
 AKIBA
 akihitosubs
 AKiNA
@@ -577,6 +577,7 @@ BiPOLAR
 BiQ
 Biraru
 BiRDHOUSE
+BitHD
 BitMeTV
 BiTo
 BiTW
@@ -1048,6 +1049,7 @@ DD
 DDC
 dddc
 DDDD
+DDLTV
 DDN
 DDR
 de\[42\]
@@ -1246,6 +1248,7 @@ DSS
 DsunS
 Dtech
 DTFS
+DTHD
 DTOne
 Dublado
 DUCK
@@ -3623,6 +3626,7 @@ RIG
 RightSiZE
 RIKU
 Rikugou
+RiLE
 RiP
 RIPinpieces
 RIPLEY
@@ -3898,6 +3902,7 @@ SiAT
 SiBV
 SiC
 SICARIO
+SiCFoI
 Sick-Fansubs
 sickboy88
 SIF
