@@ -352,6 +352,7 @@ ARC
 Archerr
 ARCHiViST
 ArenaBG
+AREY
 ARGON
 Argotzz
 ARI
@@ -717,6 +718,7 @@ c0nFuSed
 c0re
 C1
 C4DVD
+C4K
 C4N4B1S
 C4TV
 C7B
@@ -969,6 +971,7 @@ cusinndzl
 CUSTOM
 CUTE
 Cutting.EDGE
+Cvarkov
 CYBER
 Cyber12.com
 CYBERMEN
@@ -1235,7 +1238,7 @@ DREAMLiGHT
 DRG
 DRHD
 DrLOVE
-drm
+DRM
 DROiDS
 DRONES
 DrPsyc
@@ -2322,6 +2325,7 @@ KAA
 KAFFEREP
 KAGA
 KaiDubs
+KAIZEN
 KaKa
 KALAVALE
 Kaleido-Flax
@@ -2382,6 +2386,7 @@ KiLLARMAN
 KiLLERMiX
 KILLERS
 KiLT
+KiMCHi
 KINeMA
 KINGDOM
 Kingmaker
@@ -3255,6 +3260,7 @@ Pantsu
 PANTY
 PAPAi
 papi
+PARADOX
 ParanDark
 PAROVOZ
 PARTICLE
@@ -3929,6 +3935,7 @@ SiTV
 sIU
 sizumeru-subs
 SJ
+SJCA
 sJR
 SK
 Sk1llSh0t
@@ -4703,6 +4710,7 @@ WingmanNZ
 Wings13
 WINTERS
 WiRA
+WiRd0
 WiRE
 WiSHTV
 WLF
