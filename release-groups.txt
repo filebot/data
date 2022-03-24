@@ -558,6 +558,7 @@ BG
 BGE
 BgFr
 BHATTI
+BHD
 BHDStudio
 BHRG
 BiA
@@ -2375,6 +2376,7 @@ KG
 kgl
 KH
 Khmer-Hentai
+KHN
 khoshmard
 KHP
 KHPP
@@ -2971,6 +2973,7 @@ NDRT
 NeDiVx
 NEECHAN
 nek
+NEKO
 neko-kBaraka
 neko-raws
 NekoMimi
@@ -3219,6 +3222,7 @@ OTR
 OTT
 OTV
 OUIJA
+OurBits
 OurSuperPilaEncode
 OUTBREAK
 OUTDATED
