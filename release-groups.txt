@@ -1653,6 +1653,7 @@ g0tm1Lk
 G3LHD
 G3N3
 G_P
+GA
 GABE
 GAGE
 GALACTiCA
@@ -4640,6 +4641,7 @@ VoX
 VoXHD
 VPPV
 vqtp
+VR
 vrs
 VS
 VST
