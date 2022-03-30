@@ -37,6 +37,7 @@
 30nama
 310yuma
 3DA
+3L
 3Li
 3LT0N
 3LTON
@@ -127,6 +128,7 @@ aBa
 ABB
 ABBiE
 aBD
+ABF
 ABH
 AbhiSona
 AbhiStuff
@@ -582,6 +584,7 @@ BiRDHOUSE
 BitHD
 BitMeTV
 BiTo
+BiTOR
 BiTW
 BiZKiT
 BIZON1984
@@ -738,6 +741,7 @@ CAMELOT
 CAMERA
 CAMSTAiN
 Candial
+CaNDYMaN
 canOPus
 Canzah
 CAP
@@ -1501,6 +1505,7 @@ FiddleGoose
 FiDELiO
 FiDO
 FIG
+Fight-BB
 FiHTV
 FiLMANTA
 FilmHD
@@ -1948,6 +1953,7 @@ HDRINVASION
 HDRISTRASH
 HDRoad
 HDS
+HDT
 HDT-Series
 HDT-Series-GrupoTS
 HDTeam
@@ -3123,6 +3129,7 @@ NUXX
 NVA
 NVEE
 nvtuan86
+NW2B
 NWB
 NWO
 NwS
@@ -3322,6 +3329,7 @@ PiA
 Pianex
 piepHD
 PiKACHU
+Pikanet128
 PiLAF
 PiMP
 Pimp4003
@@ -3347,6 +3355,7 @@ PLAiD
 PLANET3
 PlanetX
 PLASTKASSE
+playBD
 playHD
 PLAYNOW
 PLAYREADY
@@ -3905,6 +3914,7 @@ shoTV
 SHOWEHD
 showy
 SHR
+SHREDDiE
 SHRPY
 SHS
 Shujinowski
@@ -3973,6 +3983,7 @@ SLIVE
 SLM
 SLO
 SLOMO
+SLOT
 SLOW
 SlowHD
 SLRS
