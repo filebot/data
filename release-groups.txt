@@ -160,6 +160,7 @@ Acushla
 ACX
 ACX-SaintDeath
 ADAPT
+AdBlue
 ADC-Elites
 ADC-Germany
 ADC2060
@@ -167,6 +168,7 @@ ADHD
 aDL
 ADRENALiNE
 ADRi
+ADTHD
 ADTRW
 ADX
 AE
@@ -272,6 +274,7 @@ AndyHD
 ANE
 AnFs
 ANGELiC
+Angryunibrow
 Ani-Kraze
 aNi-PrO
 AniCom
@@ -501,6 +504,7 @@ BamHD
 BAND1D0S
 Bandi
 BANKAi
+BaNkeR
 BANZAI
 BaraTV
 BARBA
@@ -542,11 +546,13 @@ Bearfish
 beAst
 Beatrice-Raws
 BEAVE
+BEBOS123
 BEDLAM
 BEEF.STEW
 BeefStew
 BEER
 BeFree
+BeiTai
 BeStDivX
 BeStDvD
 BestHD
@@ -593,6 +599,7 @@ BK
 BKF
 BKT
 BLA
+Blaat
 BLACK
 BLACKHAT
 BladeBDP
@@ -897,6 +904,7 @@ Coo7
 CookieMonster
 CoolGuys
 COOLHD
+CORE
 cornflower.studio
 corrosive
 COTTAGE
@@ -1151,6 +1159,7 @@ Diogo4D
 DiR
 DiRT
 DiRTY
+DiRTYBURGER
 DiRTYDUB
 disc
 DiSPOSABLE
@@ -1316,6 +1325,7 @@ EDGE
 EDHD
 eDi
 Edo
+EDPH
 Eeazy
 EEEEE
 eeye
@@ -1371,6 +1381,7 @@ EPiC
 EPiK
 EPiSODE
 EPP
+EPS
 EPSiLON
 EPZ
 Erai-raws
@@ -1907,6 +1918,7 @@ HD4U
 HDA
 HDAccess
 HDARCHiV
+HDArea
 HDATV
 HDB
 HDBart
@@ -1953,6 +1965,7 @@ HDRINVASION
 HDRISTRASH
 HDRoad
 HDS
+HDSpace
 HDT
 HDT-Series
 HDT-Series-GrupoTS
@@ -2020,6 +2033,7 @@ Hinshitsu
 HiNT
 HiQVE
 Hiryuu
+HiSbeAst
 HiSD
 Hitode
 Hitode_AnimeSS
@@ -2894,6 +2908,7 @@ MTBB
 MTeam
 mthodmn101
 MUC
+muffintastic
 muhHD
 MULTiPLEX
 MULTiPLY
@@ -2951,6 +2966,7 @@ NAHOM
 Naisu
 naiyas
 Nakama-Fansubs
+NaMdraC
 namikazesubs
 NanaOne
 Nanashi
@@ -3278,6 +3294,7 @@ PAROVOZ
 PARTICLE
 PartyBoy
 PAS
+PASHA
 Paso77
 pasta-subs
 pat
@@ -3311,6 +3328,7 @@ persona99.gsg
 PETRiFiED
 PFa
 phase
+PHD
 PHENOMENAL
 PHF
 Philanthropy_Sekai
@@ -3610,6 +3628,7 @@ REM
 REMAKE
 REMARKABLE
 REMAX
+REMUXCB
 RENEGADES
 RenTV
 Repivx
@@ -3711,6 +3730,7 @@ RTL
 Rtl2x
 RTN
 RTw
+RU4HD
 RuBbERDuCK
 RUBBiSH
 RUBLU
@@ -3733,6 +3753,7 @@ RUSTED
 RUSTLE
 RUT
 rutracker
+RUXi
 RWD
 RWP
 RWX
@@ -3835,6 +3856,7 @@ SDM
 sebastopol
 SECRECY
 SecretMyth
+SECTOR
 SECTOR7
 SeeHD
 SEIAKUSETSU
@@ -3979,6 +4001,7 @@ SLG
 SLHD
 SLiGHT
 SLikt
+SLiSU
 SLIVE
 SLM
 SLO
@@ -4001,6 +4024,7 @@ SMRPRTY
 SmugCat
 Smurfenlars
 Sn0wMaN
+SNAHP
 SNAKE
 snavE
 SNCo
@@ -4049,7 +4073,7 @@ SPAROOD
 Species180
 SPEED
 SpeedStar
-sPHD
+SPHD
 Sphinctone1
 SPiCY
 SPiRiT
@@ -4199,6 +4223,7 @@ T33V33
 t3nzin
 T3RR0R1STS
 T6D
+T6R
 Ta@
 TACO
 Tadashi
@@ -4262,6 +4287,7 @@ TELEFUNKEN
 telemO
 TELEViSiON
 TELLY
+TeMPo
 TenaciousD
 TENEIGHTY
 TenkSu
@@ -4291,6 +4317,7 @@ ThD
 The3DTeam
 theAmresh
 TheBatman
+THEBEST
 TheCure
 THeeND
 theHH
@@ -4833,6 +4860,7 @@ YamiWheeler
 YanY
 YAPG
 YARDVID
+YASSER77
 Yatogam1
 YCDV
 YellowBeast
