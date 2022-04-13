@@ -1,4 +1,4 @@
-(?-i:WEB|SPECIAL|MULTi|DUAL|PPV|STREAM|XXX+)
+(?-i:WEB|SPECIAL|MULTi|MULTI|DUAL|PPV|STREAM|XXX+)
 (?:^\d{1,2}(?=[.][ _.])|^[\p{Alnum}\p{Punct}]{1,2}$|^[a-z0-9]{22,}$|^19\d{2}$|^20\d{2}$)
 (?:English|French|German|Spanish|Italian|Swedish)$
 (?:Season|Staffel|Série|Temporada|Folge).?\d+
