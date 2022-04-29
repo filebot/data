@@ -1,4 +1,4 @@
-BluRay	Blu.?Ray|BDRip|BRip|BR.?Rip|BDMV|BD|BDR|BD25|BD50|BD5|BD9|3D.?BluRay|3DBD
+BluRay	Blu.?Ray|BDRip|BRip|BR.?Rip|BDMV|BD|BDR|BD25|BD50|BD5|BD9|3D.?BluRay|3DBD|BDRemux
 CAM	CAM|CAMRip|CAM.?Rip
 DVD-R	DVD.?R|DVD.?Full|Full.?Rip|DVD|DVD.?[59]
 DVDRip	DVD.?Rip|DVD.?Mux
