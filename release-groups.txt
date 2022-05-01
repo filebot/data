@@ -4046,6 +4046,7 @@ SMOKEY
 SMRKings
 SMRPRTY
 SmugCat
+SMURF
 Smurfenlars
 Sn0wMaN
 SNAHP
