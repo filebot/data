@@ -1836,6 +1836,7 @@ GrupoHDS-Sharerip
 GrupoTS
 GRYM
 GS
+GS88
 GSFTX
 GSG9
 GSK_kun
@@ -2815,6 +2816,7 @@ minifreeza
 MiNK
 MiNT
 MiNX
+MiON
 MiRAGETV
 Mirai
 Mirai-Fansubs
