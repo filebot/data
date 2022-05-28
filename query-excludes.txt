@@ -1,6 +1,6 @@
 (?-i:WEB|SPECIAL|MULTi|MULTI|DUAL|PPV|STREAM|XXX+)
 (?:^\d{1,2}(?=[.][ _.])|^[\p{Alnum}\p{Punct}]{1,2}$|^[a-z0-9]{22,}$|^19\d{2}$|^20\d{2}$)
-(?:English|French|German|Spanish|Italian|Swedish)$
+(?:English|French|German|Spanish|Italian|Swedish|Malayalam)$
 (?:Season|Staffel|Série|Temporada|Folge).?\d+
 (?:The|A|Special|Specials|part\d+|t\d+|forced)$
 00000+
