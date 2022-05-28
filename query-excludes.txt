@@ -747,7 +747,7 @@ Western
 withsubs
 working.directory
 WS
-www[.][\p{Alnum}\p{Punct}]+?[.][a-z]{2,4}
+www[.][\p{Alnum}\p{Punct}]+?[.][a-z]{2,5}
 x0r
 xbmc
 XORBiTANT
