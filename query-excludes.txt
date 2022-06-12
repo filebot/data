@@ -107,6 +107,7 @@
 ^Destination$
 ^dev$
 ^Die$
+^Director.s.Cut$
 ^Disco\d+$
 ^disk.\d+$
 ^disk\d+$
@@ -133,6 +134,7 @@
 ^DVD$
 ^dvr$
 ^dvrfiles$
+^Edição.do.Diretor$
 ^emule$
 ^Entertainment$
 ^entpackt$
