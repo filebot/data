@@ -445,6 +445,7 @@ ardeinsfestival
 arte
 atv
 AUDIO_TS
+auto.media
 Axx
 bay3
 BBC
@@ -622,6 +623,7 @@ PBS
 PHoQUE
 Plex
 Politdrama
+PoolPart
 Pre.?DVD
 pro7
 PROPER
