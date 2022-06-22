@@ -2562,6 +2562,7 @@ Lazy-Subs
 LazyLily
 LazyMux
 LB
+LBR
 LCD
 LCHD
 LD
@@ -4017,6 +4018,7 @@ SKEDADDLE
 SKGTV
 SkipTowne
 SKiTFiSKE
+SKiZOiD
 skorpion
 SkRiN
 SkumDog
