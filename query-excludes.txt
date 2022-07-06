@@ -111,6 +111,7 @@
 ^Disco\d+$
 ^disk.\d+$
 ^disk\d+$
+^Disney$
 ^Disney.Shorts$
 ^Disney[+]$
 ^disque$
