@@ -112,6 +112,7 @@
 ^disk.\d+$
 ^disk\d+$
 ^Disney.Shorts$
+^Disney[+]$
 ^disque$
 ^DL$
 ^Doc$
