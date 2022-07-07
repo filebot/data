@@ -234,6 +234,7 @@
 ^Mystery$
 ^NAS$
 ^net$
+^Netflix$
 ^new$
 ^New.Movies$
 ^New.Series$
