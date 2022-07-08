@@ -1567,6 +1567,7 @@ flgr
 FLHD
 FLiCKS
 FLiCKSiCK
+FLIGHTS
 FliK
 Flomp-Rumbel
 FLOP
