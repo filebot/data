@@ -957,6 +957,7 @@ CROSSBOW
 CROSSFADE
 CROSSFIT
 CROWN
+CRR
 Crunchyroll
 CrunchySubs
 Crustyroll
@@ -1161,6 +1162,7 @@ DiGiCo
 DigiSubs
 DIMAPIKS
 DIMENSION
+DiMEPiECE
 DiMiTri
 DiMMAN
 DiN
@@ -1717,6 +1719,7 @@ GEEK
 GeekRG
 GEHENNA
 Gellard
+Gelo.B
 GeNa
 GENESIDE
 GENESIS
@@ -2992,7 +2995,7 @@ n3xT
 NAA
 NAFSG
 NAHOM
-Naisu
+NAISU
 naiyas
 Nakama-Fansubs
 NaMdraC
