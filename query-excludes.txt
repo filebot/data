@@ -131,6 +131,7 @@
 ^DOWNS$
 ^Drama$
 ^drive\d+$
+^DroidTV$
 ^DroneFactory$
 ^Dropbox$
 ^DVD$
