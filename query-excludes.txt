@@ -364,6 +364,7 @@
 ^Temp.Movies$
 ^temporary$
 ^test$
+^test.files$
 ^testdata$
 ^testin$
 ^testing\w+$
