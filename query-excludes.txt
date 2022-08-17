@@ -54,6 +54,7 @@
 ^Amazon.Video$
 ^AMC-\w+$
 ^and$
+^Animal$
 ^Animation$
 ^Animations$
 ^Anime$
