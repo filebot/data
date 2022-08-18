@@ -4269,6 +4269,7 @@ T1
 T33V33
 t3nzin
 T3RR0R1STS
+T4H
 T6D
 T6R
 Ta@
@@ -4651,6 +4652,7 @@ Vanillapunk
 VANiR
 VanRay
 varo
+VARYG
 Vawn
 vcb-studio
 VCDVaULT
