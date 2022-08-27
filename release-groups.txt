@@ -843,6 +843,7 @@ CiELOS
 CiFER
 CiHD
 CineBus
+Cinecrime
 CiNEDOME
 Cinefeel
 CiNEFiLE
