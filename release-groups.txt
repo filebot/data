@@ -1790,6 +1790,7 @@ GME2000
 GMoRK
 GNARLY
 GNF
+GNOME
 GoApe
 GOATLOVE
 Goblin10
@@ -2343,6 +2344,7 @@ jth
 jTV
 Judas
 JUDGEMENT
+judochop
 Juggalotus
 JUGGS
 JUMANJi
@@ -2726,6 +2728,7 @@ Manatsu
 MandR
 MANGACiTY
 MANHOLE
+manhy
 MANNING
 Mantas
 MapleClub
@@ -3322,6 +3325,7 @@ Pankhabd
 panos
 Pantsu
 PANTY
+PaODEQUEiJO
 PAPAi
 papi
 PARADOX
