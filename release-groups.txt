@@ -1063,6 +1063,7 @@ DAWN
 DB
 DBO
 dbR
+DBRETAiL
 DBSuper
 DC
 DC-AG
@@ -1280,6 +1281,7 @@ Dtech
 DTFS
 DTHD
 DTOne
+DTS
 Dublado
 DUCK
 DUDE
@@ -1346,6 +1348,7 @@ eeye
 EFA
 EFF
 EFTERLYST
+EGEN
 EHLE
 ehMD
 EiDER
@@ -4553,6 +4556,7 @@ TVTUPA
 TVV
 TW
 TWA
+TWASERiES
 TweakAnime
 tweakrips
 TWEET
@@ -4689,6 +4693,7 @@ ViCiOsO
 Victorique
 ViD
 VideoCD
+VideoGod
 VideoStar
 ViDEOWELT
 vidom
