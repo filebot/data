@@ -345,6 +345,7 @@
 ^Source$
 ^Sport$
 ^Sports$
+^Spy$
 ^staging$
 ^Star$
 ^stash$
