@@ -345,6 +345,7 @@
 ^sorted$
 ^SortedMedia$
 ^Source$
+^Special$
 ^Sport$
 ^Sports$
 ^Spy$
