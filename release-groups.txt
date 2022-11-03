@@ -1943,6 +1943,7 @@ HD1080
 HD4U
 HDA
 HDAccess
+hdalx
 HDARCHiV
 HDArea
 HDATV
@@ -2850,6 +2851,7 @@ miUHD
 MiXED
 Miyu
 Miyuki-Fansubs
+MJOLNiR
 MK
 MK-Pn8
 MKED
