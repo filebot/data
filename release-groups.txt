@@ -1769,6 +1769,7 @@ giu
 gizzmo
 GJM
 GJM-DDY
+GJM-Kaleido
 GK
 GK.GAX
 GK.RTFS
@@ -2363,6 +2364,7 @@ JustHD
 JustSubs
 JustWatch
 JYK
+JySzE
 JZ
 jz1276
 K-F
@@ -4103,6 +4105,7 @@ SOLAR
 Solar_Faith
 SoLCE
 SOLDATS
+SoM
 Some-Stuffs
 somedouches
 SomeTV
