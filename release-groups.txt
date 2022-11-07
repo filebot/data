@@ -1,4 +1,4 @@
-(?-i:ONe|DECADE)
+(?-i:ONe|DECADE|TiTAN)
 00d
 0Ac
 0MNiDVD
@@ -4421,7 +4421,6 @@ TinyE
 Tipota
 TiPToP
 TiT
-TiTAN
 TiTANS
 tixe
 TjHD
