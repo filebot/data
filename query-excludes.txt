@@ -717,7 +717,6 @@ TC
 tele5
 tempDownloadingFolder
 Temporary.Files
-The.Final.Season
 Thrillerkomödie
 title.t\d+
 title\d+
