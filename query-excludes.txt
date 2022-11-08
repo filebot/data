@@ -374,6 +374,7 @@
 ^testin$
 ^testing\w+$
 ^testout$
+^testRename$
 ^The$
 ^The.Best$
 ^The.TV.Series$
