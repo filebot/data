@@ -214,6 +214,7 @@
 ^main$
 ^manual$
 ^master$
+^Master.Folder$
 ^MD\d+.DATA$
 ^media$
 ^MediaDownload$
