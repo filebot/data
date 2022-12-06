@@ -1339,6 +1339,7 @@ eclipse-m.3.3.w
 ecliptic-BSS
 ED
 ED-Subs
+EddieSmurfy
 EDE
 EDGE
 EDGE2020
