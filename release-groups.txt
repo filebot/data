@@ -352,6 +352,7 @@ AP
 APAX
 APB
 apekat
+APEX
 APPEL
 APT
 APTX
@@ -826,6 +827,7 @@ Chica-F
 Chihiro
 Chihiro-Sprocket
 ChiLLuM
+CHILLY
 Chinurarete
 CHIPTEC
 Chotab
@@ -1180,6 +1182,7 @@ DiRTY
 DiRTYBURGER
 DiRTYDUB
 disc
+DiSGUSTiNG
 DiSPOSABLE
 DiSSENT
 DISTILL
@@ -1233,6 +1236,7 @@ DONATELLO
 DonC
 DoNE
 DONG
+DonJuan
 DONNA
 DoNOLi
 DONUTS
@@ -3417,6 +3421,7 @@ PiSi
 Pitufo180
 PiX
 PixelHD
+PIXiEDUST
 PiZZAHUT
 PKF
 PL
@@ -4118,6 +4123,7 @@ SONiDO
 SONS
 sony188
 SoP
+SORROW
 SoS
 SOUR
 SOV
