@@ -2466,6 +2466,7 @@ kirklestat
 KISA
 KiSHD
 KiSS
+KITSUNE
 KiyoshiStar
 Kizuna
 Kizuna.FA
@@ -2695,6 +2696,7 @@ LUND
 LupinTheNerd
 LUSO
 LUST
+luvBB
 LVL7T7
 LWN
 LX-Sub
