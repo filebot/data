@@ -600,6 +600,7 @@ MasterEdition
 MCEBuddy
 mdr
 media.copy
+MediathekView
 MegaPack
 Minisodes
 MkvCage
