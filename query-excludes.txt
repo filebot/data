@@ -522,6 +522,7 @@ ENG
 ENSub
 ettv
 Ext
+Ext.Shares
 EXTENDED
 ExtraScene
 ExtraTorrent
@@ -681,6 +682,7 @@ Screenshot
 sd
 Season\D?\d+
 sed
+Seedsync
 Serien\D?\d+
 serienJK
 Series\D?\d+
