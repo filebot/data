@@ -666,6 +666,7 @@ BOREDOR
 BORGATA
 bottleman.wiki
 BountyHunters
+BOUNTYTOOBIGTOIGNORE
 BOV
 BOViCE
 BOW
@@ -919,6 +920,7 @@ Coo7
 CookieMonster
 CoolGuys
 COOLHD
+COPiUM
 CORE
 cornflower.studio
 corrosive
@@ -3722,6 +3724,7 @@ RHD
 RHooD
 RHyTM
 RIAS
+RiCKY
 RiddlerA
 RiFF
 RIG
