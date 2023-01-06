@@ -41,6 +41,7 @@
 ^\d0s.{0,3}\d0s$
 ^\d{1,3}$
 ^\w+(?:Renamed|Unfinished|Server)$
+^\w\p{Punct}+$
 ^\w{1,2}$
 ^\w{6}~\w$
 ^ACD$
