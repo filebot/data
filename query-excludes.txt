@@ -754,6 +754,7 @@ TwoDDL
 TwoDDL.eu
 UE
 UFC.PPV
+UHD
 ultrahd
 UsaBit.com
 utorrent.downloads
