@@ -18,3 +18,4 @@ Sons of Anarchy	tv.{0,2}soa
 Suits	SuiG7p
 Underemployed	UndG7p
 Upload	^Upload.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
+V (2009)	^V.(?:S\d{2}E\d{2}|\dx\d{2})
