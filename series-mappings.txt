@@ -1,21 +1,19 @@
 11/22/63	11.22.63
-24	^24.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
-86: Eighty Six	Eighty.Six.{0,3}\d+
+24	^24.(?:S\d{2}E\d{2}|\d{1,2}x\d{2})
 @midnight	at.midnight
 Battlestar Galactica	BSG
 Better Call Saul	BeCaSa|BeCaSau|BeCaSaul|BCallS|Be.Cll.Sl|btr.cs
-Episodes	^Episodes.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
+Episodes	^Episodes.(?:S\d{2}E\d{2}|\d{1,2}x\d{2})
 Game of Thrones	tv.{0,2}got
 Grey's Anatomy	greysana
-Home Movies	^Home.Movies.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
+Home Movies	^Home.Movies.(?:S\d{2}E\d{2}|\d{1,2}x\d{2})
 Homeland	Hml8p
 L.U.C.A.: The Beginning	L.U.C.A.
 Marvel's Agents of S.H.I.E.L.D.	tv.{0,2}shield
 Person of Interest	tv.{0,2}poi|poid
-RE-MAIN	Re-Main
 Sex/Life	Sex.and.Life.2021
 Sons of Anarchy	tv.{0,2}soa
 Suits	SuiG7p
 Underemployed	UndG7p
-Upload	^Upload.{0,3}(?:S\d{2}E\d{2}|\dx\d{2})
-V (2009)	^V.(?:S\d{2}E\d{2}|\dx\d{2})
+Upload	^Upload.(?:S\d{2}E\d{2}|\d{1,2}x\d{2})
+V (2009)	^V.(?:S\d{2}E\d{2}|\d{1,2}x\d{2})
