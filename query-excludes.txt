@@ -517,7 +517,7 @@ DVD\d+
 DVDsize
 DVDXvID
 DVSKY
-E.?\d{1,4}
+E\d{1,4}
 ECE
 ENG
 ENSub
