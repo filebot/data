@@ -164,6 +164,7 @@ ADRENALiNE
 ADRi
 ADTHD
 ADTRW
+ADWeb
 ADX
 AE
 AE-Kaen
@@ -411,6 +412,7 @@ ATTLLN
 AtZLIT
 AUC
 Audi8914
+Audies
 AudioEditado
 AURiNKO
 AURORA
@@ -809,6 +811,7 @@ CHD
 CHDBits
 CHDSUBS
 CHDTV
+CHDWEB
 cheap.co
 CHECKMATE
 CHEL
@@ -1617,6 +1620,7 @@ FRACTAL
 FRAGMENT
 FraMeSToR
 FRATERNiTY
+FRDS
 FREAKS
 FREEDOM
 FREESHIT
@@ -1939,6 +1943,7 @@ HazMatt
 HAZY
 HB
 HBHD
+HBO
 HCA
 HD-UNiT3D
 HD1080
@@ -1996,6 +2001,7 @@ HDRISTRASH
 HDRoad
 HDS
 HDSpace
+HDSWEB
 HDT
 HDT-Series
 HDT-Series-GrupoTS
@@ -2037,6 +2043,7 @@ hgking
 HH
 HHH
 HHI
+HHWEB
 Hi-no-Ka
 HiCost
 HIDD3N
@@ -2092,6 +2099,7 @@ holz
 Hon3y
 Hon3yHD
 HonE
+HoneyG
 Honto
 HoodBag
 HooKah
@@ -2144,6 +2152,7 @@ HYFS
 hymen
 HYPE
 HZ
+HīkariRaīders
 I-F
 I-Z
 i7
@@ -2345,6 +2354,7 @@ joseole99-TCL
 JOY
 JoyBell
 Jozzep
+JPTVclub
 JRabbit
 JS
 jth
@@ -2585,6 +2595,7 @@ LCHD
 LD
 LDS
 LeagueNF
+LeagueWEB
 Lee
 leetay
 LeetHD
@@ -2871,6 +2882,7 @@ MKVULTRA
 MLW
 MMI
 mmsubs
+MNHD-FRDS
 MoA
 MOBBit
 MOBEE1
@@ -3178,6 +3190,7 @@ NP-Complete
 NPC
 NPMS
 NPW
+NSBC
 NScR
 NSN
 NSUBS
@@ -3299,6 +3312,7 @@ OTV
 OUIJA
 OurBits
 OurSuperPilaEncode
+OurTV
 OUTBREAK
 OUTDATED
 OUTERSPACE
@@ -3517,6 +3531,7 @@ PSYPHER
 PTA
 PTBR
 PTer
+PTHome
 Pti
 PTMiR
 PTNK
@@ -4887,6 +4902,7 @@ XCOPYHD
 xD2V
 xDR
 xDTK
+XEBEC
 Xell
 XF
 XHD
