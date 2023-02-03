@@ -123,6 +123,7 @@
 ^Documentaries$
 ^Documentary$
 ^Documents$
+^Dog$
 ^Done$
 ^Download$
 ^Download.Movies$
