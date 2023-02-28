@@ -546,6 +546,7 @@ Beatrice-Raws
 BEAVE
 BEBOS123
 BEDLAM
+BeechyBoy
 BEEF.STEW
 BeefStew
 BEER
@@ -854,6 +855,7 @@ CiNEVCD
 CiNEViSiON
 CiRCLE
 CIS
+CiTiDeL
 CJ
 CLASS
 CLASSiC
@@ -897,6 +899,7 @@ COiNCiDENCE
 COLB
 coldhell
 COMANDOTORRENTS
+COMEDY
 Commie
 Commie-UNDERWATER
 COMPLIANT
@@ -2471,6 +2474,7 @@ KISA
 KiSHD
 KiSS
 KITSUNE
+KiTTY
 KiyoshiStar
 Kizuna
 Kizuna.FA
@@ -2915,6 +2919,7 @@ MOOS
 MOOVEE
 Moozzi2
 Morai
+MOREBiTS
 MoreHD
 Mori
 MORiCH
@@ -3879,6 +3884,7 @@ SallySubs
 SALT
 SaltSplash
 SAM
+SAMEBiTS
 SAMFD
 SAMiR
 samir755
