@@ -34,7 +34,7 @@
 ^(?:Completed|Downloads|Movies|Film|TV\b|FileBot|Temp\b).*$
 ^.*(?:Downloads|Movies|Film|\bTV|FileBot|Temp|Transfers|Backup)$
 ^3D$
-^[\-_+=!]+\w+[\-_+=!]*$
+^[\-_+=!@]+\w+[\-_+=!@]*$
 ^\d+.disk$
 ^\d+disk$
 ^\d.-.Complete$
