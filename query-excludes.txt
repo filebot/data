@@ -225,6 +225,7 @@
 ^MediaDownload$
 ^Mega.Storage$
 ^Mega\d*$
+^MINE$
 ^mnt$
 ^More$
 ^Most$
