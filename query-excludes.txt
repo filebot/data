@@ -403,6 +403,7 @@
 ^tv.rename$
 ^TV.Series$
 ^TV.Show$
+^TV.Shows$
 ^TV.{0,3}Documentaries$
 ^TV.{0,3}Shows$
 ^TVCurrent$
