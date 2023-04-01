@@ -684,6 +684,7 @@ Rutracker
 S\d{2}
 sample
 samples
+sanet.st
 sat1
 Scenes
 Screenshot
