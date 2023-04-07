@@ -351,6 +351,7 @@
 ^sort$
 ^sorted$
 ^SortedMedia$
+^Sorting.Hat$
 ^Source$
 ^Special$
 ^spillover$
