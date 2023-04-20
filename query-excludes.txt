@@ -667,6 +667,7 @@ RecordedTV
 REMASTER
 REMASTERED
 REMUX
+Remuxed.audio
 RENOMBRAR
 REPACK
 ReRip
@@ -770,6 +771,7 @@ UsaBit.com
 utorrent.downloads
 VCD
 VIDEO_TS
+videoBy
 viva
 vo
 Volume.TB
