@@ -423,6 +423,7 @@
 ^user$
 ^utorrent$
 ^vari$
+^various.files$
 ^VCD$
 ^Video$
 ^VIDEO_TS$
