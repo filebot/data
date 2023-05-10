@@ -1372,6 +1372,7 @@ EiSBOCK
 EiSDOCK
 Eisy
 Ekolb
+ELEANOR
 Electri4ka
 ELECTRiC
 Electrichka
@@ -1432,6 +1433,7 @@ ETACH
 EtB
 ETH
 ethaNoL
+ETHEL
 ETHOS
 ETM
 ETMID
