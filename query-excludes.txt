@@ -374,7 +374,7 @@
 ^Telechargements$
 ^Telefilm\d*$
 ^Television$
-^temp$
+^temp\d*$
 ^Temp.Movies$
 ^temporary$
 ^test$
