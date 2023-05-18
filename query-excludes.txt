@@ -295,6 +295,7 @@
 ^Qmultimedia$
 ^queue$
 ^Radarr$
+^radarr_\w+$
 ^RadarrDrone$
 ^RadarrRecyclingBin$
 ^Radio$
@@ -374,8 +375,8 @@
 ^Telechargements$
 ^Telefilm\d*$
 ^Television$
-^temp\d*$
 ^Temp.Movies$
+^temp\d*$
 ^temporary$
 ^test$
 ^test.files$
