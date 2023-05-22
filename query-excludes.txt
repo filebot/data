@@ -269,10 +269,12 @@
 ^output$
 ^Part$
 ^PELICULAS$
+^Pelis$
 ^Películas$
 ^Person$
 ^Pictures$
 ^Piece$
+^plain$
 ^Plex$
 ^Plex.Approved$
 ^Plex.Cloud$
