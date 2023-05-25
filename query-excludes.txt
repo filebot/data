@@ -441,6 +441,7 @@
 ^what$
 ^work$
 ^Working$
+^workingdir$
 ^Workshop$
 ^www$
 ^x264$
