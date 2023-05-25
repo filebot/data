@@ -65,6 +65,7 @@
 ^Applications$
 ^Assorted$
 ^automation$
+^autosort$
 ^bad$
 ^Best$
 ^Big$
@@ -318,6 +319,7 @@
 ^Rips$
 ^Romance$
 ^rtorrent$
+^runs$
 ^Saga$
 ^SARJAT$
 ^Satire$
