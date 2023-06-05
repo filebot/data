@@ -1,4 +1,4 @@
-(?-i:ONe|DECADE|TiTAN)
+(?-i:ONe|DECADE|TiTAN|WAR)
 00d
 0Ac
 0MNiDVD
