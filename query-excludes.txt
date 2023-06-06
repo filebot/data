@@ -406,6 +406,7 @@
 ^Torrents$
 ^Tracker$
 ^transfer$
+^Transfert$
 ^transmission$
 ^TV$
 ^TV.-.edited$
@@ -426,6 +427,7 @@
 ^unsorted\w+$
 ^UNTAGGED$
 ^upload$
+^Uptobox$
 ^usbdrive$
 ^Usenet$
 ^user$
