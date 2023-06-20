@@ -160,7 +160,7 @@
 ^Fantasy$
 ^Fertig$
 ^file$
-^files$
+^files\d*$
 ^Film$
 ^Film.&.TV$
 ^Filme$
