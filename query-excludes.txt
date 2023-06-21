@@ -202,6 +202,7 @@
 ^import$
 ^in$
 ^In.Progress$
+^In.Work$
 ^inbox$
 ^Incoming$
 ^Incomplete$
