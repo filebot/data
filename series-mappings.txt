@@ -11,6 +11,7 @@ Homeland	Hml8p
 L.U.C.A.: The Beginning	L.U.C.A.
 Marvel's Agents of S.H.I.E.L.D.	tv.{0,2}shield
 Person of Interest	tv.{0,2}poi|poid
+Rurouni Kenshin (2023)	Rurouni.Kenshin.{0,2}2023
 Sex/Life	Sex.and.Life.2021
 Sons of Anarchy	tv.{0,2}soa
 Suits	SuiG7p
