@@ -318,6 +318,7 @@
 ^Remuxed$
 ^rename$
 ^Reseed$
+^resilio$
 ^Review$
 ^rip$
 ^Rips$
