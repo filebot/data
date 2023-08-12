@@ -4152,6 +4152,7 @@ SLOT
 SLOW
 SlowHD
 SLRS
+SlyFox
 SM-Subs
 SM_LoC
 SMAHD
