@@ -2534,6 +2534,7 @@ km
 KN3
 knifesharp
 KNIGHTY1973
+KNiVES
 KnK
 KnKF-Doremi
 KNOC
@@ -3468,6 +3469,7 @@ PI
 PiA
 Pianex
 piepHD
+PiGNUS
 PiKACHU
 Pikanet128
 PiLAF
