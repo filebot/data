@@ -161,6 +161,7 @@ AdBlue
 ADC-Elites
 ADC-Germany
 ADC2060
+ADE
 ADHD
 AdiT
 aDL
@@ -886,6 +887,7 @@ CM
 CM8
 Cman
 CMaRioG
+CMCT
 CME
 CMRG
 CMS
@@ -4766,7 +4768,7 @@ VanRay
 varo
 VARYG
 Vawn
-vcb-studio
+VCB-Studio
 VCDVaULT
 VCF
 VCORE
