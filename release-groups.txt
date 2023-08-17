@@ -1262,7 +1262,6 @@ Doremi-Asenshi
 DOT
 DOUBT
 DOUCEMENT
-DoVi
 Dowcker
 DOWN
 DownRev
