@@ -1,5 +1,5 @@
 (?-i:WEB|SPECIAL|MULTi|MULTI|DUAL|PPV|STREAM|XXX+)
-(?:^\d{8,}(?=[ _.])|^\d{1,2}(?=[.][ _.])|^[\p{Alnum}\p{Punct}]{1,2}$|^[a-z0-9]{22,}$|^19\d{2}$|^20\d{2}$)
+(?:^\d{8,}(?=[ _.])|^\d{1,2}(?=[.][ _.])|^[\p{Alnum}\p{Punct}]{1,2}$|^[a-z0-9]{22,}$|^19\d{2}$|^20\d{2}$|^dev-disk-)
 (?:English|French|German|Spanish|Italian|Swedish|Malayalam)$
 (?:Season|Staffel|Série|Temporada|Folge).?\d+
 (?:The|A|Special|Specials|part\d+|t\d+|forced)$
@@ -369,6 +369,7 @@
 ^Sport$
 ^Sports$
 ^Spy$
+^srv$
 ^staging$
 ^Star$
 ^stash$
@@ -755,6 +756,7 @@ title.t\d+
 title\d+
 to.be.filed
 to.be.sorted
+toArchive
 torrent.download
 Torrent9.NZ
 ToSort
