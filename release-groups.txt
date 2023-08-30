@@ -3123,6 +3123,7 @@ NemDiggers
 NEMESIS
 NEMO
 neo1024
+neoDESU
 neoHEVC
 Nep_Blanc
 NEPTUNE
