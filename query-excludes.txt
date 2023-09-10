@@ -641,6 +641,7 @@ Multiple.Subtitle
 MultiSub
 MVGroup.org
 Mysterythriller
+NasRecordings
 National.Geographic
 NewMedia
 NeZu
@@ -700,6 +701,7 @@ rtl2
 rtlnitro
 Rutracker
 S\d{2}
+Sagetv
 sample
 samples
 sanet.st
