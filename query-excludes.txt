@@ -566,6 +566,7 @@ funimation
 funxd
 GER\d*
 Hard.Subbed
+Hardlinks
 HAVE.TO.BE.CUT
 HBO
 HBO.Documentaries
@@ -681,6 +682,7 @@ readytomove
 REAL.PROPER
 REAL.REPACK
 RecordedTV
+RecordingZ
 REMASTER
 REMASTERED
 REMUX
