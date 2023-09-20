@@ -378,6 +378,7 @@
 ^Stuff$
 ^sync$
 ^System$
+^Série.TV$
 ^séries$
 ^t$
 ^tank$
