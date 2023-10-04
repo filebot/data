@@ -14,6 +14,7 @@ Person of Interest	tv.{0,2}poi|poid
 Sex/Life	Sex.and.Life.2021
 Sons of Anarchy	tv.{0,2}soa
 Suits	SuiG7p
+The Late Show with Stephen Colbert	^Stephen.Colbert.\d{4}.\d{2}.\d{2}
 Underemployed	UndG7p
 Upload	^Upload.(?:S\d{2}E\d{2}|\d{1,2}x\d{2})
 V (2009)	^V.(?:S\d{2}E\d{2}|\d{1,2}x\d{2})
