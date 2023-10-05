@@ -499,6 +499,7 @@ btarena.org
 By.Cool.Release
 C.orig
 Castellano
+Catchall
 CBC
 CD\D?\d+
 Channel\D?\d+
