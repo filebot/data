@@ -505,6 +505,7 @@ CBC
 CD\D?\d+
 Channel\D?\d+
 CLASSIC
+CLI
 CN
 CODIFICAR
 CODY
@@ -569,6 +570,7 @@ FS
 funimation
 funxd
 GER\d*
+GUI
 Hard.Subbed
 Hardlinks
 HAVE.TO.BE.CUT
