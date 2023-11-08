@@ -371,6 +371,7 @@
 ^Spy$
 ^srv$
 ^staging$
+^standard$
 ^Star$
 ^stash$
 ^Storage$
