@@ -652,6 +652,7 @@ BoBo
 BoK
 BOKUTOX
 BONBON
+BONE
 BonG
 BongK
 bonkai77
@@ -1738,6 +1739,7 @@ GAGE
 GALACTiCA
 Galator
 GalaxyRG
+GalaxyRG265
 GanbaRaw
 GANGO
 GANOOL
@@ -2336,6 +2338,7 @@ iTSDVD
 iTSMEMARiO
 ITZ
 Ivandro
+iVy
 IwIwA
 iwok
 IY
@@ -2396,6 +2399,7 @@ JM
 jmanwf
 JMT
 JN
+JoeBee
 Joggie
 JohnGalt
 JOLLY
@@ -2624,6 +2628,7 @@ LadyN
 Lag-Taka
 LAJ
 LAKO
+LAMA
 LamB
 LaMe
 LameHD
@@ -3160,6 +3165,7 @@ NEZU
 NF
 NFHD
 NFLX
+NFM
 NFRiP
 NGB
 NGE
@@ -4127,6 +4133,7 @@ SimplyReleaseS
 SiN
 SINISTER
 SiNNERS
+SiQ
 Sir.Paul
 SiRiUs.sHaRe
 SiSO
