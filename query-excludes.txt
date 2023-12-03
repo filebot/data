@@ -211,6 +211,7 @@
 ^input$
 ^Inside$
 ^JDownloader$
+^jellymedia$
 ^jukebox$
 ^Kids$
 ^Kids.Movies$
@@ -461,6 +462,7 @@
 ^XBMC$
 ^XXX+$
 ^YouTube$
+^zfsdata$
 A.PROCESAR
 A.Release.Lounge
 AAC\D?\d*
