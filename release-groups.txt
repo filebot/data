@@ -3301,6 +3301,7 @@ NYA
 nyanpasu
 NYDIC
 NYH
+NyHD
 Nyoro~n.Subs
 NYS
 NyTT
