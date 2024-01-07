@@ -351,6 +351,7 @@ APB
 apekat
 APEX
 APPEL
+APRiCiTY
 APT
 APTX
 AQ
@@ -1743,6 +1744,7 @@ GALACTiCA
 Galator
 GalaxyRG
 GalaxyRG265
+GalaxyTV
 GanbaRaw
 GANGO
 GANOOL
@@ -1809,6 +1811,7 @@ GHS
 GI
 GiGAS
 GiMCHi
+GIMINI
 GiNJi
 ginseng
 GIRAYS
@@ -2220,6 +2223,7 @@ icn
 iCO
 iCV-MIRCrew
 Icyguy
+ICYMI
 iD
 IDE
 Idi0T
@@ -2376,6 +2380,7 @@ Jav-Fans
 JAVLiU
 JaYC
 JAZZYO
+JBee
 JBENT
 JBS
 JCH
@@ -2492,6 +2497,7 @@ KEG
 KEKKAI
 keltz
 Kemo-Subs
+KeNDALL
 KENOBI
 KESH
 KETTLE
@@ -3206,6 +3212,7 @@ niku
 NILE
 NIMA4K
 Nimu
+NINJACENTRAL
 NinjaPanda
 NiP
 nipah-subs
@@ -3250,6 +3257,7 @@ NORDIC.RELEASE
 NORDiCHD
 NORETAiL
 NOreVENUE
+norite
 NorTV
 norush
 NoSCR
@@ -3402,6 +3410,7 @@ OurTV
 OUTBREAK
 OUTDATED
 OUTERSPACE
+OUTFiT
 OUZO
 Ov3rl1f3
 Ov3rload
@@ -3555,6 +3564,7 @@ POCHER
 POD
 PODO
 POE
+PoF
 POH
 POKE
 POKERUS
@@ -3717,6 +3727,7 @@ RAiNCOAT
 RAiNDEER
 Raizel
 RAKUDA
+RAMSEiS
 RANDi
 Ranvijay
 Raoul
@@ -3895,6 +3906,7 @@ RS-F
 RsF
 RSG
 RTA
+RTARHD
 RtD
 RTFM
 RTL
@@ -4225,6 +4237,7 @@ SoCkS
 SOF
 SOFCJ-Raws
 Softfeng
+SOIL
 SoKa
 SOL
 SOLA
@@ -4368,6 +4381,7 @@ SUBTiTLES
 Subtox
 SUBZERO
 successfulcrab
+SUiCiDAL
 SUJAIDR
 SuKo
 SumVision
@@ -4441,6 +4455,7 @@ TANUKI
 TAoE
 Tap24
 TAPpika
+TAR
 TARGET
 TaS0
 Tass
@@ -4547,6 +4562,7 @@ TiCAL
 TiDE
 Tigole
 TiiX
+TIJUCO
 TilMigSelv
 TiMEGOD
 TimeLesSub
@@ -4680,12 +4696,14 @@ Tv21
 TV2LAX9
 TV4A
 TVA
+TVADDiCT
 TVARCHiV
 TVBeastS
 TVBYEN
 TvD
 TVFi
 TViLLAGE
+TVLiTE
 TVN
 TVNATiON
 TvNORGE
@@ -5151,12 +5169,14 @@ Zeus-Dias
 Zi.t
 ZigZag
 ZiNC
+ZiTO
 zKr
 ZKuS
 ZMachine
 zman
 ZMB
 ZMG
+ZMNT
 Zodiac
 zog
 zomg
