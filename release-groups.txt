@@ -478,6 +478,7 @@ B2B
 B2E
 B4ND1T69
 B5
+B9R
 BA
 Ba-Su
 Baal
@@ -646,6 +647,7 @@ BluZilla
 BMB
 BMF
 BNFs
+BNR
 BnS
 BoB
 BobarBiriyani
@@ -1076,6 +1078,7 @@ DarkHollow
 Darkside.RG
 DARKTIGER
 DARM
+DART
 DaScubaDude
 DASH
 DATS
@@ -1472,6 +1475,7 @@ EU
 EucHD
 EuchHD
 euHD
+EUPHORiA
 EuReKA
 EUROPA
 EUSTASS
@@ -1705,6 +1709,7 @@ FUBUKI
 FUCT
 FUD
 FUDGiE
+FULCRUM
 FULLHD
 FULLMETAL
 FULLSIZE
@@ -2041,6 +2046,7 @@ HDMI
 HDMike
 HDmonSK
 HDOlimpo
+HDPhoenix
 HDPLANET
 HDQ
 HDReactor
@@ -2438,6 +2444,7 @@ justblthings-aarinfantasy
 JustHD
 JustSubs
 JustWatch
+JVC
 JYK
 JySzE
 JZ
@@ -2677,6 +2684,7 @@ leewee
 Leffe
 LEGEND
 LEGi0N
+LEGION
 LeON
 LeRalouf
 Lesnick
@@ -3205,6 +3213,7 @@ Nightspeed
 NiHiL
 nii-sama
 niizk
+nIk
 nik2306
 NikonXP
 nikt0
@@ -3234,6 +3243,7 @@ NnH
 NNM
 nnr
 No.TK.BKF
+No1
 NO1CARES
 NO1KNOWS
 NODLABS
@@ -3567,6 +3577,7 @@ POE
 PoF
 POH
 POKE
+POKER
 POKERUS
 POLAR
 POLARIS
@@ -3603,6 +3614,7 @@ PRIPPS
 prithwi
 PrivateHD
 PRiViLEGED
+prldm
 PrLund
 Procrastinating
 PROD
@@ -3635,6 +3647,7 @@ PSYPHER
 PTA
 PTBR
 PTer
+PTHD
 PTHome
 Pti
 PTMiR
@@ -4199,6 +4212,7 @@ SLikt
 SLiSU
 SLIVE
 SLM
+SLN
 SLO
 SLOMO
 SLOT
@@ -4638,6 +4652,7 @@ TRIAD
 TRiAL
 TRIBAL
 TRiMEDIA
+TRiNiTY
 Tripendicular
 TRiPS
 TRiToN
@@ -4691,6 +4706,7 @@ TURKiSO
 TURMOiL
 TUSAHD
 Tushar
+TUX
 TuZ
 Tv21
 TV2LAX9
@@ -4743,6 +4759,7 @@ UDC4ALL
 Uderzo
 UDF
 uffowich
+UFO971
 UFW
 UHDCL
 UHI
