@@ -445,7 +445,7 @@
 ^Video$
 ^VIDEO_TS$
 ^Videoer$
-^Videos$
+^Video.?s$
 ^Volume\D?\d+$
 ^Volumes$
 ^War$
