@@ -443,9 +443,9 @@
 ^various.files$
 ^VCD$
 ^Video$
+^Video.?s$
 ^VIDEO_TS$
 ^Videoer$
-^Video.?s$
 ^Volume\D?\d+$
 ^Volumes$
 ^War$
