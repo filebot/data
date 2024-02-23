@@ -18,6 +18,7 @@
 187HD
 1TiME
 1TV
+1YR1
 21TH
 26k
 2Brothers
@@ -145,6 +146,7 @@ ACCLAiM
 aceares
 ACED
 aceford
+ACEM
 ACF
 ACFS
 ACG
@@ -692,6 +694,7 @@ BRiGHT
 BRISK
 BRMP
 BRN
+BROADCAST
 BRSHNKV
 BRUiNS
 BRUTUS
@@ -1403,6 +1406,7 @@ ELEANOR
 Electri4ka
 ELECTRiC
 Electrichka
+ELEVATE
 ELiA
 ELiM
 ELiTE
@@ -2811,6 +2815,7 @@ M794
 MA
 MACHD
 MACHiNE
+MACK4
 macro
 madeec
 MadMan
@@ -3131,6 +3136,7 @@ napisyPL
 NaRB
 Narcolepsy
 Narkyy
+narsei
 Narutoverse
 NaSaMo
 NASSAU
@@ -3358,6 +3364,7 @@ Okashii-RyRo
 Okay-Subs
 oki
 OKTHXBYE
+OlaM
 old-tejo
 OLDDAWGS
 OldsMan
