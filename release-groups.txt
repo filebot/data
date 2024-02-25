@@ -2186,6 +2186,7 @@ HQD
 HqDTS
 HQE
 HQM
+HQMUX
 HQR
 HQX
 HR
@@ -4460,6 +4461,7 @@ T4H
 T6D
 T6R
 Ta@
+TABULARiA
 TACO
 Tadashi
 TAiCHi
@@ -5210,6 +5212,7 @@ Zomg-Killerhurtalot
 ZON3
 ZonaTorrent2
 Zorori-Project
+ZoroSenpai
 Zox
 ZQ
 ZR
