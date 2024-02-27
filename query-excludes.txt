@@ -101,6 +101,7 @@
 ^Cover$
 ^Crime$
 ^criterion$
+^current$
 ^Das$
 ^data$
 ^Deep$
@@ -310,8 +311,11 @@
 ^Radio$
 ^raid$
 ^rclone$
+^ready$
 ^Reality$
 ^Reality.Shows$
+^recent$
+^recents$
 ^Record$
 ^Recorded.TV$
 ^Recordings$
@@ -705,6 +709,7 @@ ReRip
 RESYNC
 RETAIL
 RiffTrax
+ripped.trailers
 RiPSalot
 RLS
 Romantikkomödie
