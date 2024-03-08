@@ -134,6 +134,7 @@
 ^Download.Movies$
 ^Downloaded$
 ^Downloaded.New$
+^Downloaded.Torrents$
 ^Downloading$
 ^Downloads$
 ^Downloads.Area$
