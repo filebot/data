@@ -2589,7 +2589,7 @@ koishi
 KOLE
 KolHD
 KOMPOST
-Kontrast
+KONTRAST
 KonzillaRG
 KooKoo
 KOR
