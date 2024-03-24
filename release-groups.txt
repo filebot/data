@@ -3572,6 +3572,7 @@ playSD
 playTV
 playWEB
 playXD
+PLB
 PLEADERS
 PLEW
 PLT
@@ -3727,6 +3728,7 @@ QUEENS
 Quetzal
 QUI
 quietE
+QUiNTESSENCE
 QXE
 QxR
 R&C
