@@ -264,6 +264,7 @@
 ^New.Unsorted$
 ^News$
 ^Newsleecher$
+^nice$
 ^Nye.Film$
 ^Nye.Serier$
 ^of$
@@ -271,6 +272,7 @@
 ^On.Deck$
 ^One$
 ^OneclickDownload$
+^only$
 ^Opnamen$
 ^Organize$
 ^other$
@@ -297,6 +299,7 @@
 ^post.process$
 ^pre.process$
 ^private$
+^pro$
 ^Procesar$
 ^Process$
 ^Processed$
@@ -377,6 +380,7 @@
 ^Sports$
 ^Spy$
 ^srv$
+^Stable$
 ^staging$
 ^standard$
 ^Star$
@@ -752,6 +756,7 @@ Sonarr
 SortingEpisodes
 sortmovie
 SPA
+SRip
 srtl
 SSRmovies.COM
 Stephen.Kings
