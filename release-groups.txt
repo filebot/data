@@ -4657,6 +4657,7 @@ Tormaid
 TorrentCouch
 TorrentCouch.com
 TorrentCounter
+TORRENTGALAXY
 TorrenTGui
 TorrentsGroup.Exclusive
 TosKMV
