@@ -4071,6 +4071,7 @@ SCY
 SD
 SD-Project
 SD_Taka
+SDB
 SDC
 SDGiRL
 SDH
@@ -4350,6 +4351,7 @@ SSF
 SSG
 SSK
 SSL
+ssMinnow
 SSN
 SSP-Corp
 SSRmovies
