@@ -3,6 +3,7 @@
 @midnight	at.midnight
 Battlestar Galactica	BSG
 Better Call Saul	BeCaSa|BeCaSau|BeCaSaul|BCallS|Be.Cll.Sl|btr.cs
+CSI: Crime Scene Investigation	CSI\P{Alnum}{1,3}[s]?\d{1,2}[ex]\d{2,4}
 Episodes	^Episodes\P{Alnum}{1,3}[s]?\d{1,2}[ex]\d{2,4}
 Extras	^Extras\P{Alnum}{1,3}[s]?\d{1,2}[ex]\d{2,4}
 Game of Thrones	tv.{0,2}got
