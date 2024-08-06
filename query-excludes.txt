@@ -182,6 +182,7 @@
 ^Games$
 ^Girls$
 ^good$
+^Google.Drive$
 ^Great$
 ^greece$
 ^GROUP$
@@ -251,6 +252,7 @@
 ^Multimedia$
 ^Music$
 ^Musique$
+^My.Drive$
 ^mynas$
 ^Mystery$
 ^NAS$
@@ -272,6 +274,7 @@
 ^On.Deck$
 ^One$
 ^OneclickDownload$
+^OneDrive$
 ^only$
 ^Opnamen$
 ^Organize$
