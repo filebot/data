@@ -31,7 +31,7 @@
 ^(?:19|20)\d0s.{0,3}(?:19|20)\d0s$
 ^(?:ABC|DEF|GHI|JKL|MNO|PQR|STU|VW|XYZ)$
 ^(?:alb|ara|arm|bul|caf|cat|ces|chi|cnt|cze|dan|deu|dut|ell|eng|fas|fin|fra|fre|ger|gre|heb|hin|hkg|hrv|hun|hye|ice|ind|isl|ita|jpn|kor|lav|lit|mac|may|mkd|msa|mxn|nld|nor|per|pob|pol|por|quc|ron|rum|rus|slk|slo|slv|spa|sqi|srp|swe|tha|tur|ukr|vie|zho|zht)$
-^(?:Completed|Downloads|Movies|Film|TV\b|FileBot|Temp\b|Ongoing).*$
+^(?:Completed|Downloads|Movies|Film|TV\b|FileBot|Temp\b|Ongoing|GoogleDrive).*$
 ^(?:smb-share|afp-volume|sftp|nfs)[:].*$
 ^.*(?:Downloads|Movies|Film|\bTV|FileBot|Temp|Transfers|Backup)$
 ^3D$
@@ -87,6 +87,7 @@
 ^Clean$
 ^cleaned$
 ^Cloud$
+^CloudStorage$
 ^Code$
 ^Comedy$
 ^Completadas$
