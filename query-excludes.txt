@@ -230,6 +230,7 @@
 ^made$
 ^Maid$
 ^main$
+^Make$
 ^manual$
 ^master$
 ^Master.Folder$
