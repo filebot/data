@@ -1,4 +1,4 @@
-(?-i:ONe|DECADE|TiTAN|WAR|eXterminator)
+(?-i:ONe|DECADE|TiTAN|WAR|eXterminator|WoLF)
 00d
 0Ac
 0MNiDVD
@@ -5048,7 +5048,6 @@ WMZ
 WNFN
 WodkaE
 woh
-WoLF
 WOLFPACK
 Wolky
 WOMBAT
