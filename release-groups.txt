@@ -3441,6 +3441,7 @@ OurBits
 OurSuperPilaEncode
 OurTV
 OUTBREAK
+OUTBURST
 OUTDATED
 OUTERSPACE
 OUTFiT
@@ -4048,6 +4049,7 @@ SaSK0
 sasukexx23
 SATANiC
 SATIVA
+SAUERKRAUT
 SAVANNAH
 SAViOUR
 SAViOURHD
@@ -4204,6 +4206,7 @@ SiSO
 SiTiN
 SiTV
 sIU
+SiXTYNiNE
 sizumeru-subs
 SJ
 SJCA
@@ -4432,6 +4435,7 @@ SUJAIDR
 SuKo
 SumVision
 sUN.sujaidr
+SunDry
 SunGeorge
 Sunny
 Sunshine.Studio
@@ -4885,6 +4889,7 @@ VCF
 VCORE
 VDE-Subs
 VDubs
+VECTOR
 VeDeTT
 VeGaN
 Vegapunk
@@ -5215,6 +5220,7 @@ ZER0
 ZeRO
 Zero-Raws
 ZeroEffort
+ZeroTwo
 ZEST
 ZetaRebel
 ZEUS
