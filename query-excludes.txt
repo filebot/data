@@ -658,6 +658,7 @@ Minisodes
 MkvCage
 mkvonly
 MoTv
+Movie.\d{1,3}
 Movie.Pack
 MovieObject
 moviestobeprocessed
@@ -765,6 +766,7 @@ SRip
 srtl
 SSRmovies.COM
 Stephen.Kings
+Studio.Ghibli
 stv
 Sub
 SUBBED
