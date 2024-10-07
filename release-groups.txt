@@ -83,6 +83,7 @@
 9.GiRL
 9FisH
 9RS
+9volt
 A-C
 A-Destiny
 A-E
@@ -3614,6 +3615,7 @@ POD
 PODO
 POE
 PoF
+Pog42
 POH
 POKE
 POKER
@@ -4825,6 +4827,7 @@ ULTiMATE
 UltimateHD
 UltraHD
 ULTRAHDCLUB
+UltraRemux
 umai
 umee
 UMF
