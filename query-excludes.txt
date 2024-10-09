@@ -392,6 +392,7 @@
 ^Star$
 ^stash$
 ^Storage$
+^Streaming$
 ^Studio$
 ^Stuff$
 ^sync$
