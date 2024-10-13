@@ -395,6 +395,7 @@ AS-S
 asaadas
 Asakura
 ASAP
+ASC
 ASCENDANCE
 Asenshi
 Asenshi-GJM
@@ -3055,6 +3056,7 @@ MoviesEvil
 MoviesMix
 MOViESTARS
 Moviezworldz
+Moxie
 MoyaiSubs
 Mp4Ba
 MPTDVD
