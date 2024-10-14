@@ -1,4 +1,4 @@
-(?-i:ONe|DECADE|TiTAN|WAR|eXterminator|WoLF)
+(?-i:ONe|LiFE|DECADE|TiTAN|WAR|eXterminator|WoLF)
 00d
 0Ac
 0MNiDVD
