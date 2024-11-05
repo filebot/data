@@ -1,4 +1,4 @@
-(?-i:WEB|SPECIAL|MULTi|MULTI|DUAL|PPV|STREAM|XXX+|lol)
+(?-i:WEB|SPECIAL|MULTi|MULTI|DUAL|VID|PPV|STREAM|XXX+|lol)
 (?:^\d{8,}(?=[ _.])|^\d{1,2}(?=[.][ _.])|^[\p{Alnum}\p{Punct}]{1,2}$|^[a-z0-9]{22,}$|^19\d{2}$|^20\d{2}$|^dev-disk-)
 (?:English|French|German|Spanish|Italian|Swedish|Malayalam)$
 (?:Season|Staffel|Série|Temporada|Folge).?\d+
