@@ -4398,6 +4398,7 @@ STARS
 StarWars
 STARZ
 StB
+STC
 Stealthmaster
 Steins;Sub
 Stelks
