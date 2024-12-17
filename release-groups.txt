@@ -2561,6 +2561,7 @@ KINeMA
 KINGDOM
 Kingmaker
 KiNGS
+KiNGSMAN
 KingStoner
 Kinomoto
 KiNOWELT
