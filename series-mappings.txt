@@ -1,4 +1,5 @@
 11/22/63	11.22.63
+227	^227\P{Alnum}{1,3}[s]?\d{1,2}[ex]\d{2,4}
 24	^24\P{Alnum}{1,3}[s]?\d{1,2}[ex]\d{2,4}
 @midnight	at.midnight
 Battlestar Galactica	BSG
