@@ -1065,6 +1065,7 @@ D3FiL3R
 d3g
 D3Si
 D4
+D4C
 d69a74
 D_Z0N3
 DA-C
@@ -1158,6 +1159,7 @@ Delicio.us
 DELiCiOUS
 DELOS
 DEMAND
+DemiHuman
 denpa
 DEPRAViTY
 DEPRiVED
@@ -1404,6 +1406,7 @@ eeye
 EFA
 EFF
 EFTERLYST
+EG
 EGEN
 EHLE
 ehMD
@@ -1660,6 +1663,7 @@ FoA
 FoAC
 fobgrill
 FOCUS
+fong
 FooKas
 FOOTBALL
 FORCE
@@ -2388,6 +2392,7 @@ IwIwA
 iwok
 IY
 IY-A_Excal
+Iznjie.Biznjie
 Iznogoud9
 J4F
 jackie
@@ -2462,6 +2467,7 @@ jth
 jTV
 Judas
 JUDGEMENT
+Judgment
 judochop
 Juggalotus
 JUGGS
@@ -2601,6 +2607,7 @@ KnKF-Doremi
 KNOC
 KNP
 KnU-FS
+koala
 koalf
 KOC
 KoD
@@ -3592,6 +3599,7 @@ Pitufo180
 PiX
 PixelHD
 PIXiEDUST
+PiZZA
 PiZZAHUT
 PKF
 PL
