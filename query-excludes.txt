@@ -80,6 +80,7 @@
 ^Buffer$
 ^Cartoni.Animati$
 ^Cartoon$
+^Cartoons$
 ^cine$
 ^Cinema$
 ^Classic$
