@@ -345,6 +345,7 @@ AnY
 AnY_ShiFa
 aO
 aO.PM
+AOC
 AOE
 Aoi_Crossfade
 Aoi_Wasurenai
@@ -2174,6 +2175,7 @@ HNR
 HNRDVD
 HnY
 HoangMai
+HODL
 HoH
 HOLDEM
 HOLiDAY
