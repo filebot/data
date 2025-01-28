@@ -933,6 +933,7 @@ Codres
 COiNCiDENCE
 COLB
 coldhell
+COLLECTiVE
 COMANDOTORRENTS
 COMEDY
 Commie
@@ -3050,6 +3051,7 @@ Moozzi2
 Morai
 MOREBiTS
 MoreHD
+MoreTV
 Mori
 MORiCH
 MORiTZ
@@ -3825,6 +3827,7 @@ RAWKiNS
 RAWR
 Raws-Maji
 RaX
+RAYBLU
 RAZE
 RazEn
 RazHD
