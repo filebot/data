@@ -1,4 +1,4 @@
-(?-i:iNTERNAL|ONe|LiFE|DECADE|TiTAN|WAR|eXterminator|WoLF|JACKAL)
+(?-i:iNTERNAL|ONe|LiFE|DECADE|TiTAN|WAR|eXterminator|WoLF|JACKAL|MARS|REiGN)
 00d
 0Ac
 0MNiDVD
@@ -2892,7 +2892,6 @@ Marhaba
 MARiNES
 marioBombo
 MarkerB
-MARS
 martic
 MARTYRS
 Maruchan
@@ -3878,7 +3877,6 @@ REFRACTiON
 RegeLRechT
 REGEXP
 REGRET
-REiGN
 ReinForce
 REiSERADiO
 REKoDE
