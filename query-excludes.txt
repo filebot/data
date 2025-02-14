@@ -130,6 +130,7 @@
 ^Doc$
 ^Documentaries$
 ^Documentary$
+^Documentary.Films$
 ^Documents$
 ^Dog$
 ^Done$
