@@ -557,6 +557,7 @@ docu
 Dokumentarfilm
 Downloadhub
 DownloadingFolder
+DownloadsComplete
 DownRev
 dreambox.cut
 DSKI
