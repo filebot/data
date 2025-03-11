@@ -922,6 +922,7 @@ cNLDVDR
 CnSCG
 CnT
 cntc
+CNY
 CoalGG
 Coalgirls
 CoalGuys
@@ -2560,6 +2561,7 @@ khoshmard
 KHP
 KHPP
 kHzViD
+KI-AI
 KickFoot
 KICKOFF
 KiD
@@ -3726,6 +3728,7 @@ pTT
 PTTeam
 PublicHD
 PUDDING
+Pudding-sama
 PUFO
 PUKKA
 PUNCH
@@ -4317,6 +4320,7 @@ SNCo
 SNEAK
 SNEAkY
 SnF
+snk
 Sno
 SNOW
 SnowDoN
