@@ -3222,6 +3222,7 @@ NEMO
 neo1024
 neoDESU
 neoHEVC
+NeoNoir
 Nep_Blanc
 NEPTUNE
 NERDHD
