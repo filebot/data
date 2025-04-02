@@ -27,6 +27,7 @@
 \d{8,}.\d{4,}
 \p{XDigit}{32,}
 \p{XDigit}{8}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{12}
+^(?-i:Film[A-Z]).*$
 ^(?:19|20)\d0s$
 ^(?:19|20)\d0s.{0,3}(?:19|20)\d0s$
 ^(?:ABC|DEF|GHI|JKL|MNO|PQR|STU|VW|XYZ)$
