@@ -771,6 +771,7 @@ SRip
 srtl
 SSRmovies.COM
 Stephen.Kings
+StreamFab
 Studio.Ghibli
 stv
 Sub
