@@ -1872,6 +1872,7 @@ Glenn
 GLF
 GLHF
 glm8892
+Gloft
 GlowGaze
 GlowGaze.Com
 GLUE
