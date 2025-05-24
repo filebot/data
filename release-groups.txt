@@ -3093,6 +3093,7 @@ Mr. KickASS
 MRC
 MRCS
 MrGrey
+MrHulk
 MrLore
 MRM
 MRN
