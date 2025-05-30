@@ -375,6 +375,7 @@
 ^Shorts$
 ^show$
 ^shows$
+^Snapshots$
 ^Soaps$
 ^Sonarr$
 ^SonarrDrone$
@@ -761,7 +762,6 @@ ShortKut
 Shorts
 sixx
 Sky.Cinema.HD
-Snapshots
 sof
 Sonarr
 SortingEpisodes
