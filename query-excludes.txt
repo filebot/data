@@ -727,7 +727,6 @@ REPACK
 ReRip
 RESYNC
 RETAIL
-RiffTrax
 ripped.trailers
 RiPSalot
 RLS
