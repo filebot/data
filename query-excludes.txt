@@ -589,6 +589,7 @@ FileMe
 Final.Cut
 Finished.DLs
 FIXED
+flexdisk
 Fra
 FRE
 FS
