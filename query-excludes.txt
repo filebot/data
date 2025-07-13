@@ -37,6 +37,7 @@
 ^.*(?:Downloads|Movies|Film|\bTV|FileBot|Temp|Transfers|Backup)$
 ^3D$
 ^[\-_+=!@]+\w+[\-_+=!@]*$
+^[A-Z]{1,2}$
 ^\d+.disk$
 ^\d+disk$
 ^\d.-.Complete$
@@ -46,7 +47,6 @@
 ^\d{6,8}.\d{6,8}$
 ^\w+(?:Renamed|Unfinished|Server)$
 ^\w\p{Punct}+$
-^\w{1,2}$
 ^\w{6}~\w$
 ^ACD$
 ^Acquisitions$
