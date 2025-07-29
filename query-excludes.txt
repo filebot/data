@@ -251,6 +251,7 @@
 ^Motor$
 ^Motorsport$
 ^Motorsports$
+^MOV$
 ^moved$
 ^Movie$
 ^Movie.\w+$
