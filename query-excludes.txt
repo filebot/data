@@ -177,6 +177,7 @@
 ^Films$
 ^Final$
 ^Finished$
+^finito$
 ^FIX$
 ^folder$
 ^freebox$
