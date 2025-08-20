@@ -87,7 +87,7 @@
 ^Classic$
 ^Classics$
 ^Clean$
-^cleaned$
+^CLEANED$
 ^Cloud$
 ^CloudStorage$
 ^Code$
@@ -301,11 +301,13 @@
 ^plain$
 ^Plex$
 ^Plex.Approved$
+^PLEX.CLEANED$
 ^Plex.Cloud$
 ^Plex.Cloud.Crypted$
 ^Plex.Film$
 ^Plex.Media$
 ^Plex.Media.Server$
+^PLEX.RENAMED$
 ^Plex.Workshop$
 ^Plexserv$
 ^post.process$
@@ -340,6 +342,7 @@
 ^Remux$
 ^Remuxed$
 ^rename$
+^RENAMED$
 ^Reseed$
 ^resilio$
 ^Review$
