@@ -18,8 +18,8 @@
 720.60
 7p
 @KIDZ
-\d(Audio|CD|CDRip)
-\d+(of|.of.|.track.)\d+
+\d(?:Audio|CD|CDRip)
+\d+(?:of|.of.|.track.)\d+
 \d+.disk
 \d+[.,]\d+GB
 \d{2,4}.\d{2}.\d{2}.\d{2}.\d{2}
@@ -27,6 +27,7 @@
 \d{8,}.\d{4,}
 \p{XDigit}{32,}
 \p{XDigit}{8}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{4}-\p{XDigit}{12}
+\w(?:tmp)
 ^(?-i:Film[A-Z]).*$
 ^(?:19|20)\d0s$
 ^(?:19|20)\d0s.{0,3}(?:19|20)\d0s$
