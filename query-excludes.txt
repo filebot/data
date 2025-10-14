@@ -314,6 +314,7 @@
 ^PLEX.RENAMED$
 ^Plex.Workshop$
 ^Plexserv$
+^plexvolume$
 ^post.process$
 ^pre.process$
 ^private$
