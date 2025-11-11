@@ -433,6 +433,7 @@
 ^testRename$
 ^The$
 ^The.Best$
+^The.Complete.Series$
 ^The.TV.Series$
 ^Thriller$
 ^tmp$
