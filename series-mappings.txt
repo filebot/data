@@ -17,6 +17,7 @@ Person of Interest	tv.{0,2}poi|poid
 Sex/Life	Sex.and.Life.2021
 Sons of Anarchy	tv.{0,2}soa
 Suits	SuiG7p
+The 100	^The.100\P{Alnum}{1,3}[s]?\d{1,2}[ex]\d{2,4}
 The Late Show with Stephen Colbert	^Stephen.Colbert\P{Alnum}{1,3}\d{4}\D\d{2}\D\d{2}
 Underemployed	UndG7p
 Upload	^Upload\P{Alnum}{1,3}[s]?\d{1,2}[ex]\d{2,4}
