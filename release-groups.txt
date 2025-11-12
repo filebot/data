@@ -143,6 +143,7 @@ ABYSS
 AC
 AC-Subs
 AC3HD
+ACA30
 ACAB
 ACCLAiM
 aceares
@@ -184,6 +185,7 @@ AEN
 AERiAL
 AERO
 AEROHOLiCS
+AESop
 aF
 AF-F
 aFever
@@ -249,6 +251,7 @@ ALiEN
 ALiGN
 aljasPOD
 ALKE
+ALLEYESONME
 ALLiANCE
 ALLZINE
 ALMIGHTY
@@ -720,6 +723,7 @@ BT4K
 BTCHKEK
 btfHD
 BTGM
+BTM
 BTN
 BTSD
 BTSFilms
@@ -1071,6 +1075,7 @@ D2V
 D3FiL3R
 d3g
 D3Si
+D3US
 D4
 D4C
 d69a74
@@ -1308,6 +1313,7 @@ DPiMP
 dPY
 Dr.STAR
 Dr3adLoX
+Dr460Ns
 DRABBiTS
 DRACULA
 Dragon-Releases
@@ -2270,6 +2276,7 @@ ICE
 IceCracked
 iCEHD
 iCilleZ
+iCMAL
 icn
 iCO
 iCV-MIRCrew
@@ -2507,6 +2514,7 @@ k4n0
 k7
 kA-Oz
 KAA
+KAE
 KAFFEREP
 KAGA
 KaiDubs
@@ -2947,6 +2955,7 @@ MEAZONE
 med
 MeDDlER
 MEDDY
+MediaHoarderz
 MEDiAMANiACS
 MEDiEVAL
 MEDIUS
@@ -2980,11 +2989,13 @@ MG
 MgB
 MGDP
 MGE
+MGHW
 MGK
 MGMatriX
 MGS
 mHD
 MHQ
+MiDWEEK
 MiGHTY
 MightyM
 miHD
@@ -3149,6 +3160,7 @@ MVN
 MVP
 MVS
 MW
+MWeb
 MWF
 MWND
 MWS
@@ -3506,6 +3518,7 @@ OZC
 OZC-EZ8
 ozi.works
 Ozlem
+OzONE
 OZR
 OzZY1
 p-a
@@ -3608,6 +3621,7 @@ PiNG
 PiNKPANTERS
 PIONEER
 PiPicK
+PiRAMiDHEAD
 pirata00
 PirateMKV
 PiRaTeS
@@ -4072,6 +4086,7 @@ SADPANDA
 SAFETY
 SAGE
 SAiMORNY
+SAiNT
 SaintDeath
 SAiNTS
 Saitei
@@ -4386,6 +4401,7 @@ SpeedStar
 SPHD
 Sphinctone1
 SPiCY
+SPIDEY
 SPINNA
 SPiRiT
 SPiRO
@@ -4426,6 +4442,7 @@ ST
 St-s
 St3R
 STAGEMAN
+STAR
 STARGAZE
 STARLIGHT
 StarLord
@@ -4450,6 +4467,7 @@ STiNX
 Stitch_Encodes
 STOCK
 stoffinho17
+STORiES
 STORM
 STP
 Strafe
@@ -4458,6 +4476,7 @@ STRATOS
 Strawhat
 streetwars
 STRiFE
+STRiKES
 STRONG
 STRONTiUM
 STUTTERSHIT
@@ -4488,7 +4507,7 @@ SUBSTANCE
 SUBTiTLES
 Subtox
 SUBZERO
-successfulcrab
+SuccessfulCrab
 SUiCiDAL
 SUJAIDR
 SuKo
@@ -4524,6 +4543,7 @@ SWOLLED
 SWTYBLZ
 sxales
 SxHD
+SYLiX
 SymBiOTes
 SYNCOPY
 Syncr0ndi
@@ -4849,6 +4869,7 @@ TX
 TXB
 TxN
 TYR0
+TYRELL
 u1
 UAV
 UBiK
@@ -4949,6 +4970,7 @@ VCB-Studio
 VCDVaULT
 VCF
 VCORE
+VD0N
 VDE-Subs
 VDubs
 VECTOR
@@ -4986,6 +5008,7 @@ VietHD-Dekinai
 ViGi
 ViKAT
 ViLD
+ViLLAiNS
 ViLLiANS
 ViNYL
 ViP3R
@@ -5039,6 +5062,7 @@ W32
 w33b
 W4F
 W4K
+W4N70Ks
 W4NK3R
 WaCkOs
 WADU
