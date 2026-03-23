@@ -36,7 +36,7 @@
 ^(?:Completed|Downloads|Movies|TV\b|FileBot|Temp\b|Ongoing|GoogleDrive|to.be.archived).*$
 ^(?:smb-share|afp-volume|sftp|nfs)[:].*$
 ^.*(?-i:CLEANED|RENAMED)$
-^.*(?:Downloads|Movies|Film|\bTV|FileBot|Temp|Transfers|Backup)$
+^.*(?:Downloads|Film|\bTV|FileBot|Temp|Transfers|Backup)$
 ^3D$
 ^[\-_+=!@]+\w+[\-_+=!@]*$
 ^[A-Z]{1,2}$
