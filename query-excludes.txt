@@ -335,6 +335,7 @@
 ^RadarrRecyclingBin$
 ^Radio$
 ^raid$
+^raw$
 ^rclone$
 ^ready$
 ^Reality$
