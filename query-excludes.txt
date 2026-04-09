@@ -124,6 +124,8 @@
 ^dev$
 ^Die$
 ^Director.s.Cut$
+^Disc.\d+$
+^Disc\d+$
 ^Disco\d+$
 ^disk.\d+$
 ^disk\d+$
