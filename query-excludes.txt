@@ -440,6 +440,7 @@
 ^The.Complete.Series$
 ^The.TV.Series$
 ^Thriller$
+^title$
 ^tmp$
 ^to$
 ^ToMove$
