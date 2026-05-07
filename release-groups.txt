@@ -584,6 +584,7 @@ BestHD
 BET
 BetaDoctor
 BETAMAX
+BETTY
 BeyondHD
 BF1
 BFF
@@ -5206,6 +5207,7 @@ XHD
 XiA
 Xibirikinho
 XII
+XiX
 XLF
 XM4F
 XMC
