@@ -3525,6 +3525,7 @@ Oxlem
 OYHD
 OZC
 OZC-EZ8
+OZEF
 ozi.works
 Ozlem
 OzONE
@@ -3698,6 +3699,7 @@ PosTX
 PoT
 PotentPortables
 PoTuS
+POWER
 PP
 PPb
 ppkhoa
@@ -4925,6 +4927,7 @@ UNiT
 UNiTaiL
 UNiTY
 UNiVERSUM
+UnKn0wn
 UNKOWN
 unroC
 UNSKiLLED
