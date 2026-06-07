@@ -838,6 +838,7 @@ CFE
 cfh
 CFS
 CH-S
+ChadMSI
 CHAI
 CHAKRA
 Chamele0n
