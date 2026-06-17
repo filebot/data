@@ -260,6 +260,7 @@ ALTEREGO
 AltHD
 AMALGAM
 AmasyHD
+AmateurSubs
 AMBASSADOR
 AMBER
 AMBIT
@@ -2136,6 +2137,7 @@ HENRETTELSE
 Henshin
 Hentai-Legacy
 HentaiHeaven
+HentaiHub
 Herakler
 HEroAP
 HETeam
@@ -4756,6 +4758,7 @@ tonic
 Tonum1
 Tonyk
 Tooncore
+ToonsHub
 TOP
 TOPAZ
 TOPCAT
