@@ -398,6 +398,7 @@ AROMA
 ARR
 ARROW
 ARTHOUSE
+ARTiCUN0
 ArtSubs
 Arucard
 Arukoru
@@ -1327,6 +1328,7 @@ DonJuan
 DONNA
 DoNOLi
 DONUTS
+Dooky
 DopeHD
 DoR2
 DOREMI
@@ -2155,6 +2157,7 @@ HDW
 HDWinG
 HDX
 HDxT
+Headpatter
 HEAT
 HEATHEN
 HeavyWeight
@@ -3913,6 +3916,7 @@ Rakuv01
 RaMDaY
 RAMSEiS
 RANDi
+RandomBytes
 Ranvijay
 Raoul
 RAP
@@ -5235,6 +5239,7 @@ WiRA
 WiRd0
 WiRE
 WiSHTV
+WiTCHCRAFT
 WKS
 WLF
 WLM
