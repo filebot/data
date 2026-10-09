@@ -861,7 +861,7 @@ WinxVideos
 withsubs
 working.directory
 WS
-www[.][\p{Alnum}\p{Punct}]+?[.][a-z]{2,6}
+www[.][\p{Alnum}\p{Punct}]+?[.][a-z]{2,8}
 x0r
 xbmc
 XORBiTANT
